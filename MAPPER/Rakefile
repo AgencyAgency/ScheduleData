@@ -1,0 +1,95 @@
+require 'rubygems'
+require 'bundler/setup'
+require 'sqlite3'
+
+require 'data_mapper' # requires all the gems listed above
+
+LOG_DIRECTORY = "log"
+DATA_DIRECTORY = "data"
+DB_DIRECTORY = "db"
+DB_PATH = "#{DB_DIRECTORY}/hacked_schedule.sqlite"
+DB_CONN_STR = "sqlite://#{Dir.pwd}/#{DB_PATH}"
+RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
+
+directory LOG_DIRECTORY
+directory DB_DIRECTORY
+
+# DATA MAPPER
+# If you want the logs displayed you have to do this before the call to setup
+# DataMapper::Logger.new($stdout, :debug)
+DataMapper::Logger.new("#{LOG_DIRECTORY}/data_mapper.log", :debug)
+DataMapper::Model.raise_on_save_failure = true
+
+DataMapper.setup(:default, DB_CONN_STR)
+
+class Schedule
+  include DataMapper::Resource
+
+  property :id, Serial
+  property :day, Date
+  property :cycle, Integer
+  property :title, String
+end
+
+task :parse do
+  h = hash_schedule
+  p h
+end
+
+def parse_schedule
+  options = { col_sep: "\t",
+              quote_char: "~" }
+  parsed_file = CSV.read(RAW_SCHEDULE, options)
+  parsed_file.each_with_index do |line, i|
+    if block_given?
+      stop = yield(line, i)
+    end
+    break if stop
+  end 
+end
+
+def hash_schedule
+  schedule = []
+  options = { headers: true, 
+              header_converters: :symbol,
+              converters: :all,
+              col_sep: "\t",
+              quote_char: "~"
+            }
+  CSV.foreach(RAW_SCHEDULE, options) do |row|
+    schedule << Hash[row.headers[0..-1].zip(row.fields[0..-1])]
+  end
+  return schedule
+end
+
+["school_year",
+ "on_year_glance_calendar",
+ "on_faculty_calendar",
+ "on_weekly_bulletin",
+ "type",
+ "cycle",
+ "start_date",
+ "end_date",
+ "start_time",
+ "end_time",
+ "google_title",
+ "title",
+ "location",
+ "iolani_team",
+ "is_home_game",
+ "iolani_opponent",
+ "trainers",
+ "non_iolani_team_a",
+ "non_iolani_team_b",
+ "notes",
+ "lunch_type_a",
+ "lunch_type_b"]
+
+
+["2013-2014", "FALSE", "TRUE", "TRUE", "Cycle", "1", "8/26/2013", " ", nil, " ", "(Cycle 1)", "Cycle 1            ", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
+["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/26/2013", " ", nil, " ", "Special Convocation Schedule", "Special Convocation Schedule", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
+["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/27/2013", " ", nil, " ", "\"Extended 1 Schedule (1,3,5,7)\"", "\"Extended 1 Schedule (1,3,5,7)\"", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
+["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/28/2013", " ", nil, " ", "\"Extended 1 Schedule (2,4,6,8)\"", "\"Extended 1 Schedule (2,4,6,8)\"", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
+["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/29/2013", " ", nil, " ", "Basic Schedule", "Basic Schedule", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
+["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/30/2013", " ", nil, " ", "Basic Schedule", "Basic Schedule", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
+
