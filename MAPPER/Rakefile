@@ -1,36 +1,12 @@
 require 'rubygems'
 require 'bundler/setup'
-require 'sqlite3'
-
-require 'data_mapper' # requires all the gems listed above
 require_relative 'parse'
 
-LOG_DIRECTORY = "log"
 DATA_DIRECTORY = "data"
-DB_DIRECTORY = "db"
-DB_PATH = "#{DB_DIRECTORY}/hacked_schedule.sqlite"
-DB_CONN_STR = "sqlite://#{Dir.pwd}/#{DB_PATH}"
 RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
 
-# directory LOG_DIRECTORY
-# directory DB_DIRECTORY
-
-# DATA MAPPER
-# If you want the logs displayed you have to do this before the call to setup
-# DataMapper::Logger.new($stdout, :debug)
-DataMapper::Logger.new("#{LOG_DIRECTORY}/data_mapper.log", :debug)
-DataMapper::Model.raise_on_save_failure = true
-
-DataMapper.setup(:default, DB_CONN_STR)
-
-class Schedule
-  include DataMapper::Resource
-
-  property :id, Serial
-  property :day, Date
-  property :cycle, Integer
-  property :title, String
-end
+directory LOG_DIRECTORY
+directory DB_DIRECTORY
 
 task :parse do
   h = hash_schedule RAW_SCHEDULE
