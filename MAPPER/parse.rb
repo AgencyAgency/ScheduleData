@@ -2,7 +2,7 @@ require 'csv'
 require 'sqlite3'
 require 'data_mapper' # requires all the gems listed above
 
-unless LOG_DIRECTORY
+unless defined?(LOG_DIRECTORY)
   LOG_DIRECTORY = "log"
   DB_DIRECTORY = "db"
   DB_PATH = "#{DB_DIRECTORY}/hacked_schedule.sqlite"
@@ -26,18 +26,6 @@ class Schedule
   property :title, String
 end
 DataMapper.auto_upgrade!
-
-def parse_schedule raw_schedule
-  options = { col_sep: "\t",
-              quote_char: "~" }
-  parsed_file = CSV.read(raw_schedule, options)
-  parsed_file.each_with_index do |line, i|
-    if block_given?
-      stop = yield(line, i)
-    end
-    break if stop
-  end 
-end
 
 def hash_schedule raw_schedule
   all = []
