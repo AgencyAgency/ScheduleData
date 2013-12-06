@@ -25,6 +25,46 @@ class Schedule
   property :cycle, Integer
   property :title, String
 end
+
+class Bell
+  include DataMapper::Resource
+
+  property :id, Serial
+  property :name, String
+
+  has n, :cycles, :through => Resource
+end
+
+class Cycle
+  include DataMapper::Resource
+
+  property :id, Serial
+  property :name, Integer
+
+  has n, :bells, :through => Resource
+end
+
+class BellCycle
+  include DataMapper::Resource
+
+  property :id, Serial
+  
+  belongs_to :bell, :key => true
+  belongs_to :cycle, :key => true
+
+  has n, :timings
+end
+
+class Timing
+  include DataMapper::Resource
+
+  property :id, Serial
+  property :start_time, Time
+  property :end_time, Time
+  property :period, String
+
+  belongs_to :bellcycle
+end
 DataMapper.auto_upgrade!
 
 def hash_schedule raw_schedule
