@@ -7,4 +7,4 @@ options = { col_sep: "\t",
 parsed_file = CSV.read(DATA_FILE, options)
 parsed_file.each do |line|
   p line
-end 
+end

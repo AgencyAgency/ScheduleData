@@ -3,6 +3,7 @@ require 'bundler/setup'
 require 'sqlite3'
 
 require 'data_mapper' # requires all the gems listed above
+require_relative 'parse'
 
 LOG_DIRECTORY = "log"
 DATA_DIRECTORY = "data"
@@ -11,8 +12,8 @@ DB_PATH = "#{DB_DIRECTORY}/hacked_schedule.sqlite"
 DB_CONN_STR = "sqlite://#{Dir.pwd}/#{DB_PATH}"
 RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
 
-directory LOG_DIRECTORY
-directory DB_DIRECTORY
+# directory LOG_DIRECTORY
+# directory DB_DIRECTORY
 
 # DATA MAPPER
 # If you want the logs displayed you have to do this before the call to setup
@@ -32,34 +33,9 @@ class Schedule
 end
 
 task :parse do
-  h = hash_schedule
-  p h
-end
-
-def parse_schedule
-  options = { col_sep: "\t",
-              quote_char: "~" }
-  parsed_file = CSV.read(RAW_SCHEDULE, options)
-  parsed_file.each_with_index do |line, i|
-    if block_given?
-      stop = yield(line, i)
-    end
-    break if stop
-  end 
-end
-
-def hash_schedule
-  schedule = []
-  options = { headers: true, 
-              header_converters: :symbol,
-              converters: :all,
-              col_sep: "\t",
-              quote_char: "~"
-            }
-  CSV.foreach(RAW_SCHEDULE, options) do |row|
-    schedule << Hash[row.headers[0..-1].zip(row.fields[0..-1])]
-  end
-  return schedule
+  h = hash_schedule RAW_SCHEDULE
+  f = h.first
+  p f
 end
 
 ["school_year",

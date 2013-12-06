@@ -1,0 +1,27 @@
+module Parse
+  def parse_schedule
+    options = { col_sep: "\t",
+                quote_char: "~" }
+    parsed_file = CSV.read(RAW_SCHEDULE, options)
+    parsed_file.each_with_index do |line, i|
+      if block_given?
+        stop = yield(line, i)
+      end
+      break if stop
+    end 
+  end
+
+  def hash_schedule
+    schedule = []
+    options = { headers: true, 
+                header_converters: :symbol,
+                converters: :all,
+                col_sep: "\t",
+                quote_char: "~"
+              }
+    CSV.foreach(RAW_SCHEDULE, options) do |row|
+      schedule << Hash[row.headers[0..-1].zip(row.fields[0..-1])]
+    end
+    return schedule
+  end
+end
