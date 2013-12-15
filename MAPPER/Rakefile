@@ -14,6 +14,15 @@ task :parse do
   p f
 end
 
+task :load do
+  h = hash_schedule RAW_SCHEDULE
+  load_bell_schedules_from h
+end
+
+task :output_json do
+  write_schedule_to_json
+end
+
 ["school_year",
  "on_year_glance_calendar",
  "on_faculty_calendar",

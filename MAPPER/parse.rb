@@ -1,4 +1,5 @@
 require 'csv'
+require 'json'
 require 'sqlite3'
 require 'data_mapper' # requires all the gems listed above
 
@@ -26,45 +27,6 @@ class Schedule
   property :title, String
 end
 
-class Bell
-  include DataMapper::Resource
-
-  property :id, Serial
-  property :name, String
-
-  has n, :cycles, :through => Resource
-end
-
-class Cycle
-  include DataMapper::Resource
-
-  property :id, Serial
-  property :name, Integer
-
-  has n, :bells, :through => Resource
-end
-
-class BellCycle
-  include DataMapper::Resource
-
-  property :id, Serial
-  
-  belongs_to :bell, :key => true
-  belongs_to :cycle, :key => true
-
-  has n, :timings
-end
-
-class Timing
-  include DataMapper::Resource
-
-  property :id, Serial
-  property :start_time, Time
-  property :end_time, Time
-  property :period, String
-
-  belongs_to :bellcycle
-end
 DataMapper.auto_upgrade!
 
 def hash_schedule raw_schedule
@@ -85,7 +47,29 @@ def load_schedule_from hashed_day
 
   start_date = h[:start_date]
   date = Date.strptime start_date, "%m/%d/%Y"
+  
+  # Clean title of strange characters (presumably from Windows export):
   title = h[:title].strip.gsub(/[^a-zA-Z0-9 ]/, "")
+
+  chapel_title       = "Chapel Schedule"
+  assembly1_title    = "Assembly 1 Schedule"
+  assembly3_title    = "Assembly 3 Schedule"
+  special_fair_title = "Special Fair Day Schedule"
+  case 
+  when /Chapel.+Schedule/ =~ title
+    title = chapel_title
+
+  when /Assembly +1 Schedule/ =~ title
+    title = assembly1_title
+
+  when /#{assembly3_title}/ =~ title
+    title = assembly3_title
+
+  when /Special Fair Day +Schedule/ =~ title
+    title = special_fair_title
+    
+  end
+
   schedule = Schedule.new( day: date,
                 cycle: h[:cycle].to_i,
                 title: title)
@@ -102,5 +86,11 @@ def load_bell_schedules_from hashed_schedule
   bells = bell_schedules_from hashed_schedule
   bells.each do |day|
     load_schedule_from day
+  end
+end
+
+def write_schedule_to_json
+  File.open("data/schedule.json","w") do |f|
+    f.write(Schedule.all.to_json)
   end
 end
