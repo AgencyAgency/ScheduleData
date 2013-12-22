@@ -22,35 +22,3 @@ end
 task :output_json do
   write_schedule_to_json
 end
-
-["school_year",
- "on_year_glance_calendar",
- "on_faculty_calendar",
- "on_weekly_bulletin",
- "type",
- "cycle",
- "start_date",
- "end_date",
- "start_time",
- "end_time",
- "google_title",
- "title",
- "location",
- "iolani_team",
- "is_home_game",
- "iolani_opponent",
- "trainers",
- "non_iolani_team_a",
- "non_iolani_team_b",
- "notes",
- "lunch_type_a",
- "lunch_type_b"]
-
-
-["2013-2014", "FALSE", "TRUE", "TRUE", "Cycle", "1", "8/26/2013", " ", nil, " ", "(Cycle 1)", "Cycle 1            ", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
-["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/26/2013", " ", nil, " ", "Special Convocation Schedule", "Special Convocation Schedule", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
-["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/27/2013", " ", nil, " ", "\"Extended 1 Schedule (1,3,5,7)\"", "\"Extended 1 Schedule (1,3,5,7)\"", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
-["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/28/2013", " ", nil, " ", "\"Extended 1 Schedule (2,4,6,8)\"", "\"Extended 1 Schedule (2,4,6,8)\"", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
-["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/29/2013", " ", nil, " ", "Basic Schedule", "Basic Schedule", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
-["2013-2014", "FALSE", "TRUE", "TRUE", "Schedule|Upper School|Faculty", "1", "8/30/2013", " ", nil, " ", "Basic Schedule", "Basic Schedule", nil, nil, nil, nil, nil, nil, nil, nil, nil, nil]
-

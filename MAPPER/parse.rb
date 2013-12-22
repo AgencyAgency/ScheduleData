@@ -11,11 +11,9 @@ unless defined?(LOG_DIRECTORY)
 end
 
 # DATA MAPPER
-# If you want the logs displayed you have to do this before the call to setup
 # DataMapper::Logger.new($stdout, :debug)
 DataMapper::Logger.new("#{LOG_DIRECTORY}/data_mapper.log", :debug)
 DataMapper::Model.raise_on_save_failure = true
-
 DataMapper.setup(:default, DB_CONN_STR)
 
 class Schedule
@@ -26,7 +24,6 @@ class Schedule
   property :cycle, Integer
   property :title, String
 end
-
 DataMapper.auto_upgrade!
 
 def hash_schedule raw_schedule
@@ -40,6 +37,16 @@ def hash_schedule raw_schedule
     all << Hash[row.headers[0..-1].zip(row.fields[0..-1])]
   end
   return all
+end
+
+def detect_errors_in hashed_bells
+  days = {}
+  hashed_bells.each do |d|
+    day = d[:start_date]
+    val = "bell:#{d[:title]}, cycle:#{d[:cycle]}"
+    puts "WARNING: Duplicate date! #{day} -- #{val}" if days[day]
+    days[day] = val
+  end
 end
 
 def load_schedule_from hashed_day
@@ -58,16 +65,12 @@ def load_schedule_from hashed_day
   case 
   when /Chapel.+Schedule/ =~ title
     title = chapel_title
-
   when /Assembly +1 Schedule/ =~ title
     title = assembly1_title
-
   when /#{assembly3_title}/ =~ title
     title = assembly3_title
-
   when /Special Fair Day +Schedule/ =~ title
     title = special_fair_title
-    
   end
 
   schedule = Schedule.new( day: date,
@@ -84,6 +87,7 @@ end
 
 def load_bell_schedules_from hashed_schedule
   bells = bell_schedules_from hashed_schedule
+  detect_errors_in bells
   bells.each do |day|
     load_schedule_from day
   end
