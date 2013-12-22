@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'bundler/setup'
-require_relative 'parse'
+require_relative 'parse_schedule'
 
 DATA_DIRECTORY = "data"
 RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
@@ -8,17 +8,24 @@ RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
 directory LOG_DIRECTORY
 directory DB_DIRECTORY
 
-task :parse do
-  h = hash_schedule RAW_SCHEDULE
-  f = h.first
-  p f
-end
+namespace :schedule do
 
-task :load do
-  h = hash_schedule RAW_SCHEDULE
-  load_bell_schedules_from h
-end
+  desc "For debug, parse raw schedule schedule data."
+  task :parse do
+    h = hash_schedule RAW_SCHEDULE
+    f = h.first
+    p f
+  end
 
-task :output_json do
-  write_schedule_to_json
+  desc "Clean and load raw schedule data into database."
+  task :load do
+    h = hash_schedule RAW_SCHEDULE
+    load_bell_schedules_from h
+  end
+
+  desc "Export schedule database to JSON file."
+  task :output_json do
+    write_schedule_to_json
+  end
+
 end
