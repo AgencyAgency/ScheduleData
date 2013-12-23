@@ -1,16 +1,18 @@
 require 'rubygems'
 require 'bundler/setup'
 require_relative 'parse_schedule'
+require_relative 'parse_teachers'
 
 DATA_DIRECTORY = "data"
 RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
+RAW_TEACHERS = "#{DATA_DIRECTORY}/export_faculty_schedules.csv"
 
 directory LOG_DIRECTORY
 directory DB_DIRECTORY
 
 namespace :schedule do
 
-  desc "For debug, parse raw schedule schedule data."
+  desc "For debug, parse raw schedule data."
   task :parse do
     h = hash_schedule RAW_SCHEDULE
     f = h.first
@@ -26,6 +28,28 @@ namespace :schedule do
   desc "Export schedule database to JSON file."
   task :output_json do
     write_schedule_to_json
+  end
+
+end
+
+namespace :teacher do
+
+  desc "For debug, parse raw teacher data."
+  task :parse do
+    h = hash_teachers RAW_TEACHERS
+    f = h.first
+    p f
+  end
+
+  desc "Clean and load raw teacher data into database."
+  task :load do
+    h = hash_teachers RAW_TEACHERS
+    load_teachers_from h
+  end
+
+  desc "Export teacher database to JSON file."
+  task :output_json do
+    write_teachers_to_json
   end
 
 end

@@ -8,6 +8,7 @@ unless defined?(LOG_DIRECTORY)
   DB_DIRECTORY = "db"
   DB_PATH = "#{DB_DIRECTORY}/hacked_schedule.sqlite"
   DB_CONN_STR = "sqlite://#{Dir.pwd}/#{DB_PATH}"
+  OUTPUT_DIR = "output"
 end
 
 # DATA MAPPER
@@ -94,7 +95,7 @@ def load_bell_schedules_from hashed_schedule
 end
 
 def write_schedule_to_json
-  File.open("data/schedule.json","w") do |f|
+  File.open("#{OUTPUT_DIR}/schedule.json","w") do |f|
     f.write(Schedule.all.to_json)
   end
 end

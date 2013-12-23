@@ -1,0 +1,881 @@
+SCHOOL_ID,LAST_NAME,FIRST_NAME,BLOCK_NAME,ROOM,SECTION_ID,FULL_NAME
+Lower,Alexander,John,7,C-101,OC630001,Chorus
+Lower,Asato,Patsy,00H,1MAUKA,OH130002,Homeroom-1
+Lower,Asato,Patsy,1,1MAUKA,OR130002,Reading
+Lower,Briones,Kori,00H,1MAKAI,OH130001,Homeroom-1
+Lower,Briones,Kori,1,1MAKAI,OR130001,Reading
+Lower,Campbell,Robin,00H,KLEAHI,OHK30001,Homeroom-K
+Lower,Chaney,Aaron,1,-B-205,ON630002,Science
+Lower,Chaney,Aaron,3,-B-205,ON630004,Science
+Lower,Chaney,Aaron,91,-PE-LS,OP630002,Physical Education
+Lower,Chikamori,Bonny,00H,1MAKAI,OH130001,Homeroom-1
+Lower,Chikamori,Bonny,1,1MAKAI,OM130001,Math
+Lower,Chun,David,00H,-B-204,OH530001,Adjustment to Grade 5
+Lower,Chun,David,1,-B-204,OM530002,Math
+Lower,Chun,David,2,-B-204,OM530001,Math
+Lower,Chun,David,3,-B-204,OM530003,Math
+Lower,Chun,David,4,-B-204,OF530002,Vocabulary
+Lower,Chung,Cynthia,00H,2-EWA,OH230002,Homeroom-2
+Lower,Chung,Cynthia,1,2-EWA,OM230002,Math
+Lower,Dayao,Manny,7,C-103,OB630001,Band
+Lower,Derby,George-Anne,00H,KLEAHI,OHK30001,Homeroom-K
+Lower,Doi,Steven,00H,-C-203,OH430001,Adjustment to Grade 4
+Lower,Doi,Steven,1,-C-203,OW430001,Language Arts
+Lower,Doi,Steven,4,-C-203,OW430002,Language Arts
+Lower,Dyrensborg,Robin,00H,SC102,OH630004,Adjustment to Grade 6
+Lower,Dyrensborg,Robin,1,SC102,OW630004,Language Arts
+Lower,Dyrensborg,Robin,2,SC102,OW630002,Language Arts
+Lower,Fuller,Catherine,00H,-C-201,OH630003,Adjustment to Grade 6
+Lower,Fuller,Catherine,1,-C-201,OU630003,Social Studies
+Lower,Fuller,Catherine,5,-C-201,OU630001,Social Studies
+Lower,Gibson,Dorsey,00H,-B-201,OH630001,Adjustment to Grade 6
+Lower,Gibson,Dorsey,1,-B-201,OW630003,Language Arts
+Lower,Gibson,Dorsey,4,-B-201,OW630001,Language Arts
+Lower,Gravelle,Boni,00H,KMAUKA,OHK30003,Homeroom-K
+Lower,Hafner,Katharine,7,C-102,OO430002,Orchestra - Beg.
+Lower,Hicks,Mary,1,-A-101,OI13CRDS,Music
+Lower,Hicks,Mary,2,-A-101,OI530001,Music
+Lower,Hicks,Mary,3,-A-101,OI330001,Music
+Lower,Hicks,Mary,4,-A-101,OI530002,Music
+Lower,Hicks,Mary,5,-A-101,OI330002,Music
+Lower,Hicks,Mary,7,-A-101,OI330004,Music
+Lower,Hicks,Mary,9,-A-101,OI13ANTS,Music
+Lower,Hicks,Mary,90,-A-101,OI13BEES,Music
+Lower,Hiraki,Robin,00H,-B-203,OH530003,Adjustment to Grade 5
+Lower,Hiraki,Robin,1,-B-203,OU530001,Social Studies
+Lower,Hiraki,Robin,3,-B-203,OU530002,Social Studies
+Lower,Hiraki,Robin,4,-B-203,OF530001,Vocabulary
+Lower,Hiraki,Robin,91,-B-203,OF530003,Vocabulary
+Lower,Inouye,Lynne,00H,2-DH,OH230001,Homeroom-2
+Lower,Inouye,Lynne,1,2-DH,OR230001,Reading
+Lower,Johnson,Margot,00H,1MAUKA,OH130002,Homeroom-1
+Lower,Johnson,Margot,1,1MAUKA,OM130002,Math
+Lower,Kai,Kristi,00H,KMAKAI,OHK30002,Homeroom-K
+Lower,Keefer,Cheri,5,-A-101,OI23GRN.,Music
+Lower,Kim,Addie,00H,-C-102,OH330003,Homeroom-3
+Lower,Kim,Addie,1,-C-102,OR330003,Reading
+Lower,Kobata,Daryl,00H,-C-202,OH630005,Adjustment to Grade 6
+Lower,Kobata,Daryl,1,-C-202,OM630001,Math
+Lower,Le Roux,Ellie,7,C-102,OO430001,Orchestra - Beg.
+Lower,Lee,Amelia,7,L-105,OK630001,Skills Development
+Lower,Lee,Clifford,00H,2-DH,OH230001,Homeroom-2
+Lower,Lee,Clifford,1,2-DH,OM230001,Math
+Lower,Lee,Jewel,00H,KMAUKA,OHK30003,Homeroom-K
+Lower,Look,Linda,1,-PE-LS,OP13CRDS,Physical Education
+Lower,Look,Linda,2,-PE-LS,OP13ANTS,Physical Education
+Lower,Look,Linda,3,-PE-LS,OP430003,Physical Education
+Lower,Look,Linda,4,-PE-LS,OP330002,Physical Education
+Lower,Look,Linda,5,-PE-LS,OP23RED.,Physical Education
+Lower,Look,Linda,9,-PE-LS,OP530002,Physical Education
+Lower,Maeda,Susan,00H,-C-101,OH330004,Homeroom-3
+Lower,Maeda,Susan,1,-C-101,OM330003,Math
+Lower,Miyata,Linda,3,-A-102,OG530003,Religion
+Lower,Miyata,Linda,5,-A-102,OG330002,Religion
+Lower,Miyata,Linda,6,-A-102,OG330003,Religion
+Lower,Miyata,Linda,7,-A-102,OG23GRN.,Religion
+Lower,Miyata,Linda,8,-A-102,OG330004,Religion
+Lower,Miyata,Linda,9,-A-102,OG13DOVE,Religion
+Lower,Miyata,Linda,90,-A-102,OG13ANTS,Religion
+Lower,Miyata,Linda,91,-A-102,OG13BEES,Religion
+Lower,Miyata,Linda,92,-A-102,OG430002,Religion
+Lower,Mount,Megan,3,-A-101,OI430002,Music
+Lower,Mount,Megan,5,-A-101,OI23BLUE,Music
+Lower,Mount,Megan,7,G-102,OQ630001,Musical Theater
+Lower,Mount,Megan,91,-A-101,OI430001,Music
+Lower,Muramaru,Lynn,7,C-103,OB630002,Band
+Lower,Muranaka,Jami,1,-B-111,ON630001,Science
+Lower,Muranaka,Jami,2,-B-111,ON530002,Science
+Lower,Muranaka,Jami,3,-B-111,ON530001,Science
+Lower,Muranaka,Jami,5,-B-111,ON430003,Science
+Lower,Muranaka,Jami,9,-B-111,ON430001,Science
+Lower,Muranaka,Jami,91,-B-111,ON430002,Science
+Lower,Nakayama,Sean,7,G-102,OD630001,Hula
+Lower,Okino,Susan,00H,-C-104,OH330001,Homeroom-3
+Lower,Okino,Susan,1,-C-104,OR330001,Reading
+Lower,Perkins,Eric,00H,2-EWA,OH230002,Homeroom-2
+Lower,Perkins,Eric,1,2-EWA,OR230002,Reading
+Lower,Reser,Linda,1,LIB-LS,OY13CRDS,Library
+Lower,Reser,Linda,3,LIB-LS,OY13ANTS,Library
+Lower,Reser,Linda,4,LIB-LS,OY430003,Library
+Lower,Reser,Linda,5,LIB-LS,OY330002,Library
+Lower,Reser,Linda,7,LIB-LS,OY23BLUE,Library
+Lower,Reser,Linda,8,LIB-LS,OY23YEL.,Library
+Lower,Reser,Linda,9,LIB-LS,OY13BEES,Library
+Lower,Reser,Linda,91,LIB-LS,OY23RED.,Library
+Lower,Reser,Linda,92,LIB-LS,OY430001,Library
+Lower,Sakaida,Lauree,00H,KMAKAI,OHK30002,Homeroom-K
+Lower,Scheinert,Cynthia,00H,P-1,OH530002,Adjustment to Grade 5
+Lower,Scheinert,Cynthia,1,P-1,OW530001,Language Arts
+Lower,Scheinert,Cynthia,2,P-1,OW530002,Language Arts
+Lower,Schmitz,Patricia,00H,-C-204,OH430003,Adjustment to Grade 4
+Lower,Schmitz,Patricia,1,-C-204,OU430001,Social Studies
+Lower,Schmitz,Patricia,4,-C-204,OF430001,Spelling
+Lower,Shim,Pamela,00H,-C-103,OH330002,Homeroom-3
+Lower,Shim,Pamela,1,-C-103,OM330001,Math
+Lower,Simon,Lisa,5,-DANCE,OZ23RED.,Dance
+Lower,Simon,Lisa,6,-DANCE,OZ23BLUE,Dance
+Lower,Simon,Lisa,7,-DANCE,OZ13ANTS,Dance
+Lower,Simon,Lisa,8,-DANCE,OZ13BEES,Dance
+Lower,Simon,Lisa,9,-DANCE,OZ330002,Dance
+Lower,Simon,Lisa,91,-DANCE,OZ330001,Dance
+Lower,Sue,Dalton,5,-COMP,OV23BLUE,Computer
+Lower,Sue,Dalton,6,-COMP,OV23YEL.,Computer
+Lower,Sue,Dalton,7,-COMP,OV13BEES,Computer
+Lower,Sue,Dalton,8,-COMP,OV13ANTS,Computer
+Lower,Sue,Dalton,90,-COMP,OV330003,Computer
+Lower,Sue,Dalton,91,-COMP,OV23RED.,Computer
+Lower,Suzuki,Ivan,1,-PE-LS,OP630001,Physical Education
+Lower,Suzuki,Ivan,2,-PE-LS,OP13BEES,Physical Education
+Lower,Suzuki,Ivan,3,-PE-LS,OP430001,Physical Education
+Lower,Suzuki,Ivan,5,-PE-LS,OP23BLUE,Physical Education
+Lower,Suzuki,Ivan,9,-PE-LS,OP430002,Physical Education
+Lower,Suzuki,Ivan,90,-PE-LS,OP330004,Physical Education
+Lower,Tamashiro,Jenna,1,ART-LS,OA430002,Art
+Lower,Tamashiro,Jenna,3,ART-LS,OA530002,Art
+Lower,Tamashiro,Jenna,5,ART-LS,OA330001,Art
+Lower,Tamashiro,Jenna,7,ART-LS,OA13DOVE,Art
+Lower,Tamashiro,Jenna,9,ART-LS,OA13ANTS,Art
+Lower,Tamashiro,Jenna,91,ART-LS,OA430003,Art
+Lower,Wakahiro,Deborah,00H,-B-202,OH630002,Adjustment to Grade 6
+Lower,Wakahiro,Deborah,1,-B-202,OM630004,Math
+Lower,Wakahiro,Deborah,4,-B-202,OM630002,Math
+Lower,Warner,Katherine,5,-B-110,ON23BLUE,Science
+Lower,Warner,Katherine,6,-B-110,ON23YEL.,Science
+Lower,Warner,Katherine,7,-B-110,ON330001,Science
+Lower,Warner,Katherine,8,-B-110,ON23RED.,Science
+Lower,Wehrman,Joan,7,C-102,OT630001,Orchestra - Adv.
+Lower,Yonamine,Dean,1,SC101,OU630002,Social Studies
+Lower,Yonamine,Dean,3,SC101,OU630004,Social Studies
+Lower,Young,Candace,00H,-C-205,OH430002,Adjustment to Grade 4
+Lower,Young,Candace,1,-C-205,OM430001,Math
+Lower,Young,Candace,3,-C-205,OM430003,Math
+Lower,Young,Candace,4,-C-205,OF430002,Spelling
+Upper,Abe,Curtis,0HR,C-106,YH130003,Homeroom 7
+Upper,Abe,Curtis,4,C-103,C6230001,Stage Band 3
+Upper,Abe,Curtis,5,C-103,C3230001,Stage Band 1
+Upper,Abe,Curtis,6,C-103,C4230001,Stage Band 2
+Upper,Abe,Curtis,7,C-104,C2230001,Stage Band Rhythm Fundamentals
+Upper,Akamine,Jo Ann,0HR,I-215,YH330011,Homeroom 9
+Upper,Akamine,Jo Ann,1,I-215,L4830001,Japanese 4-H
+Upper,Akamine,Jo Ann,2,I-215,L4830002,Japanese 4-H
+Upper,Akamine,Jo Ann,3,I-215,L4830003,Japanese 4-H
+Upper,Akamine,Jo Ann,5,I-215,L4930001,Japanese 5-H
+Upper,Alexander,John,2,C-101,C5230001,Chorus 1 T/B
+Upper,Alexander,John,4,C-101,C5330001,Chorus 2
+Upper,Alexander,John,5,C-101,C5230002,Chorus 1 T/B
+Upper,Alexander,John,6,C-101,C5130001,Chorus 1 S/A
+Upper,Among,Michael,0HR,C-207,YH230007,Homeroom 8
+Upper,Among,Michael,1,C-207,E2030001,English 8
+Upper,Among,Michael,2,C-207,E2030002,English 8
+Upper,Among,Michael,3,C-207,E9020001,Finding Poetry
+Upper,Among,Michael,6,C-207,E9020002,Finding Poetry
+Upper,Among,Michael,7,C-207,E9010001,Finding Poetry
+Upper,Among,Michael,8,C-207,E9010002,Finding Poetry
+Upper,Au Hoy,Maria,0HR,I-110,YH430002,Homeroom 10
+Upper,Au Hoy,Maria,3,N-209,L3230001,Chinese 1
+Upper,Au Hoy,Maria,4,N-209,L3420001,Chinese 2-H
+Upper,Au Hoy,Maria,5,N-209,L3330001,Chinese 2
+Upper,Au Hoy,Maria,6,N-209,L3030001,Chinese 1A
+Upper,Au Hoy,Maria,7,N-209,L3130001,Chinese 1B
+Upper,Au,Ernette,0HR,I-209,YH330008,Homeroom 9
+Upper,Au,Ernette,2,I-209,X9030001,AP Psychology
+Upper,Au,Ernette,3,I-209,X9030002,AP Psychology
+Upper,Au,Ernette,4,I-209,X9030003,AP Psychology
+Upper,Au,Ernette,5,I-209,SH150015,Study Hall
+Upper,Au,Ernette,6,I-209,X9030004,AP Psychology
+Upper,Au,Ernette,7,I-209,X5020001,Psychology 1
+Upper,Au,Ernette,8,I-209,M3110001,Algebra 1B
+Upper,Barnard,Luz-Marina,0HR,I-210,YH330009,Homeroom 9
+Upper,Barnard,Luz-Marina,3,I-210,L6720001,Spanish 3-H
+Upper,Barnard,Luz-Marina,4,I-210,L6330001,Spanish 2
+Upper,Barnard,Luz-Marina,5,I-210,L6730001,Spanish 4
+Upper,Barnard,Luz-Marina,7,I-210,L6330002,Spanish 2
+Upper,Barnard,Luz-Marina,8,I-210,L6830001,Spanish Conv. & Culture
+Upper,Barnes,Andrea,0HR,C-202,YH230004,Homeroom 8
+Upper,Barnes,Andrea,1,C-205,S2030001,Science 8
+Upper,Barnes,Andrea,2,C-205,S2030002,Science 8
+Upper,Barnes,Andrea,3,C-205,S2030005,Science 8
+Upper,Barnes,Andrea,6,I-202,S5330007,Chemistry
+Upper,Barnes,Andrea,8,C-205,S2030012,Science 8
+Upper,Barry,Elizabeth,2,C-209,Z1030002,Reading 7
+Upper,Barry,Elizabeth,3,C-209,Z1030003,Reading 7
+Upper,Barry,Elizabeth,4,C-209,Z1030004,Reading 7
+Upper,Barry,Elizabeth,5,C-209,Z2330001,Reading 9
+Upper,Basso,Yuki,2,C-211,E1030004,English 7
+Upper,Basso,Yuki,3,C-211,E2030003,English 8
+Upper,Basso,Yuki,4,C-211,E2030004,English 8
+Upper,Basso,Yuki,7,C-211,E1030011,English 7
+Upper,Beer,Risa,5,S-314,I6620001,Film Production
+Upper,Beer,Risa,6,S-314,I6610001,Film Production
+Upper,Bickel,John,0HR,I-207,YH430004,Homeroom 10
+Upper,Bickel,John,2,I-207,H3330015,History of the Modern World
+Upper,Bickel,John,3,I-207,E7710001,War in the 20th Century-Eng.
+Upper,Bickel,John,5,I-207,H3330009,History of the Modern World
+Upper,Bickel,John,7,I-207,H3330014,History of the Modern World
+Upper,Bickel,John,8,I-207,E7710002,War in the 20th Century-Eng.
+Upper,Bickel,John,9,I-207,H913I0001,IS-AP European History
+Upper,Blankenship,Allison,0HR,S-FL3,YH630001,Homeroom 12
+Upper,Blankenship,Allison,4,S-306,I6050001,One Mile Project
+Upper,Blankenship,Allison,7,S-306,I6060001,One Mile Project
+Upper,Bloom,Lori,0HR,I-106,YH430005,Homeroom 10
+Upper,Bloom,Lori,2,W-315,E4030003,English 10
+Upper,Bloom,Lori,3,W-315,E4330002,English 10 Honors
+Upper,Bloom,Lori,4,W-315,E4330005,English 10 Honors
+Upper,Bloom,Lori,6,W-315,E4030007,English 10
+Upper,Bonning,Rebus,0HR,I-204,YH330001,Homeroom 9
+Upper,Bonning,Rebus,1,I-204,H3330001,History of the Modern World
+Upper,Bonning,Rebus,2,I-204,H1230004,World Geography 7
+Upper,Bonning,Rebus,4,I-204,H3330006,History of the Modern World
+Upper,Bonning,Rebus,5,I-204,H1230009,World Geography 7
+Upper,Brasher,Mark,0HR,C-203,YH130007,Homeroom 7
+Upper,Brasher,Mark,1,C-203,H1230001,World Geography 7
+Upper,Brasher,Mark,2,C-203,H1230002,World Geography 7
+Upper,Brasher,Mark,5,C-203,H2330011,History of the Ancient World
+Upper,Brasher,Mark,6,C-203,H2330012,History of the Ancient World
+Upper,Briguglio,Frank,0HR,I-106,YH430005,Homeroom 10
+Upper,Brown,B. Tate,0,M.O.,W3030001,7:00am Internshp
+Upper,Brown,B. Tate,1,M.O.,W1510001,Internship-M.O.
+Upper,Brown,B. Tate,2,M.O.,W1510002,Internship-M.O.
+Upper,Brown,B. Tate,3,M.O.,W1510003,Internship-M.O.
+Upper,Brown,B. Tate,4,M.O.,W1510004,Internship-M.O.
+Upper,Brown,B. Tate,5,M.O.,W1510005,Internship-M.O.
+Upper,Brown,B. Tate,6,M.O.,W1510006,Internship-M.O.
+Upper,Brown,B. Tate,7,M.O.,W1510007,Internship-M.O.
+Upper,Brown,B. Tate,8,M.O.,W1510008,Internship-M.O.
+Upper,Caldwell,David,0HR,SC-103,YH430013,Homeroom 10
+Upper,Caldwell,David,1,SC-103,QR820001,Religion 8
+Upper,Caldwell,David,2,TBA,Y3010004,Life Skills
+Upper,Caldwell,David,5,SC-103,QR820002,Religion 8
+Upper,Caldwell,David,6,SC-103,QR820003,Religion 8
+Upper,Camp,Dane,0HR,W-304,YH630002,Homeroom 12
+Upper,Camp,Dane,1,W-304,M3210001,Algebra 1C
+Upper,Camp,Dane,3,W-304,M6020003,Trigonometry
+Upper,Camp,Dane,4,W-304,M6020004,Trigonometry
+Upper,Camp,Dane,5,W-304,M6020005,Trigonometry
+Upper,Camp,Dane,6,W-304,M3210007,Algebra 1C
+Upper,Camp,Dane,7,W-304,M9130003,AP Calculus BC
+Upper,Camp,Dane,8,W-304,M3210010,Algebra 1C
+Upper,Carvalho,C. Lehua,0HR,I-209,YH330008,Homeroom 9
+Upper,Carvalho,C. Lehua,1,G-203,C7130001,Dance 1
+Upper,Carvalho,C. Lehua,2,G-203,C7230001,Dance 2
+Upper,Carvalho,C. Lehua,3,G-203,C7330001,Dance 3
+Upper,Carvalho,C. Lehua,4,G-203,C7330002,Dance 3
+Upper,Carvalho,C. Lehua,6,G-203,C7830001,Dance 4
+Upper,Carvalho,C. Lehua,7,G-203,C7230002,Dance 2
+Upper,Carvalho,C. Lehua,8,G-203,C7230003,Dance 2
+Upper,Cataluna,Lee,0HR,C-202,YH230004,Homeroom 8
+Upper,Cataluna,Lee,1,S-FL3,E6570001,Journalism
+Upper,Cataluna,Lee,3,S-310,E5110001,Creative Writing
+Upper,Cataluna,Lee,4,S-310,E5110002,Creative Writing
+Upper,Cataluna,Lee,5,W-311,E4210001,Creative Non-Fiction
+Upper,Cataluna,Lee,6,W-316,E5320001,Adv Creative Wtg
+Upper,Cataluna,Lee,7,W-316,E5120001,Creative Writing
+Upper,Cataluna,Lee,8,W-316,E5120002,Creative Writing
+Upper,Chaney,Aaron,5,S-410,I8610001,Advanced Leadership Seminar-H
+Upper,Chen,Jennifer,0HR,W-103,YH430010,Homeroom 10
+Upper,Chen,Jennifer,2,W-103,S6030001,Conceptual Physics
+Upper,Chen,Jennifer,3,W-103,S6130003,Physics
+Upper,Chen,Jennifer,4,W-103,SH140015,Study Hall
+Upper,Chen,Jennifer,5,W-103,S6130006,Physics
+Upper,Chen,Jennifer,7,W-103,S6130008,Physics
+Upper,Chung,Holly,0HR,W-103,YH430010,Homeroom 10
+Upper,Chung,Holly,3,A-201,A2110001,Mixed Media 1
+Upper,Chung,Holly,4,A-201,A2110002,Mixed Media 1
+Upper,Chung,Holly,5,TBA,QA710001,The Arts
+Upper,Chung,Holly,6,TBA,QA710004,The Arts
+Upper,Church,Holly,0HR,I-102,YH330003,Homeroom 9
+Upper,Church,Holly,1,I-102,S4030002,Biology
+Upper,Church,Holly,2,I-102,S4030004,Biology
+Upper,Church,Holly,3,I-102,S4030007,Biology
+Upper,Church,Holly,4,I-102,S4030008,Biology
+Upper,Cottrell,Timothy,5,S-410,I8610001,Advanced Leadership Seminar-H
+Upper,Cottrell,Timothy,6,S-FL4,I8120001,Applied Renewable Energy Sys-H
+Upper,Cropsey,Sam,0HR,W-214,YH530007,Homeroom 11
+Upper,Cropsey,Sam,1,W-214,M7730001,Precalculus
+Upper,Cropsey,Sam,2,W-214,M5010001,Algebra 2A
+Upper,Cropsey,Sam,4,W-214,M5010002,Algebra 2A
+Upper,Cropsey,Sam,5,W-214,M7730005,Precalculus
+Upper,Cropsey,Sam,6,W-214,SH010006,Study Hall - Q1
+Upper,Cropsey,Sam,7,W-214,M6020007,Trigonometry
+Upper,Cropsey,Sam,8,W-214,M6020008,Trigonometry
+Upper,Dayao,Manny,0HR,C-103,YH230002,Homeroom 8
+Upper,Dayao,Manny,1,C-103,C3110001,Concert Band
+Upper,Dayao,Manny,8,C-103,C6110001,Marching Band
+Upper,Duval,Robert,0HR,W-210,YH530001,Homeroom 11
+Upper,Duval,Robert,3,W-210,C8330001,Intermediate Theater
+Upper,Duval,Robert,4,W-210,C8430001,Advanced Theater
+Upper,Duval,Robert,5,S-314,I6620001,Film Production
+Upper,Duval,Robert,6,S-314,I6610001,Film Production
+Upper,Duval,Robert,7,W-210,C8430002,Advanced Theater
+Upper,Emde,Martin,1,S-ILAB,I5210001,Design and Fabrication
+Upper,Emde,Martin,6,S-ILAB,I4010001,Robotics 1
+Upper,Emde,Martin,7,S-ILAB,I5220001,Design and Fabrication
+Upper,Emde,Martin,8,S-ILAB,I4020001,Robotics 1
+Upper,Evans,Leslie,0HR,C-108,YH230005,Homeroom 8
+Upper,Evans,Leslie,1,C-108,E1030001,English 7
+Upper,Evans,Leslie,2,C-108,E1030002,English 7
+Upper,Evans,Leslie,5,C-108,E2030007,English 8
+Upper,Evans,Leslie,6,C-108,E2030008,English 8
+Upper,Falk,Theresa,0HR,W-204,YH530004,Homeroom 11
+Upper,Falk,Theresa,1,W-204,E3030003,English 9
+Upper,Falk,Theresa,3,W-204,E3030004,English 9
+Upper,Falk,Theresa,4,W-204,E6750001,Women In Literature
+Upper,Falk,Theresa,5,W-204,E6760001,Women In Literature
+Upper,Falk,Theresa,6,W-204,E3030012,English 9
+Upper,Falk,Theresa,8,W-204,SH010008,Study Hall - Q1
+Upper,Feldhaus,Lara,5,C-200,QG710001,Guidance 7
+Upper,Finnemore,Sara,0HR,C-210,YH230008,Homeroom 8
+Upper,Finnemore,Sara,1,C-210,S1030003,Science 7
+Upper,Finnemore,Sara,3,C-210,S1030004,Science 7
+Upper,Finnemore,Sara,4,C-210,S1030005,Science 7
+Upper,Finnemore,Sara,5,C-210,S1030006,Science 7
+Upper,Frith,Kimi,0HR,C-109,YH130004,Homeroom 7
+Upper,Frith,Kimi,1,C-109,H6320001,Economics & Entrepreneurship
+Upper,Frith,Kimi,2,C-109,H6320002,Economics & Entrepreneurship
+Upper,Frith,Kimi,3,C-109,H1230005,World Geography 7
+Upper,Frith,Kimi,4,C-109,H1230006,World Geography 7
+Upper,Frith,Kimi,7,S-306,H6310001,Economics & Entrepreneurship
+Upper,Frith,Kimi,8,S-306,H6310002,Economics & Entrepreneurship
+Upper,Fujinaka,Pamela,0HR,I-201,YH430009,Homeroom 10
+Upper,Fujinaka,Pamela,3,I-201,S9130002,AP Chemistry
+Upper,Fujinaka,Pamela,5,I-201,S5130002,Chemistry in the Community
+Upper,Fujinaka,Pamela,7,I-201,S5130003,Chemistry in the Community
+Upper,Fujinaka,Pamela,8,I-201,S5130004,Chemistry in the Community
+Upper,Gabe,Matthew,1,N-204,L9220001,Latin 3-H
+Upper,Gabe,Matthew,2,N-204,L9210001,Latin 3-H (S2)
+Upper,Gabe,Matthew,4,N-204,L8130002,Latin 1B
+Upper,Gabe,Matthew,5,N-204,L8130003,Latin 1B
+Upper,Gabe,Matthew,7,N-204,L8530002,Latin 3
+Upper,Greenhill,Peter,0HR,W-208,YH530006,Homeroom 11
+Upper,Greenhill,Peter,1,W-208,E4030001,English 10
+Upper,Greenhill,Peter,2,W-208,SH010002,Study Hall - Q1
+Upper,Greenhill,Peter,3,W-208,E8210001,Literature of Sport
+Upper,Greenhill,Peter,4,W-208,E8210002,Literature of Sport
+Upper,Greenhill,Peter,6,W-208,E4030008,English 10
+Upper,Greenhill,Peter,7,W-208,E6520001,Philosophical Literature
+Upper,Greenhill,Peter,8,W-208,E6520002,Philosophical Literature
+Upper,Guillou,Joseph,0HR,C-201,YH130006,Homeroom 7
+Upper,Guillou,Joseph,4,C-201,M3220002,Algebra 1C
+Upper,Guillou,Joseph,5,C-201,M6410001,Statistics
+Upper,Guillou,Joseph,6,C-201,M1030009,Pre-Algebra
+Upper,Guillou,Joseph,7,C-201,M1030010,Pre-Algebra
+Upper,Guillou,Joseph,8,C-201,M1030011,Pre-Algebra
+Upper,Hackler,Jeffrey,0HR,W-314,YH530013,Homeroom 11
+Upper,Hackler,Jeffrey,1,W-314,H9030001,AP United States History
+Upper,Hackler,Jeffrey,2,W-314,H9030002,AP United States History
+Upper,Hackler,Jeffrey,4,W-314,H4030001,Asian Studies
+Upper,Hackler,Jeffrey,5,W-314,H4030002,Asian Studies
+Upper,Hackler,Jeffrey,7,W-314,SH010007,Study Hall - Q1
+Upper,Hafner,Katharine,0HR,C-102,YH330002,Homeroom 9
+Upper,Hafner,Katharine,1,C-102,SH310015,Study Hall
+Upper,Hafner,Katharine,2,C-102,C1130001,Orchestra 2
+Upper,Hafner,Katharine,8,C-102,C6030001,Orchestra 5
+Upper,Hall,Deborah,1,W-312,H5030001,US History
+Upper,Hall,Deborah,2,W-312,H5030002,US History
+Upper,Hall,Deborah,6,W-312,H9030005,AP United States History
+Upper,Hall,Deborah,7,W-312,H5030009,US History
+Upper,Hall,Deborah,8,W-312,H5030010,US History
+Upper,Hanlon,Katherine,0HR,I-105,YH330004,Homeroom 9
+Upper,Hanlon,Katherine,5,I-105,E1030008,English 7
+Upper,Hanlon,Katherine,6,I-105,E1030009,English 7
+Upper,Hanlon,Katherine,7,I-105,E2030011,English 8
+Upper,Hanlon,Katherine,8,I-105,E2030012,English 8
+Upper,Heimerdinger,Paul,0HR,C-206,YH230006,Homeroom 8
+Upper,Heimerdinger,Paul,1,C-206,S2030003,Science 8
+Upper,Heimerdinger,Paul,3,C-206,S2030004,Science 8
+Upper,Heimerdinger,Paul,5,C-206,S2030007,Science 8
+Upper,Heimerdinger,Paul,6,C-206,S2030008,Science 8
+Upper,Heimerdinger,Paul,7,C-206,S2030011,Science 8
+Upper,Heyler,Frederick,0HR,W-102,YH330013,Homeroom 9
+Upper,Heyler,Frederick,1,W-101,S9330001,AP Physics B
+Upper,Heyler,Frederick,3,W-101,S9330002,AP Physics B
+Upper,Heyler,Frederick,5,W-101,S9330003,AP Physics B
+Upper,Heyler,Frederick,8,W-101,S6030005,Conceptual Physics
+Upper,Higashihara,Vicki,5,C-207,QG710002,Guidance 7
+Upper,Igawa,Susan,1,W-316,H4310001,Asian Amer Exp
+Upper,Igawa,Susan,2,W-316,H4710001,Modern East Asian Studies
+Upper,Igawa,Susan,3,W-316,H4320001,Asian Amer Exp
+Upper,Igawa,Susan,4,W-316,H4320002,Asian Amer Exp
+Upper,Igawa,Susan,5,W-316,H4310002,Asian Amer Exp
+Upper,Ige,Fern,0HR,C-200,YH130005,Homeroom 7
+Upper,Ige,Fern,3,C-200,L4730001,Japanese 4
+Upper,Ige,Fern,4,C-200,L4030001,Japanese 1A
+Upper,Ige,Fern,7,C-200,L4030002,Japanese 1A
+Upper,Ige,Fern,8,C-200,L4030003,Japanese 1A
+Upper,Inouye,Carey,2,S-FL1,I6020001,Make It 101
+Upper,Inouye,Carey,6,S-ILAB,I4010001,Robotics 1
+Upper,Inouye,Carey,7,W-101,S9210001,AP Physics C: Mechanics
+Upper,Inouye,Carey,8,S-ILAB,I4020001,Robotics 1
+Upper,Iwamoto,Chiharu,0HR,I-216,YH330012,Homeroom 9
+Upper,Iwamoto,Chiharu,3,I-216,L4330001,Japanese 2
+Upper,Iwamoto,Chiharu,4,I-216,L4330002,Japanese 2
+Upper,Iwamoto,Chiharu,6,I-216,L4330003,Japanese 2
+Upper,Iwamoto,Chiharu,7,I-216,L4720002,Japanese 3-H
+Upper,Jones,Katherine,0HR,I-109,YH330005,Homeroom 9
+Upper,Jones,Katherine,1,G-102,C8230001,Beginning Theater
+Upper,Jones,Katherine,2,G-102,C8230002,Beginning Theater
+Upper,Jones,Katherine,5,I-103,SH250001,Study Hall
+Upper,Jones,Katherine,7,G-102,C8230003,Beginning Theater
+Upper,Jones,Katherine,8,G-102,C8530001,Musical Theatre
+Upper,Kay,John,9,S-FL4,I6210001,Wet Lab A
+Upper,Kellough,Gretchen,0HR,I-206,YH330007,Homeroom 9
+Upper,Kellough,Gretchen,3,I-208,E3030005,English 9
+Upper,Kellough,Gretchen,4,I-208,E4220001,Creative Non-Fiction
+Upper,Kellough,Gretchen,5,I-208,E3030009,English 9
+Upper,Kellough,Gretchen,6,I-208,E4210002,Creative Non-Fiction
+Upper,Kellough,Gretchen,7,I-208,E4210003,Creative Non-Fiction
+Upper,Kellough,Gretchen,8,I-208,E4220002,Creative Non-Fiction
+Upper,Kibota,Richie,0HR,W-305,YH530011,Homeroom 11
+Upper,Kibota,Richie,1,W-305,H6220001,Micro/Macroeconomics
+Upper,Kibota,Richie,2,W-305,H6220002,Micro/Macroeconomics
+Upper,Kibota,Richie,3,W-305,H3330005,History of the Modern World
+Upper,Kibota,Richie,5,W-305,SH010005,Study Hall - Q1
+Upper,Kibota,Richie,6,W-305,H3330010,History of the Modern World
+Upper,Kibota,Richie,7,W-305,H6210001,Micro/Macroeconomics
+Upper,Kibota,Richie,8,W-305,H6210002,Micro/Macroeconomics
+Upper,Killhour,Gilson,1,S-ILAB,I5210001,Design and Fabrication
+Upper,Killhour,Gilson,6,S-ILAB,I4010001,Robotics 1
+Upper,Killhour,Gilson,7,S-ILAB,I5220001,Design and Fabrication
+Upper,Killhour,Gilson,8,S-ILAB,I4020001,Robotics 1
+Upper,Kim,Holly,0HR,I-212,YH430011,Homeroom 10
+Upper,Kim,Holly,1,I-211,L5420001,French 2-H
+Upper,Kim,Holly,2,I-211,L5430001,French 3
+Upper,Kim,Holly,3,I-211,L5230001,French 1
+Upper,Kim,Holly,4,I-211,L5030001,French 1A
+Upper,Kim,Holly,5,I-211,L5330001,French 2
+Upper,Kline,Jena,0HR,W-308,YH430001,Homeroom 10
+Upper,Kline,Jena,3,W-308,M3210003,Algebra 1C
+Upper,Kline,Jena,4,W-308,M3210004,Algebra 1C
+Upper,Kline,Jena,6,W-308,M5020006,Algebra 2A
+Upper,Kline,Jena,7,W-308,M7730007,Precalculus
+Upper,Kline,Jena,8,W-308,M7730008,Precalculus
+Upper,Knoetgen,Michelle,0HR,I-109,YH330005,Homeroom 9
+Upper,Knoetgen,Michelle,2,N-207,E6630001,Literature of the Ocean
+Upper,Knoetgen,Michelle,3,N-207,E4130001,English 10 A
+Upper,Knoetgen,Michelle,4,N-207,E4130002,English 10 A
+Upper,Knoetgen,Michelle,6,N-206,X5230001,Graphics
+Upper,Knoetgen,Michelle,8,N-207,E6120007,American Literature
+Upper,Kobata,Sheri Ann,0HR,W-215,YH530008,Homeroom 11
+Upper,Kobata,Sheri Ann,1,W-308,M3120001,Algebra 1B
+Upper,Kobata,Sheri Ann,2,W-308,M3120002,Algebra 1B
+Upper,Kobata,Sheri Ann,5,W-215,M1030007,Pre-Algebra
+Upper,Kobata,Sheri Ann,6,W-215,M4110006,Geometry B
+Upper,Kobata,Sheri Ann,7,W-215,M4110007,Geometry B
+Upper,Kobata,Sheri Ann,8,W-215,M1030012,Pre-Algebra
+Upper,Kohara,Darin,1,W-104,S6130001,Physics
+Upper,Kohara,Darin,3,W-104,S6030002,Conceptual Physics
+Upper,Kohara,Darin,4,W-104,S6030003,Conceptual Physics
+Upper,Kohara,Darin,6,W-104,S6130005,Physics
+Upper,Kuioka,Daryl,0HR,W-212,YH630009,Homeroom 12
+Upper,Kuioka,Daryl,1,W-212,M4010001,Geometry A
+Upper,Kuioka,Daryl,5,W-212,M3010005,Algebra 1A
+Upper,Kuioka,Daryl,6,W-212,M3010006,Algebra 1A
+Upper,Kuioka,Daryl,7,W-212,M3010007,Algebra 1A
+Upper,LaGory,Michael,0HR,W-202,YH630005,Homeroom 12
+Upper,LaGory,Michael,2,W-202,E6210001,British Literature
+Upper,LaGory,Michael,3,W-202,E4030004,English 10
+Upper,LaGory,Michael,4,W-202,E4030005,English 10
+Upper,LaGory,Michael,8,W-202,E9130004,AP English Literature
+Upper,Lah,Benjamin,5,CCNSL,G1010001,Guidance-Issues
+Upper,Leatherman,Daniel,2,TBA,Y3010001,Life Skills
+Upper,Leatherman,Daniel,5,R-101,QR820005,Religion 8
+Upper,Lee,Lara,0HR,I-102,YH330003,Homeroom 9
+Upper,Lee,Lara,1,S-FL4,M6210001,Econ. of Personal Finance
+Upper,Lee,Lara,2,S-FL4,M6210002,Econ. of Personal Finance
+Upper,Lee,Lara,5,I-102,S4030009,Biology
+Upper,Lee,Lara,6,I-102,S4030010,Biology
+Upper,Lee,Lara,7,I-102,M6220001,Econ. of Personal Finance
+Upper,Lee,Lara,8,I-102,S4030015,Biology
+Upper,Lee,Lara,9,,I922I0001,IS-Design/Dev/Int Classrm App
+Upper,Lin,Rebecca,1,N-211,L9630001,AP Chinese Language & Culture
+Upper,Lin,Rebecca,3,N-211,L3530002,Chinese 3
+Upper,Lin,Rebecca,4,N-211,L3530001,Chinese 3
+Upper,Lin,Rebecca,5,N-211,L3830001,Chinese 4-H
+Upper,Lin,Rebecca,6,N-211,L9630002,AP Chinese Language & Culture
+Upper,Lin,Rebecca,7,N-211,L3730001,Chinese 4
+Upper,Lindsay,Mark,0HR,W-102,YH330013,Homeroom 9
+Upper,Lindsay,Mark,1,W-102,S6130002,Physics
+Upper,Lindsay,Mark,3,W-102,S6130004,Physics
+Upper,Lindsay,Mark,5,W-102,S6030004,Conceptual Physics
+Upper,Lindsay,Mark,8,W-102,S6130007,Physics
+Upper,Longo,Shirley,0HR,W-209,YH630008,Homeroom 12
+Upper,Longo,Shirley,1,W-209,E6550001,Narrative Visions
+Upper,Longo,Shirley,3,W-209,E2030005,English 8
+Upper,Longo,Shirley,4,W-209,E2030006,English 8
+Upper,Longo,Shirley,5,W-209,E6560001,Narrative Visions
+Upper,Longo,Shirley,7,W-209,E9130001,AP English Literature
+Upper,Lum,Rodney,2,TBA,Y3010001,Life Skills
+Upper,Masunaga,David,1,G-201,M6320001,Design Science
+Upper,Masunaga,David,2,G-201,M6310001,Design Science
+Upper,Masunaga,David,3,G-201,M4930002,Geometry-H
+Upper,Masunaga,David,4,G-201,M4930003,Geometry-H
+Upper,Masunaga,David,6,TBA,QA710004,The Arts
+Upper,Masunaga,David,7,G-201,M4930005,Geometry-H
+Upper,Masunaga,Kristin,2,TBA,Y3010004,Life Skills
+Upper,Matanza,Patti,0HR,W-308,YH430001,Homeroom 10
+Upper,Matanza,Patti,1,N-210,L6330003,Spanish 2
+Upper,Matanza,Patti,4,N-210,L6230003,Spanish 1
+Upper,Matanza,Patti,5,N-210,L6330004,Spanish 2
+Upper,Matanza,Patti,7,N-210,L6130001,Spanish 1B
+Upper,Matanza,Patti,8,N-210,L6230004,Spanish 1
+Upper,McManus,Micheline,0HR,I-107,YH430008,Homeroom 10
+Upper,McManus,Micheline,1,I-107,E6120001,American Literature
+Upper,McManus,Micheline,2,I-107,E6120002,American Literature
+Upper,McManus,Micheline,3,I-107,E6110003,American Literature
+Upper,McManus,Micheline,6,I-107,E6110004,American Literature
+Upper,McManus,Micheline,7,I-107,E3030013,English 9
+Upper,McManus,Micheline,8,I-107,E3030014,English 9
+Upper,McMullin,Linhart (Lin),0HR,W-213,YH630007,Homeroom 12
+Upper,McMullin,Linhart (Lin),1,I-110,M3010001,Algebra 1A
+Upper,McMullin,Linhart (Lin),2,I-110,M3010002,Algebra 1A
+Upper,McMullin,Linhart (Lin),5,I-110,M9130002,AP Calculus BC
+Upper,McMullin,Linhart (Lin),6,I-110,M9130001,AP Calculus BC
+Upper,McMullin,Linhart (Lin),7,I-110,M3120008,Algebra 1B
+Upper,McMullin,Linhart (Lin),8,I-110,M3120009,Algebra 1B
+Upper,Melo,Guia,1,N-208,L6230001,Spanish 1
+Upper,Melo,Guia,4,N-208,L6520001,Spanish 2-H
+Upper,Melo,Guia,7,N-208,L9130001,AP Spanish Language
+Upper,Milks,William,0HR,W-307,YH630010,Homeroom 12
+Upper,Milks,William,1,W-307,H9250001,AP US Govt and Politics
+Upper,Milks,William,2,W-307,H9250002,AP US Govt and Politics
+Upper,Milks,William,3,W-307,H5030005,US History
+Upper,Milks,William,6,W-307,H9250003,AP US Govt and Politics
+Upper,Millikan,Debbie,6,S-FL4,I8120001,Applied Renewable Energy Sys-H
+Upper,Millikan,Debbie,9,S-FL4,I6210001,Wet Lab A
+Upper,Miura,Marcie,1,W-304,M6020001,Trigonometry
+Upper,Miura,Marcie,2,W-304,M6020002,Trigonometry
+Upper,Miura,Marcie,3,W-304,M5110003,Algebra 2B
+Upper,Miura,Marcie,4,W-304,M5110004,Algebra 2B
+Upper,Miura,Marcie,5,W-304,M5110005,Algebra 2B
+Upper,Miura,Marcie,6,W-304,M6020006,Trigonometry
+Upper,Miyamoto,Joey,0HR,I-103,YH630003,Homeroom 12
+Upper,Miyamoto,Joey,1,I-103,E5660001,Advanced Speech
+Upper,Miyamoto,Joey,2,I-103,E6110002,American Literature
+Upper,Miyamoto,Joey,3,I-103,E3030007,English 9
+Upper,Miyamoto,Joey,4,I-103,E3030008,English 9
+Upper,Miyamoto,Joey,5,I-103,SH150001,Study Hall
+Upper,Miyamoto,Joey,7,I-103,E6120006,American Literature
+Upper,Miyamoto,Lisa,0HR,I-203,YH330006,Homeroom 9
+Upper,Monaco,Joseph,0HR,C-204,YH130008,Homeroom 7
+Upper,Monaco,Joseph,1,C-204,M4110001,Geometry B
+Upper,Monaco,Joseph,2,C-204,M4110002,Geometry B
+Upper,Monaco,Joseph,3,C-204,M1030003,Pre-Algebra
+Upper,Monaco,Joseph,4,C-204,M1030004,Pre-Algebra
+Upper,Monaco,Joseph,5,TBA,QA710001,The Arts
+Upper,Monaco,Joseph,6,C-204,M4020009,Geometry A
+Upper,Monaco,Joseph,7,C-204,M4020010,Geometry A
+Upper,Monaco,William,0HR,G-101,YH230009,Homeroom 8
+Upper,Monaco,William,1,G-101,H3330002,History of the Modern World
+Upper,Monaco,William,4,G-101,H3330004,History of the Modern World
+Upper,Monaco,William,5,G-101,H2330005,History of the Ancient World
+Upper,Monaco,William,6,G-101,H2330006,History of the Ancient World
+Upper,Motter,Russell,6,W-313,H5030008,US History
+Upper,Motter,Russell,7,W-313,H5020001,History - Sixties
+Upper,Muramaru,Lynn,0HR,C-103,YH230002,Homeroom 8
+Upper,Muramaru,Lynn,2,C-103,C1230001,Beginning Band
+Upper,Muramaru,Lynn,3,C-103,C2130001,Intermediate Band
+Upper,Muramaru,Lynn,7,C-103,C1230002,Beginning Band
+Upper,Muraoka,Heather,0HR,I-206,YH330007,Homeroom 9
+Upper,Muraoka,Heather,3,I-206,H2330003,History of the Ancient World
+Upper,Muraoka,Heather,4,I-206,H2330004,History of the Ancient World
+Upper,Muraoka,Heather,8,I-206,H3330003,History of the Modern World
+Upper,Nagao,Rhonda,0HR,I-207,YH430004,Homeroom 10
+Upper,Nagao,Rhonda,1,I-205,H1230003,World Geography 7
+Upper,Nagao,Rhonda,5,I-205,H3330008,History of the Modern World
+Upper,Nagao,Rhonda,6,I-205,H1230010,World Geography 7
+Upper,Nagao,Rhonda,7,I-205,H3330012,History of the Modern World
+Upper,Nagao,Rhonda,8,I-205,H3330013,History of the Modern World
+Upper,Nakayama,Sean,2,G-203,C7430001,Dance 1K
+Upper,Nakayama,Sean,4,G-203,C7630001,Dance 3K
+Upper,Nakayama,Sean,5,TBA,QA710001,The Arts
+Upper,Nakayama,Sean,6,TBA,QA710004,The Arts
+Upper,Nakayama,Sean,8,G-203,C7530001,Dance 2K
+Upper,Nirei,Kathleen,0HR,W-306,YH530012,Homeroom 11
+Upper,Nirei,Kathleen,1,W-306,M4020001,Geometry A
+Upper,Nirei,Kathleen,3,W-306,M9230001,AP Statistics
+Upper,Nirei,Kathleen,4,W-306,M3210002,Algebra 1C
+Upper,Nirei,Kathleen,5,W-306,M3210005,Algebra 1C
+Upper,Nirei,Kathleen,6,W-306,M3210006,Algebra 1C
+Upper,Nishimiya,Tora,0HR,W-203,YH530003,Homeroom 11
+Upper,Oba,Cara,5,S-414,I5110001,iPad App Design & Development
+Upper,Oba,Cara,6,S-414,I5120001,iPad App Design & Development
+Upper,Oba,Kyle,5,S-414,I5110001,iPad App Design & Development
+Upper,Oba,Kyle,6,S-414,I5120001,iPad App Design & Development
+Upper,Ohta,Cy,0HR,C-209,YH130010,Homeroom 7
+Upper,Ohta,Cy,3,C-203,H1230007,World Geography 7
+Upper,Ohta,Cy,4,C-203,H1230008,World Geography 7
+Upper,Ohta,Cy,7,C-203,H2330007,History of the Ancient World
+Upper,Ohta,Cy,8,C-203,H2330008,History of the Ancient World
+Upper,Okimura,Cyrenne,0HR,I-210,YH330009,Homeroom 9
+Upper,Okimura,Cyrenne,1,G-203,C7130001,Dance 1
+Upper,Okimura,Cyrenne,2,G-203,C7230001,Dance 2
+Upper,Okimura,Cyrenne,3,G-203,C7330001,Dance 3
+Upper,Okimura,Cyrenne,4,G-203,C7330002,Dance 3
+Upper,Okimura,Cyrenne,6,G-203,C7830001,Dance 4
+Upper,Okimura,Cyrenne,7,G-203,C7230002,Dance 2
+Upper,Okimura,Cyrenne,8,G-203,C7230003,Dance 2
+Upper,Okumura,Jackie,1,S-314,I2210001,Computer 1 Java
+Upper,Okumura,Peter,6,C-202,QG710003,Guidance 7
+Upper,Ono,Dena,0HR,I-101,YH430003,Homeroom 10
+Upper,Ono,Dena,3,I-101,S4030005,Biology
+Upper,Ono,Dena,4,I-101,S4030006,Biology
+Upper,Ono,Dena,5,I-101,S4030011,Biology
+Upper,Ono,Dena,6,I-101,S4030012,Biology
+Upper,Otsu,Debra,0HR,W-203,YH530003,Homeroom 11
+Upper,Otsu,Debra,1,W-203,E3030002,English 9
+Upper,Otsu,Debra,4,W-203,E3030006,English 9
+Upper,Otsu,Debra,7,W-203,E2030009,English 8
+Upper,Otsu,Debra,8,W-203,E2030010,English 8
+Upper,Pagliarini,Miho,0HR,I-213,YH330010,Homeroom 9
+Upper,Pagliarini,Miho,1,I-213,L4720001,Japanese 3-H
+Upper,Pagliarini,Miho,2,I-213,L4530001,Japanese 3
+Upper,Pagliarini,Miho,5,I-213,L4530002,Japanese 3
+Upper,Pagliarini,Miho,6,I-213,L4530003,Japanese 3
+Upper,Park,Michael,3,W-309,M7830001,Precalculus-H
+Upper,Park,Michael,4,W-309,M7830002,Precalculus-H
+Upper,Park,Michael,5,W-309,M7830003,Precalculus-H
+Upper,Park,Michael,6,W-309,M9310001,Multivariable Calculus
+Upper,Park,Michael,7,W-309,M9030004,AP Calculus AB
+Upper,Park,Michael,8,W-309,M7830004,Precalculus-H
+Upper,Perkins,Melissa,0HR,W-207,YH630004,Homeroom 12
+Upper,Perkins,Melissa,1,W-207,H5030003,US History
+Upper,Perkins,Melissa,2,W-207,H5030004,US History
+Upper,Perkins,Melissa,4,W-207,H5030006,US History
+Upper,Perkins,Melissa,5,W-207,H5030007,US History
+Upper,Pettit,Catherine,0HR,I-212,YH430011,Homeroom 10
+Upper,Pettit,Catherine,2,I-212,L5720001,French 3-H
+Upper,Pettit,Catherine,5,I-212,L9030001,AP French Language
+Upper,Pettit,Catherine,6,I-212,L5130001,French 1B
+Upper,Pettit,Catherine,7,I-212,L5930001,French 5 Honors
+Upper,Pettit,Catherine,8,I-212,L5730001,French 4
+Upper,Pettit,Catherine,9,I-212,L992I0001,IS-AP Adv French Hist. & Cult.
+Upper,Pfingsten,Melanie,1,W-310,H4220001,History Of Hawaii
+Upper,Pfingsten,Melanie,2,W-310,H4220002,History Of Hawaii
+Upper,Pfingsten,Melanie,3,W-310,H9030003,AP United States History
+Upper,Pfingsten,Melanie,4,W-310,H9030004,AP United States History
+Upper,Pfingsten,Melanie,7,W-310,H4110001,Hawaiian Studies
+Upper,Pfingsten,Melanie,8,W-310,H4110002,Hawaiian Studies
+Upper,Preston,Lisa,0HR,I-204,YH330001,Homeroom 9
+Upper,Preston,Lisa,1,N-203,L6530001,Spanish 3
+Upper,Preston,Lisa,2,N-203,L6530002,Spanish 3
+Upper,Preston,Lisa,3,N-203,L6030001,Spanish 1A
+Upper,Preston,Lisa,5,N-203,SH350004,Study Hall
+Upper,Preston,Lisa,6,N-203,L6530003,Spanish 3
+Upper,Rankin,Richard,0HR,W-303,YH630011,Homeroom 12
+Upper,Rankin,Richard,1,W-303,SH010001,Study Hall - Q1
+Upper,Rankin,Richard,3,W-303,H9310001,AP Microeconomics
+Upper,Rankin,Richard,4,W-303,H9310003,AP Microeconomics
+Upper,Rankin,Richard,5,W-303,H9310002,AP Microeconomics
+Upper,Rankin,Richard,8,W-303,H9310004,AP Microeconomics
+Upper,Remignanti,Laine,3,I-109,E1030005,English 7
+Upper,Remignanti,Laine,4,I-109,E1030006,English 7
+Upper,Remignanti,Laine,5,I-109,E6120005,American Literature
+Upper,Remignanti,Laine,7,I-109,E1030010,English 7
+Upper,Remignanti,Laine,8,I-109,E6110006,American Literature
+Upper,Reppun,Joshua,7,S-FL4,H7310001,Contemporary Issues in America
+Upper,Roberts,David,1,A-101,A7110001,Design 3-D 1
+Upper,Roberts,David,2,A-101,A9130001,AP Studio Art: 3-D Design
+Upper,Roberts,David,3,A-101,A7110002,Design 3-D 1
+Upper,Roberts,David,4,A-101,A7110003,Design 3-D 1
+Upper,Roberts,David,6,A-101,A7120004,Design 3-D 1
+Upper,Roberts,Karen,0HR,W-301,YH530010,Homeroom 11
+Upper,Roberts,Karen,3,N-201,L8630001,Latin 1
+Upper,Roberts,Karen,4,N-201,L8330001,Latin 2
+Upper,Roberts,Karen,6,N-201,L8330002,Latin 2
+Upper,Roberts,Karen,7,N-201,L8520002,Latin 2-H
+Upper,Roberts,Karen,8,N-201,L8520003,Latin 2-H
+Upper,Roberts,Ryan,1,A-102,A3110001,Ceramics 1
+Upper,Roberts,Ryan,3,A-102,A3110002,Ceramics 1
+Upper,Roberts,Ryan,4,A-102,A3110003,Ceramics 1
+Upper,Roberts,Ryan,7,A-102,A3110005,Ceramics 1
+Upper,Roberts,Ryan,8,A-102,A3110006,Ceramics 1
+Upper,Robinson,Thomas,0HR,W-205,YH630006,Homeroom 12
+Upper,Robinson,Thomas,1,W-205,R4110001,Bible
+Upper,Robinson,Thomas,2,W-205,R4120001,Bible
+Upper,Robinson,Thomas,3,W-205,R4120002,Bible
+Upper,Robinson,Thomas,4,W-205,R4110002,Bible
+Upper,Robinson,Thomas,5,W-205,R4110003,Bible
+Upper,Robinson,Thomas,6,W-205,R4120003,Bible
+Upper,Robinson,Thomas,7,W-205,R4120006,Bible
+Upper,Robinson,Thomas,8,W-205,R4110004,Bible
+Upper,Rountree,Scott,0HR,C-208,YH130001,Homeroom 7
+Upper,Rountree,Scott,1,C-208,S1030001,Science 7
+Upper,Rountree,Scott,2,C-208,S1030002,Science 7
+Upper,Rountree,Scott,6,C-208,S1030007,Science 7
+Upper,Rountree,Scott,7,C-208,S1030010,Science 7
+Upper,Rountree,Scott,8,C-208,S1030011,Science 7
+Upper,Rubasch,James,0HR,W-301,YH530010,Homeroom 11
+Upper,Rubasch,James,1,W-301,M5110001,Algebra 2B
+Upper,Rubasch,James,2,W-301,M5110002,Algebra 2B
+Upper,Rubasch,James,4,W-301,M5120003,Algebra 2B
+Upper,Rubasch,James,6,W-301,M7730006,Precalculus
+Upper,Rubasch,James,7,W-301,M5930004,Algebra 2-H
+Upper,Rubasch,James,8,W-301,M5930005,Algebra 2-H
+Upper,Sagawa,Reid,2,TBA,Y3010001,Life Skills
+Upper,Sagawa,Reid,3,S-FL3,I2420001,Found. of Leadership & Eth
+Upper,Sagawa,Reid,6,C-209,QG710004,Guidance 7
+Upper,Sakaguchi,Kristi,0HR,I-110,YH430002,Homeroom 10
+Upper,Sakaguchi,Kristi,3,W-215,M5020003,Algebra 2A
+Upper,Sakaguchi,Kristi,4,W-215,M5020004,Algebra 2A
+Upper,Schlaich,Kayla,1,W-215,M1030001,Pre-Algebra
+Upper,Schlaich,Kayla,2,W-215,M1030002,Pre-Algebra
+Upper,Schlaich,Kayla,3,W-215,M3010003,Algebra 1A
+Upper,Schlaich,Kayla,4,W-215,M3010004,Algebra 1A
+Upper,Schroers,Gail,0HR,W-210,YH530001,Homeroom 11
+Upper,Schroers,Gail,3,W-313,E6130001,American Literary Experience
+Upper,Schroers,Gail,6,W-201,E3030010,English 9
+Upper,Schroers,Gail,7,W-201,E3030015,English 9
+Upper,Schroers,Gail,8,W-201,E3030016,English 9
+Upper,Schroers-Martin,Meghann,7,W-315,E6220003,British Literature
+Upper,Shimamoto,Teresa,0HR,W-106,YH530002,Homeroom 11
+Upper,Shimamoto,Teresa,1,W-106,S9030001,AP Biology
+Upper,Shimamoto,Teresa,2,W-106,S9030002,AP Biology
+Upper,Shimamoto,Teresa,5,W-106,S9030003,AP Biology
+Upper,Shimamoto,Teresa,8,W-106,S9030004,AP Biology
+Upper,Simopoulos,Nicole,4,R-101,QR820004,Religion 8
+Upper,Simopoulos,Nicole,6,R-101,QR820006,Religion 8
+Upper,Strawn,Christopher,2,N-202,L8930002,Latin 5 Honors
+Upper,Strawn,Christopher,3,N-202,L9240002,AP Latin
+Upper,Strawn,Christopher,6,N-202,L9240003,AP Latin
+Upper,Strawn,Christopher,7,N-202,L9240004,AP Latin
+Upper,Suemori,Alan,0HR,I-203,YH330006,Homeroom 9
+Upper,Suemori,Alan,3,I-203,H3330007,History of the Modern World
+Upper,Suemori,Alan,5,I-203,SH010085,Study Hall - Q1
+Upper,Suemori,Alan,6,I-203,H3330011,History of the Modern World
+Upper,Suemori,Alan,7,I-203,H2330009,History of the Ancient World
+Upper,Suemori,Alan,8,I-203,H2330010,History of the Ancient World
+Upper,Takayesu,John,0HR,W-302,YH630012,Homeroom 12
+Upper,Takayesu,John,1,W-302,M5020001,Algebra 2A
+Upper,Takayesu,John,2,W-302,M5020002,Algebra 2A
+Upper,Takayesu,John,3,W-302,M5930001,Algebra 2-H
+Upper,Takayesu,John,5,W-302,M5930003,Algebra 2-H
+Upper,Takayesu,John,6,W-302,M5110006,Algebra 2B
+Upper,Takayesu,John,7,W-302,M5110007,Algebra 2B
+Upper,Takazawa,Kathryn,0HR,I-201,YH430009,Homeroom 10
+Upper,Takazawa,Kathryn,1,I-201,S5130001,Chemistry in the Community
+Upper,Takazawa,Kathryn,5,I-202,S5330008,Chemistry
+Upper,Takazawa,Kathryn,6,I-202,S5330009,Chemistry
+Upper,Takazawa,Kathryn,7,I-202,S5330010,Chemistry
+Upper,Takeuchi,Lance,0HR,W-216,YH530009,Homeroom 11
+Upper,Takeuchi,Lance,1,W-216,M4930001,Geometry-H
+Upper,Takeuchi,Lance,3,W-216,M3120003,Algebra 1B
+Upper,Takeuchi,Lance,4,W-216,M3120004,Algebra 1B
+Upper,Takeuchi,Lance,5,W-216,SH150002,Study Hall
+Upper,Takeuchi,Lance,6,W-216,M4930004,Geometry-H
+Upper,Takeuchi,Lance,7,W-216,M3210008,Algebra 1C
+Upper,Takeuchi,Lance,8,W-216,M3210009,Algebra 1C
+Upper,Teske,Larry,0HR,C-100,YH130002,Homeroom 7
+Upper,Teske,Larry,3,C-100,M1030005,Pre-Algebra
+Upper,Teske,Larry,4,C-100,M1030006,Pre-Algebra
+Upper,Teske,Larry,7,C-100,M3930003,Algebra 1-H
+Upper,Teske,Larry,8,C-100,M3930004,Algebra 1-H
+Upper,Tom,Patrick,2,TBA,Y3010004,Life Skills
+Upper,Tomatani,Ann,0HR,I-217,YH430012,Homeroom 10
+Upper,Tomatani,Ann,3,I-217,L4520001,Japanese 2-H
+Upper,Tomatani,Ann,4,I-217,L4520002,Japanese 2-H
+Upper,Tomatani,Ann,6,I-217,L4230001,Japanese 1
+Upper,Tomatani,Ann,8,I-217,L4230002,Japanese 1
+Upper,Tomiyasu,Bertha,1,I-201,S5930001,Chemistry Honors
+Upper,Tomiyasu,Bertha,4,I-202,S5330005,Chemistry
+Upper,Tomiyasu,Bertha,5,I-201,S5930002,Chemistry Honors
+Upper,Tucker,Thomas,0HR,I-104,YH430007,Homeroom 10
+Upper,Tucker,Thomas,4,I-106,E9130002,AP English Literature
+Upper,Tucker,Thomas,5,I-106,E9130003,AP English Literature
+Upper,Tucker,Thomas,6,I-106,E6210002,British Literature
+Upper,Tucker,Thomas,7,I-106,E4330007,English 10 Honors
+Upper,Uehara,Janis,0HR,A-203,YH230010,Homeroom 8
+Upper,Uehara,Janis,2,A-203,QA910001,Art 9
+Upper,Uehara,Janis,3,A-203,A4110001,Drawing 1
+Upper,Uehara,Janis,4,A-203,A4110002,Drawing 1
+Upper,Uehara,Janis,5,A-203,A4320003,Drawing 3
+Upper,Uehara,Janis,7,A-203,A7410001,Painting 1
+Upper,Uejio,Kirk,3,S-FL3,I2420001,Found. of Leadership & Eth
+Upper,Uejio,Kirk,4,S-306,I6050001,One Mile Project
+Upper,Uejio,Kirk,7,S-306,I6060001,One Mile Project
+Upper,Uyehara Ngo,Alison,0HR,A-203,YH230010,Homeroom 8
+Upper,Uyehara Ngo,Alison,1,A-202,A5110001,Photography 1
+Upper,Uyehara Ngo,Alison,2,A-202,QA920001,Art 9
+Upper,Uyehara Ngo,Alison,3,A-202,A5110002,Photography 1
+Upper,Uyehara Ngo,Alison,4,A-202,A5110003,Photography 1
+Upper,Uyehara Ngo,Alison,7,A-202,A5110004,Photography 1
+Upper,Wada,Kevin,5,CAFE,W0710005,Internship-Cafe
+Upper,Wada,Kevin,5L,CAFE,W0710009,Internship-Cafe
+Upper,Wada,Li Ann,0HR,C-107,YH230003,Homeroom 8
+Upper,Wada,Li Ann,1,C-107,M3930001,Algebra 1-H
+Upper,Wada,Li Ann,2,C-107,M3930002,Algebra 1-H
+Upper,Wada,Li Ann,3,C-107,M4020004,Geometry A
+Upper,Wada,Li Ann,4,C-107,M4020005,Geometry A
+Upper,Wada,Li Ann,5,C-107,M4110005,Geometry B
+Upper,Waidyatilleka,Cate,0HR,W-206,YH530005,Homeroom 11
+Upper,Waidyatilleka,Cate,1,W-206,E1030003,English 7
+Upper,Waidyatilleka,Cate,2,W-206,E4030002,English 10
+Upper,Waidyatilleka,Cate,4,W-206,SH020004,Study Hall - Q2
+Upper,Waidyatilleka,Cate,5,W-206,E4030006,English 10
+Upper,Waidyatilleka,Cate,8,W-206,E1030012,English 7
+Upper,Waitherwerch,Frank,1,C-202,L8130001,Latin 1B
+Upper,Waitherwerch,Frank,2,C-202,L8030001,Latin 1A
+Upper,Waitherwerch,Frank,3,C-202,L8030002,Latin 1A
+Upper,Waitherwerch,Frank,4,C-202,L8030003,Latin 1A
+Upper,Warehime,Randyll,0HR,I-101,YH430003,Homeroom 10
+Upper,Warehime,Randyll,1,I-101,S4030001,Biology
+Upper,Warehime,Randyll,2,I-101,S4030003,Biology
+Upper,Warehime,Randyll,7,I-101,S4030013,Biology
+Upper,Warehime,Randyll,8,I-101,S4030014,Biology
+Upper,Webb,Peter,1,W-311,E6420001,Shakespeare
+Upper,Webb,Peter,2,W-311,E6410001,Shakespeare
+Upper,Webb,Peter,3,W-311,E6410002,Shakespeare
+Upper,Webb,Peter,6,W-311,E6420003,Shakespeare
+Upper,Webb,Peter,8,W-311,E6210003,British Literature
+Upper,Wehrman,Joan,0HR,C-102,YH330002,Homeroom 9
+Upper,Wehrman,Joan,1,C-102,C3030001,Orchestra 4
+Upper,Wehrman,Joan,3,C-102,C2030001,Orchestra 3
+Upper,Wehrman,Joan,7,C-102,C1030001,Orchestra 1
+Upper,Wheeler,Kristen,1,I-202,S5330001,Chemistry
+Upper,Wheeler,Kristen,2,I-202,S5330002,Chemistry
+Upper,Wheeler,Kristen,3,I-202,S5330004,Chemistry
+Upper,Wheeler,Kristen,8,I-202,S5330003,Chemistry
+Upper,Williams,Paola,1,C-110,H2330001,History of the Ancient World
+Upper,Williams,Paola,2,C-110,H2330002,History of the Ancient World
+Upper,Williams,Paola,7,C-110,H1230011,World Geography 7
+Upper,Williams,Paola,8,C-110,H1230012,World Geography 7
+Upper,Won,Joseph,0HR,I-108,YH430006,Homeroom 10
+Upper,Won,Joseph,1,I-108,E3030001,English 9
+Upper,Won,Joseph,3,I-108,E5560001,Asian American Literature
+Upper,Won,Joseph,4,I-108,E5560002,Asian American Literature
+Upper,Won,Joseph,5,I-108,E3030011,English 9
+Upper,Won,Joseph,7,I-108,E5550001,Asian American Literature
+Upper,Won,Joseph,8,I-108,E5550002,Asian American Literature
+Upper,Wong,Taylor,1,S-ILAB,I5210001,Design and Fabrication
+Upper,Wong,Taylor,2,A-102,QA910002,Art 9
+Upper,Wong,Taylor,6,A-102,A3110004,Ceramics 1
+Upper,Wong,Taylor,7,S-ILAB,I5220001,Design and Fabrication
+Upper,Wong,Taylor,8,S-ILAB,I5210002,Design and Fabrication
+Upper,Yanagihara,Gabriel,6,S-314,I5020001,Video Game Design 1
+Upper,Yanagihara,Gabriel,8,S-314,I5010001,Video Game Design 1
+Upper,Yeh,Alan,0HR,C-110,YH230001,Homeroom 8
+Upper,Yeh,Alan,2,W-212,M7730002,Precalculus
+Upper,Yeh,Alan,3,W-212,M7730003,Precalculus
+Upper,Yeh,Alan,4,W-212,M7730004,Precalculus
+Upper,Yeh,Alan,8,W-212,M4020011,Geometry A
+Upper,Yonashiro,Amy,0HR,W-213,YH630007,Homeroom 12
+Upper,Yonashiro,Amy,5,W-213,M9030001,AP Calculus AB
+Upper,Yonashiro,Amy,6,W-213,M9030003,AP Calculus AB
+Upper,Yonashiro,Amy,7,W-213,M3010008,Algebra 1A
+Upper,Yonashiro,Amy,8,W-213,M3010009,Algebra 1A
+Upper,Yoshimura,Elsie,1,I-214,L4130001,Japanese 1B
+Upper,Yoshimura,Elsie,2,I-214,L4130002,Japanese 1B
+Upper,Yoshimura,Elsie,5,I-214,L9730001,AP Japanese Lang. and Culture
+Upper,Yoshimura,Elsie,7,I-214,L4130003,Japanese 1B
+Upper,Yoshioka,Michelle,0HR,C-205,YH130009,Homeroom 7
+Upper,Yoshioka,Michelle,4,C-205,S2030006,Science 8
+Upper,Yoshioka,Michelle,5,C-205,S2030009,Science 8
+Upper,Yoshioka,Michelle,6,C-205,S2030010,Science 8
+Upper,Yoshioka,Michelle,7,C-205,S1030008,Science 7
+Upper,Yoshioka,Michelle,8,C-210,S1030009,Science 7
+Upper,Zee,Nathan,0HR,I-104,YH430007,Homeroom 10
+Upper,Zee,Nathan,2,I-104,E4330001,English 10 Honors
+Upper,Zee,Nathan,3,I-104,SH010003,Study Hall - Q1
+Upper,Zee,Nathan,4,I-104,E6120004,American Literature
+Upper,Zee,Nathan,5,I-104,E6110005,American Literature
+Upper,Zee,Nathan,7,I-104,E4030009,English 10
+Upper,Zee,Nathan,8,I-104,E4030010,English 10
