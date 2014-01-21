@@ -5,25 +5,45 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-Bell.create name: 'Basic'
-Bell.create name: 'Chapel'
-Bell.create name: 'Assembly 1'
-Bell.create name: 'Assembly 2'
-Bell.create name: 'Assembly 3'
-Bell.create name: 'Extended 1 1357'
-Bell.create name: 'Extended 1 2468'
-Bell.create name: 'Extended 2 7153'
-Bell.create name: 'Extended 2 8264'
-Bell.create name: 'Extended 3 3751'
-Bell.create name: 'Extended 3 4862'
-Bell.create name: 'Moving Up Chapel'
-Bell.create name: 'Special Convocation'
-Bell.create name: 'Special Fair Day'
-Bell.create name: 'Special May Day'
-Bell.create name: 'Varsity/Athletic Assembly'
+def create klass, name
+  klass.create(name: name) unless klass.find_by_name(name)
+end
 
-Cycle.create name: 1
-Cycle.create name: 3
-Cycle.create name: 7
+create Bell, BELL_ASSEMBLY_1
+create Bell, BELL_ASSEMBLY_2
+create Bell, BELL_ASSEMBLY_3
+create Bell, BELL_BASIC
+create Bell, BELL_CHAPEL
+create Bell, BELL_EXTENDED_1_1357
+create Bell, BELL_EXTENDED_1_2468
+create Bell, BELL_EXTENDED_2_7153
+create Bell, BELL_EXTENDED_2_8264
+create Bell, BELL_EXTENDED_3_3751
+create Bell, BELL_EXTENDED_3_4862
+create Bell, BELL_SPECIAL_CONVOCATION
+create Bell, BELL_SPECIAL_FAIR_DAY
+create Bell, BELL_SPECIAL_MAY_DAY
+create Bell, BELL_VARIETY_ATHLETIC_ASSEMBLY
+create Bell, BELL_CHAPEL_MOVING_UP
 
-Period
+create Cycle, CYCLE_1
+create Cycle, CYCLE_3
+create Cycle, CYCLE_7
+
+create Period, PERIOD_HOME_ROOM
+create Period, PERIOD_1
+create Period, PERIOD_2
+create Period, PERIOD_3
+create Period, PERIOD_4
+create Period, PERIOD_5
+create Period, PERIOD_6
+create Period, PERIOD_7
+create Period, PERIOD_8
+create Period, PERIOD_ASSEMBLY
+create Period, PERIOD_CHAPEL
+create Period, PERIOD_LUNCH
+create Period, PERIOD_MEETING
+create Period, PERIOD_CONVOCATION
+create Period, PERIOD_CEREMONY
+
+

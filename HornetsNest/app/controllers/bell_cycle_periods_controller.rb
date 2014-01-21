@@ -1,0 +1,2 @@
+class BellCyclePeriodsController < ApplicationController
+end

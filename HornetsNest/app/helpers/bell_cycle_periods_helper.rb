@@ -1,0 +1,2 @@
+module BellCyclePeriodsHelper
+end

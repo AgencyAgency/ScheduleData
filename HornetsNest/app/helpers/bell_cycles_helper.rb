@@ -1,0 +1,2 @@
+module BellCyclesHelper
+end

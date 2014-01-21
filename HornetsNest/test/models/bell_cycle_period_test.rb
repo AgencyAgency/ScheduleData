@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class PeriodsControllerTest < ActionController::TestCase
+class BellCyclePeriodTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

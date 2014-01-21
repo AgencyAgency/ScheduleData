@@ -1,3 +1,3 @@
 class Period < ActiveRecord::Base
-  belongs_to :bell_cycle
+  has_many :bell_cycle_periods
 end

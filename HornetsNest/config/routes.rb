@@ -1,4 +1,10 @@
 HornetsNest::Application.routes.draw do
+  resources :bell_cycle_periods
+
+  resources :school_days
+
+  resources :bell_cycles
+
   resources :periods
 
   resources :cycles

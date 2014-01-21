@@ -11,7 +11,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131206173627) do
+ActiveRecord::Schema.define(version: 20140121092406) do
+
+  create_table "bell_cycle_periods", force: true do |t|
+    t.time     "start_time"
+    t.time     "end_time"
+    t.integer  "bell_cycle_id"
+    t.integer  "period_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "bell_cycle_periods", ["bell_cycle_id"], name: "index_bell_cycle_periods_on_bell_cycle_id"
+  add_index "bell_cycle_periods", ["period_id"], name: "index_bell_cycle_periods_on_period_id"
 
   create_table "bell_cycles", force: true do |t|
     t.integer  "bell_id"
@@ -30,20 +42,24 @@ ActiveRecord::Schema.define(version: 20131206173627) do
   end
 
   create_table "cycles", force: true do |t|
-    t.integer  "name"
+    t.string   "name"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "periods", force: true do |t|
     t.string   "name"
-    t.time     "start_time"
-    t.time     "end_time"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "school_days", force: true do |t|
+    t.date     "day"
     t.integer  "bell_cycle_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
-  add_index "periods", ["bell_cycle_id"], name: "index_periods_on_bell_cycle_id"
+  add_index "school_days", ["bell_cycle_id"], name: "index_school_days_on_bell_cycle_id"
 
 end

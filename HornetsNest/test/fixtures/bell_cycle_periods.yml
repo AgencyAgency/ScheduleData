@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2014-01-20 23:24:06
+  end_time: 2014-01-20 23:24:06
+  bell_cycle_id: 
+  period_id: 
+
+two:
+  start_time: 2014-01-20 23:24:06
+  end_time: 2014-01-20 23:24:06
+  bell_cycle_id: 
+  period_id: 
