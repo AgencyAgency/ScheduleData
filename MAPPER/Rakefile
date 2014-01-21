@@ -5,7 +5,7 @@ require_relative 'parse_teachers'
 
 DATA_DIRECTORY = "data"
 RAW_SCHEDULE = "#{DATA_DIRECTORY}/converted.txt"
-RAW_TEACHERS = "#{DATA_DIRECTORY}/export_faculty_schedules.csv"
+RAW_TEACHERS = "#{DATA_DIRECTORY}/export_faculty_schedules_wdaily_classes.csv"
 
 directory LOG_DIRECTORY
 directory DB_DIRECTORY
@@ -50,6 +50,11 @@ namespace :teacher do
   desc "Export teacher database to JSON file."
   task :output_json do
     write_teachers_to_json
+  end
+
+  desc "Export teacher database to XLS, tabbed-delimited CSV."
+  task :output_xls do
+    write_teachers_to_xls
   end
 
 end

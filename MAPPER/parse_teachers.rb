@@ -26,6 +26,17 @@ class Teacher
   property :period, String
   property :course, String
   property :email, String
+  property :room, String
+  property :section, String
+  property :m, Boolean, default: false
+  property :tu, Boolean, default: false
+  property :w, Boolean, default: false
+  property :th, Boolean, default: false
+  property :f, Boolean, default: false
+  property :q1, Boolean, default: false
+  property :q2, Boolean, default: false
+  property :q3, Boolean, default: false
+  property :q4, Boolean, default: false
 end
 DataMapper.auto_upgrade!
 
@@ -52,16 +63,92 @@ end
 #   end
 # end
 
+def quarters_from section
+  q1 = q2 = q3 = q4 = false
+
+  # Sequence Course
+  if section =~ /^[Q]/
+    if section[3] == "1"
+      q1 = true
+    elsif section[3] == "2"
+      q2 = true
+    elsif section[3] == "3"
+      q3 = true
+    elsif section[3] == "4"
+      q4 = true
+    end
+
+  # Life Skills
+  elsif section =~ /^Y30/
+    if section[3] == "1"
+      q1 = q2 = true
+    elsif section[3] == "2"
+      q3 = q4 = true
+    end
+
+  # Non-Sequence
+  else
+    if section[3] == "1"
+      q1 = q2 = true
+    elsif section[3] == "2"
+      q3 = q4 = true
+    elsif section[3] == "3"
+      q1 = q2 = q3 = q4 = true
+    end
+  end
+
+  [q1, q2, q3, q4]
+end
+
 def load_teacher_from hashed_teacher
   h = hashed_teacher
 
-  teacher = Teacher.new( 
-              first_name: h[:first_name],
-              last_name: h[:last_name],
-              email: nil,
-              period: h[:block_name],
-              course: h[:full_name])
-  unless teacher.save
+  period = h[:block_name]
+  period = "Home Room" if period == "0HR"
+  section = h[:section_id]
+
+  teacher = Teacher.first_or_create(
+      first_name: h[:first_name],
+      last_name: h[:last_name],
+      room: h[:room],
+      period: period,
+      course: h[:full_name],
+      section: section
+    )
+
+  # p h
+  # p teacher
+
+  monday    = teacher[:m]  || h[:weekday_name] == "Monday"
+  tuesday   = teacher[:tu] || h[:weekday_name] == "Tuesday"
+  wednesday = teacher[:w]  || h[:weekday_name] == "Wednesday"
+  thursday  = teacher[:th] || h[:weekday_name] == "Thursday"
+  friday    = teacher[:f]  || h[:weekday_name] == "Friday"
+
+  # puts "monday: #{monday}"
+  # puts "tuesday: #{tuesday}"
+  # puts "wednesday: #{wednesday}"
+  # puts "thursday: #{thursday}"
+  # puts "friday: #{friday}"
+
+  q1, q2, q3, q4 = quarters_from section
+  q1 = teacher[:q1] || q1
+  q2 = teacher[:q2] || q2
+  q3 = teacher[:q3] || q3
+  q4 = teacher[:q4] || q4
+
+  unless teacher.update(
+      email: nil,
+      m: monday,
+      tu: tuesday,
+      w: wednesday,
+      th: thursday,
+      f: friday,
+      q1: q1,
+      q2: q2,
+      q3: q3,
+      q4: q4
+    )
     puts "Error saving teacher!\n#{h}"
   end
 end
@@ -69,11 +156,14 @@ end
 # Filter for courses for teachers:
 # - In upper school
 # - Not home room
+ALLOWED_PERIODS = %w[0HR 1 2 3 4 5 6 7 8 Assembly Chapel Lunch Meeting]
 def selected_teachers hashed_teachers
   hashed_teachers.select do |teacher|
     teacher[:school_id] == "Upper" && 
-    teacher[:block_name] != "0HR" && 
-    teacher[:block_name].to_s != "0"
+    ALLOWED_PERIODS.include?(teacher[:block_name].to_s) #&&
+    # teacher[:section_id] =~ /^[^Q]/ &&   # Remove quarter-long sequence courses
+    # teacher[:section_id] =~ /^(?!SH)/ && # Remove Study Hall
+    # teacher[:section_id] =~ /^(?!Y)/    # Remove Life Skills
   end
 end
 
@@ -88,5 +178,14 @@ end
 def write_teachers_to_json
   File.open("#{OUTPUT_DIR}/teachers.json","w") do |f|
     f.write(Teacher.all.to_json)
+  end
+end
+
+def write_teachers_to_xls
+  CSV.open("#{OUTPUT_DIR}/teachers.xls","w") do |csv|
+    csv << Teacher.first.attributes.keys
+    Teacher.all.each do |teacher|
+      csv << teacher.attributes.values
+    end
   end
 end

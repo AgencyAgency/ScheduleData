@@ -1,0 +1,1034 @@
+id,first_name,last_name,period,course,email,room,section,m,tu,w,th,f,q1,q2,q3,q4
+1,Curtis,Abe,Home Room,Homeroom 7,,C-106,YH130003,true,true,true,true,true,true,true,true,true
+2,Curtis,Abe,4,Stage Band 3,,C-103,C6230001,true,true,true,true,true,true,true,true,true
+3,Curtis,Abe,5,Stage Band 1,,C-103,C3230001,true,true,true,true,true,true,true,true,true
+4,Curtis,Abe,6,Stage Band 2,,C-103,C4230001,true,true,true,true,true,true,true,true,true
+5,Curtis,Abe,6,Study Hall,,C-103,SH260015,true,true,true,true,true,false,false,false,false
+6,Curtis,Abe,7,Stage Band Rhythm Fundamentals,,C-104,C2230001,true,true,true,true,true,true,true,true,true
+7,Jo Ann,Akamine,Home Room,Homeroom 9,,I-215,YH330011,true,true,true,true,true,true,true,true,true
+8,Jo Ann,Akamine,1,Japanese 4-H,,I-215,L4830001,true,true,true,true,true,true,true,true,true
+9,Jo Ann,Akamine,2,Japanese 4-H,,I-215,L4830002,true,true,true,true,true,true,true,true,true
+10,Jo Ann,Akamine,3,Japanese 4-H,,I-215,L4830003,true,true,true,true,true,true,true,true,true
+11,Jo Ann,Akamine,5,Japanese 5-H,,I-215,L4930001,true,true,true,true,true,true,true,true,true
+12,John,Alexander,2,Chorus 1 T/B,,C-101,C5230001,true,true,true,true,true,true,true,true,true
+13,John,Alexander,4,Chorus 2,,C-101,C5330001,true,true,true,true,true,true,true,true,true
+14,John,Alexander,5,Chorus 1 T/B,,C-101,C5230002,true,true,true,true,true,true,true,true,true
+15,John,Alexander,6,Chorus 1 S/A,,C-101,C5130001,true,true,true,true,true,true,true,true,true
+16,Michael,Among,Home Room,Homeroom 8,,C-207,YH230007,true,true,true,true,true,true,true,true,true
+17,Michael,Among,1,English 8,,C-207,E2030001,true,true,true,true,true,true,true,true,true
+18,Michael,Among,2,English 8,,C-207,E2030002,true,true,true,true,true,true,true,true,true
+19,Michael,Among,3,Finding Poetry,,C-207,E9020001,true,true,true,true,true,false,false,true,true
+20,Michael,Among,6,Finding Poetry,,C-207,E9020002,true,true,true,true,true,false,false,true,true
+21,Michael,Among,7,Finding Poetry,,C-207,E9010001,true,true,true,true,true,true,true,false,false
+22,Michael,Among,8,Finding Poetry,,C-207,E9010002,true,true,true,true,true,true,true,false,false
+23,Maria,Au Hoy,Home Room,Homeroom 10,,I-110,YH430002,true,true,true,true,true,true,true,true,true
+24,Maria,Au Hoy,3,Chinese 1,,N-209,L3230001,true,true,true,true,true,true,true,true,true
+25,Maria,Au Hoy,4,Chinese 2-H,,N-209,L3420001,true,true,true,true,true,false,false,true,true
+26,Maria,Au Hoy,5,Chinese 2,,N-209,L3330001,true,true,true,true,true,true,true,true,true
+27,Maria,Au Hoy,6,Chinese 1A,,N-209,L3030001,true,true,true,true,true,true,true,true,true
+28,Maria,Au Hoy,7,Chinese 1B,,N-209,L3130001,true,true,true,true,true,true,true,true,true
+29,Ernette,Au,Home Room,Homeroom 9,,I-209,YH330008,true,true,true,true,true,true,true,true,true
+30,Ernette,Au,2,AP Psychology,,I-209,X9030001,true,true,true,true,true,true,true,true,true
+31,Ernette,Au,3,AP Psychology,,I-209,X9030002,true,true,true,true,true,true,true,true,true
+32,Ernette,Au,4,AP Psychology,,I-209,X9030003,true,true,true,true,true,true,true,true,true
+33,Ernette,Au,5,Study Hall,,I-209,SH150015,true,true,true,true,true,false,false,false,false
+34,Ernette,Au,6,AP Psychology,,I-209,X9030004,true,true,true,true,true,true,true,true,true
+35,Ernette,Au,7,Psychology 1,,I-209,X5020001,true,true,true,true,true,false,false,true,true
+36,Ernette,Au,8,Algebra 1B,,I-209,M3110001,true,true,true,true,true,true,true,false,false
+37,Luz-Marina,Barnard,Home Room,Homeroom 9,,I-210,YH330009,true,true,true,true,true,true,true,true,true
+38,Luz-Marina,Barnard,3,Spanish 3-H,,I-210,L6720001,true,true,true,true,true,false,false,true,true
+39,Luz-Marina,Barnard,4,Spanish 2,,I-210,L6330001,true,true,true,true,true,true,true,true,true
+40,Luz-Marina,Barnard,5,Spanish 4,,I-210,L6730001,true,true,true,true,true,true,true,true,true
+41,Luz-Marina,Barnard,7,Spanish 2,,I-210,L6330002,true,true,true,true,true,true,true,true,true
+42,Luz-Marina,Barnard,8,Spanish Conv. & Culture,,I-210,L6830001,true,true,true,true,true,true,true,true,true
+43,Andrea,Barnes,Home Room,Homeroom 8,,C-202,YH230004,true,true,true,true,true,true,true,true,true
+44,Andrea,Barnes,1,Science 8,,C-205,S2030001,true,true,true,true,true,true,true,true,true
+45,Andrea,Barnes,2,Science 8,,C-205,S2030002,true,true,true,true,true,true,true,true,true
+46,Andrea,Barnes,3,Science 8,,C-205,S2030005,true,true,true,true,true,true,true,true,true
+47,Andrea,Barnes,6,Chemistry,,I-202,S5330007,true,false,true,false,true,true,true,true,true
+48,Andrea,Barnes,6,Chemistry,,I-202L,S5330007,false,true,false,true,false,true,true,true,true
+49,Andrea,Barnes,8,Science 8,,C-205,S2030012,true,true,true,true,true,true,true,true,true
+50,Elizabeth,Barry,2,Reading 7,,C-209,Z1030002,true,true,true,true,true,true,true,true,true
+51,Elizabeth,Barry,2,Reading 8,,C-209,Z1230002,true,true,true,true,true,true,true,true,true
+52,Elizabeth,Barry,3,Reading 7,,C-209,Z1030003,true,true,true,true,true,true,true,true,true
+53,Elizabeth,Barry,3,Reading 8,,C-209,Z1230003,true,true,true,true,true,true,true,true,true
+54,Elizabeth,Barry,4,Reading 7,,C-209,Z1030004,true,true,true,true,true,true,true,true,true
+55,Elizabeth,Barry,4,Reading 8,,C-209,Z1230004,true,true,true,true,true,true,true,true,true
+56,Elizabeth,Barry,5,Reading 9,,C-209,Z2330001,true,true,true,true,true,true,true,true,true
+57,Yuki,Basso,2,English 7,,C-211,E1030004,true,true,true,true,true,true,true,true,true
+58,Yuki,Basso,3,English 8,,C-211,E2030003,true,true,true,true,true,true,true,true,true
+59,Yuki,Basso,4,English 8,,C-211,E2030004,true,true,true,true,true,true,true,true,true
+60,Yuki,Basso,7,English 7,,C-211,E1030011,true,true,true,true,true,true,true,true,true
+61,Risa,Beer,5,Film Production,,S-314,I6620001,true,true,true,true,true,false,false,true,true
+62,Risa,Beer,6,Film Production,,S-314,I6610001,true,true,true,true,true,true,true,false,false
+63,John,Bickel,Home Room,Homeroom 10,,I-207,YH430004,true,true,true,true,true,true,true,true,true
+64,John,Bickel,2,History of the Modern World,,I-207,H3330015,true,true,true,true,true,true,true,true,true
+65,John,Bickel,2,Hist. of the Modern World - II,,I-207,H3360006,true,true,true,true,true,false,false,false,false
+66,John,Bickel,3,War in the 20th Century-Eng.,,I-207,E7710001,true,true,true,true,true,true,true,false,false
+67,John,Bickel,3,War in the 20th Century-Eng.,,I-207,E7720001,true,true,true,true,true,false,false,true,true
+68,John,Bickel,3,War in the 20th Century-Hist.,,I-207,H7710001,true,true,true,true,true,true,true,false,false
+69,John,Bickel,3,War in the 20th Century-Hist.,,I-207,H7720001,true,true,true,true,true,false,false,true,true
+70,John,Bickel,5,History of the Modern World,,I-207,H3330009,true,true,true,true,true,true,true,true,true
+71,John,Bickel,7,History of the Modern World,,I-207,H3330014,true,true,true,true,true,true,true,true,true
+72,John,Bickel,7,Hist. of the Modern World - II,,I-207,H3360004,true,true,true,true,true,false,false,false,false
+73,John,Bickel,8,War in the 20th Century-Eng.,,I-207,E7710002,true,true,true,true,true,true,true,false,false
+74,John,Bickel,8,War in the 20th Century-Eng.,,I-207,E7720002,true,true,true,true,true,false,false,true,true
+75,John,Bickel,8,War in the 20th Century-Hist.,,I-207,H7710002,true,true,true,true,true,true,true,false,false
+76,John,Bickel,8,War in the 20th Century-Hist.,,I-207,H7720002,true,true,true,true,true,false,false,true,true
+77,Allison,Blankenship,Home Room,Homeroom 12,,S-FL3,YH630001,true,true,true,true,true,true,true,true,true
+78,Allison,Blankenship,4,One Mile Project,,S-306,I6050001,true,true,true,true,true,false,false,false,false
+79,Allison,Blankenship,7,One Mile Project,,S-306,I6060001,true,true,true,true,true,false,false,false,false
+80,Lori,Bloom,Home Room,Homeroom 10,,I-106,YH430005,true,true,true,true,true,true,true,true,true
+81,Lori,Bloom,2,English 10,,W-315,E4030003,true,true,true,true,true,true,true,true,true
+82,Lori,Bloom,3,English 10 Honors,,W-315,E4330002,true,true,true,true,true,true,true,true,true
+83,Lori,Bloom,4,English 10 Honors,,W-315,E4330005,true,true,true,true,true,true,true,true,true
+84,Lori,Bloom,6,English 10,,W-315,E4030007,true,true,true,true,true,true,true,true,true
+85,Rebus,Bonning,Home Room,Homeroom 9,,I-204,YH330001,true,true,true,true,true,true,true,true,true
+86,Rebus,Bonning,1,History of the Modern World,,I-204,H3330001,true,true,true,true,true,true,true,true,true
+87,Rebus,Bonning,2,World Geography 7,,I-204,H1230004,true,true,true,true,true,true,true,true,true
+88,Rebus,Bonning,4,History of the Modern World,,I-204,H3330006,true,true,true,true,true,true,true,true,true
+89,Rebus,Bonning,5,World Geography 7,,I-204,H1230009,true,true,true,true,true,true,true,true,true
+90,Mark,Brasher,Home Room,Homeroom 7,,C-203,YH130007,true,true,true,true,true,true,true,true,true
+91,Mark,Brasher,1,World Geography 7,,C-203,H1230001,true,true,true,true,true,true,true,true,true
+92,Mark,Brasher,2,World Geography 7,,C-203,H1230002,true,true,true,true,true,true,true,true,true
+93,Mark,Brasher,5,History of the Ancient World,,C-203,H2330011,true,true,true,true,true,true,true,true,true
+94,Mark,Brasher,6,History of the Ancient World,,C-203,H2330012,true,true,true,true,true,true,true,true,true
+95,Frank,Briguglio,Home Room,Homeroom 10,,I-106,YH430005,true,true,true,true,true,true,true,true,true
+96,B. Tate,Brown,1,Internship-M.O.,,M.O.,W1510001,true,true,true,true,true,true,true,false,false
+97,B. Tate,Brown,1,Internship-M.O.,,M.O.,W1520001,true,true,true,true,true,false,false,true,true
+98,B. Tate,Brown,2,Internship-M.O.,,M.O.,W1510002,true,true,true,true,true,true,true,false,false
+99,B. Tate,Brown,2,Internship-M.O.,,M.O.,W1520002,true,true,true,true,true,false,false,true,true
+100,B. Tate,Brown,3,Internship-M.O.,,M.O.,W1510003,true,true,true,true,true,true,true,false,false
+101,B. Tate,Brown,3,Internship-M.O.,,M.O.,W1520003,true,true,true,true,true,false,false,true,true
+102,B. Tate,Brown,4,Internship-M.O.,,M.O.,W1510004,true,true,true,true,true,true,true,false,false
+103,B. Tate,Brown,4,Internship-M.O.,,M.O.,W1520004,true,true,true,true,true,false,false,true,true
+104,B. Tate,Brown,5,Internship-M.O.,,M.O.,W1510005,true,true,true,true,true,true,true,false,false
+105,B. Tate,Brown,5,Internship-M.O.,,M.O.,W1520005,true,true,true,true,true,false,false,true,true
+106,B. Tate,Brown,6,Internship-M.O.,,M.O.,W1510006,true,true,true,true,true,true,true,false,false
+107,B. Tate,Brown,6,Internship-M.O.,,M.O.,W1520006,true,true,true,true,true,false,false,true,true
+108,B. Tate,Brown,7,Internship-M.O.,,M.O.,W1510007,true,true,true,true,true,true,true,false,false
+109,B. Tate,Brown,7,Internship-M.O.,,M.O.,W1520007,true,true,true,true,true,false,false,true,true
+110,B. Tate,Brown,8,Internship-M.O.,,M.O.,W1510008,true,true,true,true,true,true,true,false,false
+111,B. Tate,Brown,8,Internship-M.O.,,M.O.,W1520008,true,true,true,true,true,false,false,true,true
+112,David,Caldwell,Home Room,Homeroom 10,,SC-103,YH430013,true,true,true,true,true,true,true,true,true
+113,David,Caldwell,1,Religion 8,,SC-103,QR820001,true,true,true,true,true,false,true,false,false
+114,David,Caldwell,2,Life Skills,,TBA,Y3010004,true,true,true,true,true,true,true,false,false
+115,David,Caldwell,2,Life Skills,,TBA,Y3010005,true,true,true,true,true,true,true,false,false
+116,David,Caldwell,2,Life Skills,,TBA,Y3010006,true,true,true,true,true,true,true,false,false
+117,David,Caldwell,2,Life Skills,,TBA,Y3020004,true,true,true,true,true,false,false,true,true
+118,David,Caldwell,2,Life Skills,,TBA,Y3020005,true,true,true,true,true,false,false,true,true
+119,David,Caldwell,2,Life Skills,,TBA,Y3020006,true,true,true,true,true,false,false,true,true
+120,David,Caldwell,5,Religion 8,,SC-103,QR820002,true,true,true,true,true,false,true,false,false
+121,David,Caldwell,6,Religion 8,,SC-103,QR820003,true,true,true,true,true,false,true,false,false
+122,Dane,Camp,Home Room,Homeroom 12,,W-304,YH630002,true,true,true,true,true,true,true,true,true
+123,Dane,Camp,1,Algebra 1C,,W-304,M3210001,true,true,true,true,true,true,true,false,false
+124,Dane,Camp,3,Trigonometry,,W-304,M6020003,true,true,true,true,true,false,false,true,true
+125,Dane,Camp,4,Trigonometry,,W-304,M6020004,true,true,true,true,true,false,false,true,true
+126,Dane,Camp,5,Trigonometry,,W-304,M6020005,true,true,true,true,true,false,false,true,true
+127,Dane,Camp,6,Algebra 1C,,W-304,M3210007,true,true,true,true,true,true,true,false,false
+128,Dane,Camp,7,AP Calculus BC,,W-304,M9130003,true,true,true,true,true,true,true,true,true
+129,Dane,Camp,8,Algebra 1C,,W-304,M3210010,true,true,true,true,true,true,true,false,false
+130,C. Lehua,Carvalho,Home Room,Homeroom 9,,I-209,YH330008,true,true,true,true,true,true,true,true,true
+131,C. Lehua,Carvalho,1,Dance 1,,G-203,C7130001,true,true,true,true,true,true,true,true,true
+132,C. Lehua,Carvalho,2,Dance 2,,G-203,C7230001,true,true,true,true,true,true,true,true,true
+133,C. Lehua,Carvalho,3,Dance 3,,G-203,C7330001,true,true,true,true,true,true,true,true,true
+134,C. Lehua,Carvalho,4,Dance 3,,G-203,C7330002,true,true,true,true,true,true,true,true,true
+135,C. Lehua,Carvalho,6,Dance 4,,G-203,C7830001,true,true,true,true,true,true,true,true,true
+136,C. Lehua,Carvalho,7,Dance 2,,G-203,C7230002,true,true,true,true,true,true,true,true,true
+137,C. Lehua,Carvalho,8,Dance 2,,G-203,C7230003,true,true,true,true,true,true,true,true,true
+138,Lee,Cataluna,Home Room,Homeroom 8,,C-202,YH230004,true,true,true,true,true,true,true,true,true
+139,Lee,Cataluna,1,Journalism,,S-FL3,E6570001,true,true,true,true,true,false,false,false,false
+140,Lee,Cataluna,1,Journalism,,S-FL3,E6580001,true,true,true,true,true,false,false,false,false
+141,Lee,Cataluna,1,Newsroom,,S-310,I6570001,true,true,true,true,true,false,false,false,false
+142,Lee,Cataluna,1,Newsroom,,S-310,I6580001,true,true,true,true,true,false,false,false,false
+143,Lee,Cataluna,3,Creative Writing,,S-310,E5110001,true,true,true,true,true,true,true,false,false
+144,Lee,Cataluna,4,Creative Writing,,S-310,E5110002,true,true,true,true,true,true,true,false,false
+145,Lee,Cataluna,5,Creative Non-Fiction,,W-311,E4210001,true,true,true,true,true,true,true,false,false
+146,Lee,Cataluna,6,Adv Creative Wtg,,W-316,E5320001,true,true,true,true,true,false,false,true,true
+147,Lee,Cataluna,7,Creative Writing,,W-316,E5120001,true,true,true,true,true,false,false,true,true
+148,Lee,Cataluna,8,Creative Writing,,W-316,E5120002,true,true,true,true,true,false,false,true,true
+149,Aaron,Chaney,5,Advanced Leadership Seminar-H,,S-410,I8610001,true,true,true,true,true,true,true,false,false
+150,Jennifer,Chen,Home Room,Homeroom 10,,W-103,YH430010,true,true,true,true,true,true,true,true,true
+151,Jennifer,Chen,2,Conceptual Physics,,W-103,S6030001,true,true,true,true,true,true,true,true,true
+152,Jennifer,Chen,3,Physics,,W-103,S6130003,true,true,true,true,true,true,true,true,true
+153,Jennifer,Chen,4,Physics,,W-103,S6130003,false,true,false,true,false,true,true,true,true
+154,Jennifer,Chen,4,Study Hall,,W-103,SH140015,true,false,true,false,true,false,false,false,false
+155,Jennifer,Chen,5,Physics,,W-103,S6130006,true,true,true,true,true,true,true,true,true
+156,Jennifer,Chen,6,Physics,,W-103,S6130006,false,true,false,true,false,true,true,true,true
+157,Jennifer,Chen,7,Physics,,W-103,S6130008,true,true,true,true,true,true,true,true,true
+158,Jennifer,Chen,8,Physics,,W-103,S6130008,false,true,false,true,false,true,true,true,true
+159,Holly,Chung,Home Room,Homeroom 10,,W-103,YH430010,true,true,true,true,true,true,true,true,true
+160,Holly,Chung,3,Mixed Media 1,,A-201,A2110001,true,true,true,true,true,true,true,false,false
+161,Holly,Chung,3,Mixed Media 1,,A-201,A2120001,true,true,true,true,true,false,false,true,true
+162,Holly,Chung,3,Mixed Media 2,,A-201,A2210001,true,true,true,true,true,true,true,false,false
+163,Holly,Chung,3,Mixed Media 2,,A-201,A2220001,true,true,true,true,true,false,false,true,true
+164,Holly,Chung,3,Mixed Media 3,,A-201,A2310001,true,true,true,true,true,true,true,false,false
+165,Holly,Chung,3,Mixed Media 3,,A-201,A2320001,true,true,true,true,true,false,false,true,true
+166,Holly,Chung,4,Mixed Media 1,,A-201,A2110002,true,true,true,true,true,true,true,false,false
+167,Holly,Chung,4,Mixed Media 1,,A-201,A2120002,true,true,true,true,true,false,false,true,true
+168,Holly,Chung,4,Mixed Media 2,,A-201,A2210002,true,true,true,true,true,true,true,false,false
+169,Holly,Chung,4,Mixed Media 2,,A-201,A2220002,true,true,true,true,true,false,false,true,true
+170,Holly,Chung,4,Mixed Media 3,,A-201,A2310002,true,true,true,true,true,true,true,false,false
+171,Holly,Chung,4,Mixed Media 3,,A-201,A2320002,true,true,true,true,true,false,false,true,true
+172,Holly,Chung,5,The Arts,,TBA,QA710001,true,true,true,true,true,true,false,false,false
+173,Holly,Chung,5,The Arts,,TBA,QA710002,true,true,true,true,true,true,false,false,false
+174,Holly,Chung,5,The Arts,,TBA,QA710003,true,true,true,true,true,true,false,false,false
+175,Holly,Chung,5,The Arts,,TBA,QA730001,true,true,true,true,true,false,false,true,false
+176,Holly,Chung,5,The Arts,,TBA,QA730002,true,true,true,true,true,false,false,true,false
+177,Holly,Chung,5,The Arts,,TBA,QA730003,true,true,true,true,true,false,false,true,false
+178,Holly,Chung,6,The Arts,,TBA,QA710004,true,true,true,true,true,true,false,false,false
+179,Holly,Chung,6,The Arts,,TBA,QA710005,true,true,true,true,true,true,false,false,false
+180,Holly,Chung,6,The Arts,,TBA,QA710006,true,true,true,true,true,true,false,false,false
+181,Holly,Chung,6,The Arts,,TBA,QA730004,true,true,true,true,true,false,false,true,false
+182,Holly,Chung,6,The Arts,,TBA,QA730005,true,true,true,true,true,false,false,true,false
+183,Holly,Chung,6,The Arts,,TBA,QA730006,true,true,true,true,true,false,false,true,false
+184,Holly,Church,Home Room,Homeroom 9,,I-102,YH330003,true,true,true,true,true,true,true,true,true
+185,Holly,Church,1,Biology,,I-102,S4030002,true,true,true,true,true,true,true,true,true
+186,Holly,Church,2,Biology,,I-102,S4030004,true,true,true,true,true,true,true,true,true
+187,Holly,Church,3,Biology,,I-102,S4030007,true,true,true,true,true,true,true,true,true
+188,Holly,Church,4,Biology,,I-102,S4030008,true,true,true,true,true,true,true,true,true
+189,Timothy,Cottrell,5,Advanced Leadership Seminar-H,,S-410,I8610001,true,true,true,true,true,true,true,false,false
+190,Timothy,Cottrell,6,Applied Renewable Energy Sys-H,,S-FL4,I8120001,true,true,true,true,true,false,false,true,true
+191,Sam,Cropsey,Home Room,Homeroom 11,,W-214,YH530007,true,true,true,true,true,true,true,true,true
+192,Sam,Cropsey,1,Precalculus,,W-214,M7730001,true,true,true,true,true,true,true,true,true
+193,Sam,Cropsey,2,Algebra 2A,,W-214,M5010001,true,true,true,true,true,true,true,false,false
+194,Sam,Cropsey,4,Algebra 2A,,W-214,M5010002,true,true,true,true,true,true,true,false,false
+195,Sam,Cropsey,5,Precalculus,,W-214,M7730005,true,true,true,true,true,true,true,true,true
+196,Sam,Cropsey,6,Study Hall - Q1,,W-214,SH010006,true,true,true,true,true,true,true,false,false
+197,Sam,Cropsey,6,Study Hall,,W-214,SH160002,true,true,true,true,true,false,false,false,false
+198,Sam,Cropsey,6,Study Hall,,W-214,SH160004,false,true,false,true,false,false,false,false,false
+199,Sam,Cropsey,6,Study Hall,,W-214,SH160005,true,false,true,false,true,false,false,false,false
+200,Sam,Cropsey,6,Study Hall,,W-214,SH260002,true,true,true,true,true,false,false,false,false
+201,Sam,Cropsey,6,Study Hall,,W-214,SH260005,true,false,true,false,true,false,false,false,false
+202,Sam,Cropsey,7,Trigonometry,,W-214,M6020007,true,true,true,true,true,false,false,true,true
+203,Sam,Cropsey,8,Trigonometry,,W-214,M6020008,true,true,true,true,true,false,false,true,true
+204,Manny,Dayao,Home Room,Homeroom 8,,C-103,YH230002,true,true,true,true,true,true,true,true,true
+205,Manny,Dayao,1,Concert Band,,C-103,C3110001,true,true,true,true,true,true,true,false,false
+206,Manny,Dayao,1,Symphonic Band,,C-103,C3120001,true,true,true,true,true,false,false,true,true
+207,Manny,Dayao,8,Marching Band,,C-103,C6110001,true,true,true,true,true,true,true,false,false
+208,Manny,Dayao,8,Wind Ensemble,,C-103,C6120001,true,true,true,true,true,false,false,true,true
+209,Robert,Duval,Home Room,Homeroom 11,,W-210,YH530001,true,true,true,true,true,true,true,true,true
+210,Robert,Duval,3,Intermediate Theater,,W-210,C8330001,true,true,true,true,true,true,true,true,true
+211,Robert,Duval,4,Advanced Theater,,W-210,C8430001,true,true,true,true,true,true,true,true,true
+212,Robert,Duval,5,Film Production,,S-314,I6620001,true,true,true,true,true,false,false,true,true
+213,Robert,Duval,6,Film Production,,S-314,I6610001,true,true,true,true,true,true,true,false,false
+214,Robert,Duval,7,Advanced Theater,,W-210,C8430002,true,true,true,true,true,true,true,true,true
+215,Martin,Emde,1,Design and Fabrication,,S-ILAB,I5210001,true,true,true,true,true,true,true,false,false
+216,Martin,Emde,6,Robotics 1,,S-ILAB,I4010001,true,true,true,true,true,true,true,false,false
+217,Martin,Emde,7,Design and Fabrication,,S-ILAB,I5220001,true,true,true,true,true,false,false,true,true
+218,Martin,Emde,8,Robotics 1,,S-ILAB,I4020001,true,true,true,true,true,false,false,true,true
+219,Martin,Emde,8,Design and Fabrication,,S-ILAB,I5210002,true,true,true,true,true,true,true,false,false
+220,Leslie,Evans,Home Room,Homeroom 8,,C-108,YH230005,true,true,true,true,true,true,true,true,true
+221,Leslie,Evans,1,English 7,,C-108,E1030001,true,true,true,true,true,true,true,true,true
+222,Leslie,Evans,2,English 7,,C-108,E1030002,true,true,true,true,true,true,true,true,true
+223,Leslie,Evans,5,English 8,,C-108,E2030007,true,true,true,true,true,true,true,true,true
+224,Leslie,Evans,6,English 8,,C-108,E2030008,true,true,true,true,true,true,true,true,true
+225,Theresa,Falk,Home Room,Homeroom 11,,W-204,YH530004,true,true,true,true,true,true,true,true,true
+226,Theresa,Falk,1,English 9,,W-204,E3030003,true,true,true,true,true,true,true,true,true
+227,Theresa,Falk,3,English 9,,W-204,E3030004,true,true,true,true,true,true,true,true,true
+228,Theresa,Falk,4,Women In Literature,,W-204,E6750001,true,true,true,true,true,false,false,false,false
+229,Theresa,Falk,5,Women In Literature,,W-204,E6760001,true,true,true,true,true,false,false,false,false
+230,Theresa,Falk,6,English 9,,W-204,E3030012,true,true,true,true,true,true,true,true,true
+231,Theresa,Falk,8,Study Hall - Q1,,W-204,SH010008,true,true,true,true,true,true,true,false,false
+232,Theresa,Falk,8,Study Hall - Q2,,W-204,SH020008,true,true,true,true,true,false,false,true,true
+233,Theresa,Falk,8,Study Hall - Q3,,W-204,SH030008,true,true,true,true,true,true,true,true,true
+234,Theresa,Falk,8,Study Hall - Q4,,W-204,SH040008,true,true,true,true,true,false,false,false,false
+235,Theresa,Falk,8,Study Hall,,W-204,SH180002,true,true,true,true,true,false,false,false,false
+236,Theresa,Falk,8,Study Hall,,W-204,SH280002,true,true,true,true,true,false,false,false,false
+237,Lara,Feldhaus,5,Guidance 7,,C-200,QG710001,true,true,true,true,true,true,false,false,false
+238,Lara,Feldhaus,5,Guidance 7,,C-200,QG720001,true,true,true,true,true,false,true,false,false
+239,Lara,Feldhaus,5,Guidance 7,,C-200,QG730001,true,true,true,true,true,false,false,true,false
+240,Lara,Feldhaus,5,Guidance 7,,C-200,QG740001,true,true,true,true,true,false,false,false,true
+241,Sara,Finnemore,Home Room,Homeroom 8,,C-210,YH230008,true,true,true,true,true,true,true,true,true
+242,Sara,Finnemore,1,Science 7,,C-210,S1030003,true,true,true,true,true,true,true,true,true
+243,Sara,Finnemore,3,Science 7,,C-210,S1030004,true,true,true,true,true,true,true,true,true
+244,Sara,Finnemore,4,Science 7,,C-210,S1030005,true,true,true,true,true,true,true,true,true
+245,Sara,Finnemore,5,Science 7,,C-210,S1030006,true,true,true,true,true,true,true,true,true
+246,Kimi,Frith,Home Room,Homeroom 7,,C-109,YH130004,true,true,true,true,true,true,true,true,true
+247,Kimi,Frith,1,Economics & Entrepreneurship,,C-109,H6320001,true,true,true,true,true,false,false,true,true
+248,Kimi,Frith,2,Economics & Entrepreneurship,,C-109,H6320002,true,true,true,true,true,false,false,true,true
+249,Kimi,Frith,3,World Geography 7,,C-109,H1230005,true,true,true,true,true,true,true,true,true
+250,Kimi,Frith,4,World Geography 7,,C-109,H1230006,true,true,true,true,true,true,true,true,true
+251,Kimi,Frith,7,Economics & Entrepreneurship,,S-306,H6310001,true,true,true,true,true,true,true,false,false
+252,Kimi,Frith,8,Economics & Entrepreneurship,,S-306,H6310002,true,true,true,true,true,true,true,false,false
+253,Pamela,Fujinaka,Home Room,Homeroom 10,,I-201,YH430009,true,true,true,true,true,true,true,true,true
+254,Pamela,Fujinaka,3,AP Chemistry,,I-201,S9130002,true,false,true,false,false,true,true,true,true
+255,Pamela,Fujinaka,4,AP Chemistry,,I-201L,S9130002,false,true,false,true,false,true,true,true,true
+256,Pamela,Fujinaka,3,AP Chemistry,,I-201L,S9130002,false,true,false,true,true,true,true,true,true
+257,Pamela,Fujinaka,5,Chemistry in the Community,,I-201,S5130002,true,false,true,false,false,true,true,true,true
+258,Pamela,Fujinaka,5,Chemistry in the Community,,I-201L,S5130002,false,true,false,true,true,true,true,true,true
+259,Pamela,Fujinaka,7,Chemistry in the Community,,I-201,S5130003,true,false,true,false,false,true,true,true,true
+260,Pamela,Fujinaka,7,Chemistry in the Community,,I-201L,S5130003,false,true,false,true,true,true,true,true,true
+261,Pamela,Fujinaka,8,Chemistry in the Community,,I-201,S5130004,true,false,true,false,false,true,true,true,true
+262,Pamela,Fujinaka,8,Chemistry in the Community,,I-201L,S5130004,false,true,false,true,true,true,true,true,true
+263,Matthew,Gabe,1,Latin 3-H,,N-204,L9220001,true,true,true,true,true,false,false,true,true
+264,Matthew,Gabe,2,Latin 3-H (S2),,N-204,L9210001,true,true,true,true,true,true,true,false,false
+265,Matthew,Gabe,2,Latin 3-H,,N-204,L9220002,true,true,true,true,true,false,false,true,true
+266,Matthew,Gabe,4,Latin 1B,,N-204,L8130002,true,true,true,true,true,true,true,true,true
+267,Matthew,Gabe,5,Latin 1B,,N-204,L8130003,true,true,true,true,true,true,true,true,true
+268,Matthew,Gabe,7,Latin 3,,N-204,L8530002,true,true,true,true,true,true,true,true,true
+269,Peter,Greenhill,Home Room,Homeroom 11,,W-208,YH530006,true,true,true,true,true,true,true,true,true
+270,Peter,Greenhill,1,English 10,,W-208,E4030001,true,true,true,true,true,true,true,true,true
+271,Peter,Greenhill,2,Study Hall - Q1,,W-208,SH010002,true,true,true,true,true,true,true,false,false
+272,Peter,Greenhill,2,Study Hall - Q2,,W-208,SH020002,true,true,true,true,true,false,false,true,true
+273,Peter,Greenhill,2,Study Hall,,W-208,SH120002,true,true,true,true,true,false,false,true,true
+274,Peter,Greenhill,2,Study Hall,,W-208,SH120005,true,false,true,false,true,false,false,true,true
+275,Peter,Greenhill,2,Study Hall,,W-208,SH120006,false,true,false,true,true,false,false,true,true
+276,Peter,Greenhill,2,Study Hall,,W-208,SH220002,true,true,true,true,true,false,false,true,true
+277,Peter,Greenhill,3,Literature of Sport,,W-208,E8210001,true,true,true,true,true,true,true,false,false
+278,Peter,Greenhill,4,Literature of Sport,,W-208,E8210002,true,true,true,true,true,true,true,false,false
+279,Peter,Greenhill,6,English 10,,W-208,E4030008,true,true,true,true,true,true,true,true,true
+280,Peter,Greenhill,7,Philosophical Literature,,W-208,E6520001,true,true,true,true,true,false,false,true,true
+281,Peter,Greenhill,8,Philosophical Literature,,W-208,E6520002,true,true,true,true,true,false,false,true,true
+282,Joseph,Guillou,Home Room,Homeroom 7,,C-201,YH130006,true,true,true,true,true,true,true,true,true
+283,Joseph,Guillou,4,Algebra 1C,,C-201,M3220002,true,true,true,true,true,false,false,true,true
+284,Joseph,Guillou,5,Statistics,,C-201,M6410001,true,true,true,true,true,true,true,false,false
+285,Joseph,Guillou,5,The Arts,,TBA,QA730001,true,true,true,true,true,false,false,true,false
+286,Joseph,Guillou,5,The Arts,,TBA,QA730002,true,true,true,true,true,false,false,true,false
+287,Joseph,Guillou,5,The Arts,,TBA,QA730003,true,true,true,true,true,false,false,true,false
+288,Joseph,Guillou,6,Pre-Algebra,,C-201,M1030009,true,true,true,true,true,true,true,true,true
+289,Joseph,Guillou,7,Pre-Algebra,,C-201,M1030010,true,true,true,true,true,true,true,true,true
+290,Joseph,Guillou,8,Pre-Algebra,,C-201,M1030011,true,true,true,true,true,true,true,true,true
+291,Jeffrey,Hackler,Home Room,Homeroom 11,,W-314,YH530013,true,true,true,true,true,true,true,true,true
+292,Jeffrey,Hackler,1,AP United States History,,W-314,H9030001,true,true,true,true,true,true,true,true,true
+293,Jeffrey,Hackler,2,AP United States History,,W-314,H9030002,true,true,true,true,true,true,true,true,true
+294,Jeffrey,Hackler,4,Asian Studies,,W-314,H4030001,true,true,true,true,true,true,true,true,true
+295,Jeffrey,Hackler,5,Asian Studies,,W-314,H4030002,true,true,true,true,true,true,true,true,true
+296,Jeffrey,Hackler,7,Study Hall - Q1,,W-314,SH010007,true,true,true,true,true,true,true,false,false
+297,Jeffrey,Hackler,7,Study Hall - Q2,,W-314,SH020007,true,true,true,true,true,false,false,true,true
+298,Jeffrey,Hackler,7,Study Hall,,W-314,SH170002,true,true,true,true,true,false,false,false,false
+299,Jeffrey,Hackler,7,Study Hall,,W-314,SH270002,true,true,true,true,true,false,false,false,false
+300,Katharine,Hafner,Home Room,Homeroom 9,,C-102,YH330002,true,true,true,true,true,true,true,true,true
+301,Katharine,Hafner,1,Study Hall,,C-102,SH310015,true,true,true,true,true,true,true,false,false
+302,Katharine,Hafner,2,Orchestra 2,,C-102,C1130001,true,true,true,true,true,true,true,true,true
+303,Katharine,Hafner,8,Orchestra 5,,C-102,C6030001,true,true,true,true,true,true,true,true,true
+304,Katharine,Hafner,8,Study Hall,,C-102,SH180015,true,true,true,true,true,false,false,false,false
+305,Katharine,Hafner,8,Study Hall,,C-102,SH280015,true,true,true,true,true,false,false,false,false
+306,Deborah,Hall,1,US History,,W-312,H5030001,true,true,true,true,true,true,true,true,true
+307,Deborah,Hall,2,US History,,W-312,H5030002,true,true,true,true,true,true,true,true,true
+308,Deborah,Hall,6,AP United States History,,W-312,H9030005,true,true,true,true,true,true,true,true,true
+309,Deborah,Hall,7,US History,,W-312,H5030009,true,true,true,true,true,true,true,true,true
+310,Deborah,Hall,8,US History,,W-312,H5030010,true,true,true,true,true,true,true,true,true
+311,Katherine,Hanlon,Home Room,Homeroom 9,,I-105,YH330004,true,true,true,true,true,true,true,true,true
+312,Katherine,Hanlon,5,English 7,,I-105,E1030008,true,true,true,true,true,true,true,true,true
+313,Katherine,Hanlon,6,English 7,,I-105,E1030009,true,true,true,true,true,true,true,true,true
+314,Katherine,Hanlon,7,English 8,,I-105,E2030011,true,true,true,true,true,true,true,true,true
+315,Katherine,Hanlon,8,English 8,,I-105,E2030012,true,true,true,true,true,true,true,true,true
+316,Paul,Heimerdinger,Home Room,Homeroom 8,,C-206,YH230006,true,true,true,true,true,true,true,true,true
+317,Paul,Heimerdinger,1,Science 8,,C-206,S2030003,true,true,true,true,true,true,true,true,true
+318,Paul,Heimerdinger,3,Science 8,,C-206,S2030004,true,true,true,true,true,true,true,true,true
+319,Paul,Heimerdinger,5,Science 8,,C-206,S2030007,true,true,true,true,true,true,true,true,true
+320,Paul,Heimerdinger,6,Science 8,,C-206,S2030008,true,true,true,true,true,true,true,true,true
+321,Paul,Heimerdinger,7,Science 8,,C-206,S2030011,true,true,true,true,true,true,true,true,true
+322,Frederick,Heyler,Home Room,Homeroom 9,,W-102,YH330013,true,true,true,true,true,true,true,true,true
+323,Frederick,Heyler,1,AP Physics B,,W-101,S9330001,true,true,true,true,true,true,true,true,true
+324,Frederick,Heyler,2,AP Physics B,,W-101,S9330001,false,true,false,true,false,true,true,true,true
+325,Frederick,Heyler,3,AP Physics B,,W-101,S9330002,true,true,true,true,true,true,true,true,true
+326,Frederick,Heyler,4,AP Physics B,,W-101,S9330002,false,true,false,true,false,true,true,true,true
+327,Frederick,Heyler,5,AP Physics B,,W-101,S9330003,true,true,true,true,true,true,true,true,true
+328,Frederick,Heyler,6,AP Physics B,,W-101,S9330003,false,true,false,true,false,true,true,true,true
+329,Frederick,Heyler,8,Conceptual Physics,,W-101,S6030005,true,true,true,true,true,true,true,true,true
+330,Vicki,Higashihara,5,Guidance 7,,C-207,QG710002,true,true,true,true,true,true,false,false,false
+331,Vicki,Higashihara,5,Guidance 7,,C-207,QG720002,true,true,true,true,true,false,true,false,false
+332,Vicki,Higashihara,5,Guidance 7,,C-207,QG730002,true,true,true,true,true,false,false,true,false
+333,Vicki,Higashihara,5,Guidance 7,,C-207,QG740002,true,true,true,true,true,false,false,false,true
+334,Susan,Igawa,1,Asian Amer Exp,,W-316,H4310001,true,true,true,true,true,true,true,false,false
+335,Susan,Igawa,2,Modern East Asian Studies,,W-316,H4710001,true,true,true,true,true,true,true,false,false
+336,Susan,Igawa,3,Asian Amer Exp,,W-316,H4320001,true,true,true,true,true,false,false,true,true
+337,Susan,Igawa,4,Asian Amer Exp,,W-316,H4320002,true,true,true,true,true,false,false,true,true
+338,Susan,Igawa,5,Asian Amer Exp,,W-316,H4310002,true,true,true,true,true,true,true,false,false
+339,Susan,Igawa,5,Modern East Asian Studies,,W-316,H4720001,true,true,true,true,true,false,false,true,true
+340,Fern,Ige,Home Room,Homeroom 7,,C-200,YH130005,true,true,true,true,true,true,true,true,true
+341,Fern,Ige,3,Japanese 4,,C-200,L4730001,true,true,true,true,true,true,true,true,true
+342,Fern,Ige,4,Japanese 1A,,C-200,L4030001,true,true,true,true,true,true,true,true,true
+343,Fern,Ige,7,Japanese 1A,,C-200,L4030002,true,true,true,true,true,true,true,true,true
+344,Fern,Ige,8,Japanese 1A,,C-200,L4030003,true,true,true,true,true,true,true,true,true
+345,Carey,Inouye,2,Make It 101,,S-FL1,I6020001,true,true,true,true,true,false,false,true,true
+346,Carey,Inouye,2,Life Skills,,TBA,Y3010001,true,true,true,true,true,true,true,false,false
+347,Carey,Inouye,2,Life Skills,,TBA,Y3010002,true,true,true,true,true,true,true,false,false
+348,Carey,Inouye,2,Life Skills,,TBA,Y3010003,true,true,true,true,true,true,true,false,false
+349,Carey,Inouye,2,Life Skills,,TBA,Y3010004,true,true,true,true,true,true,true,false,false
+350,Carey,Inouye,2,Life Skills,,TBA,Y3010005,true,true,true,true,true,true,true,false,false
+351,Carey,Inouye,2,Life Skills,,TBA,Y3010006,true,true,true,true,true,true,true,false,false
+352,Carey,Inouye,2,Life Skills,,TBA,Y3020001,true,true,true,true,true,false,false,true,true
+353,Carey,Inouye,2,Life Skills,,TBA,Y3020002,true,true,true,true,true,false,false,true,true
+354,Carey,Inouye,2,Life Skills,,TBA,Y3020003,true,true,true,true,true,false,false,true,true
+355,Carey,Inouye,2,Life Skills,,TBA,Y3020004,true,true,true,true,true,false,false,true,true
+356,Carey,Inouye,2,Life Skills,,TBA,Y3020005,true,true,true,true,true,false,false,true,true
+357,Carey,Inouye,2,Life Skills,,TBA,Y3020006,true,true,true,true,true,false,false,true,true
+358,Carey,Inouye,6,Robotics 1,,S-ILAB,I4010001,true,true,true,true,true,true,true,false,false
+359,Carey,Inouye,7,AP Physics C: Mechanics,,W-101,S9210001,true,true,true,true,true,true,true,false,false
+360,Carey,Inouye,7,AP Physics C: Elec & Magnetism,,W-101,S9220001,true,true,true,true,true,false,false,true,true
+361,Carey,Inouye,8,Robotics 1,,S-ILAB,I4020001,true,true,true,true,true,false,false,true,true
+362,Chiharu,Iwamoto,Home Room,Homeroom 9,,I-216,YH330012,true,true,true,true,true,true,true,true,true
+363,Chiharu,Iwamoto,3,Japanese 2,,I-216,L4330001,true,true,true,true,true,true,true,true,true
+364,Chiharu,Iwamoto,4,Japanese 2,,I-216,L4330002,true,true,true,true,true,true,true,true,true
+365,Chiharu,Iwamoto,6,Japanese 2,,I-216,L4330003,true,true,true,true,true,true,true,true,true
+366,Chiharu,Iwamoto,7,Japanese 3-H,,I-216,L4720002,true,true,true,true,true,false,false,true,true
+367,Katherine,Jones,Home Room,Homeroom 9,,I-109,YH330005,true,true,true,true,true,true,true,true,true
+368,Katherine,Jones,1,Beginning Theater,,G-102,C8230001,true,true,true,true,true,true,true,true,true
+369,Katherine,Jones,2,Beginning Theater,,G-102,C8230002,true,true,true,true,true,true,true,true,true
+370,Katherine,Jones,5,Study Hall,,I-103,SH250001,true,true,true,true,true,false,false,false,false
+371,Katherine,Jones,7,Beginning Theater,,G-102,C8230003,true,true,true,true,true,true,true,true,true
+372,Katherine,Jones,8,Musical Theatre,,G-102,C8530001,true,true,true,true,true,true,true,true,true
+373,Gretchen,Kellough,Home Room,Homeroom 9,,I-206,YH330007,true,true,true,true,true,true,true,true,true
+374,Gretchen,Kellough,3,English 9,,I-208,E3030005,true,true,true,true,true,true,true,true,true
+375,Gretchen,Kellough,4,Creative Non-Fiction,,I-208,E4220001,true,true,true,true,true,false,false,true,true
+376,Gretchen,Kellough,5,English 9,,I-208,E3030009,true,true,true,true,true,true,true,true,true
+377,Gretchen,Kellough,6,Creative Non-Fiction,,I-208,E4210002,true,true,true,true,true,true,true,false,false
+378,Gretchen,Kellough,7,Creative Non-Fiction,,I-208,E4210003,true,true,true,true,true,true,true,false,false
+379,Gretchen,Kellough,8,Creative Non-Fiction,,I-208,E4220002,true,true,true,true,true,false,false,true,true
+380,Richie,Kibota,Home Room,Homeroom 11,,W-305,YH530011,true,true,true,true,true,true,true,true,true
+381,Richie,Kibota,1,Micro/Macroeconomics,,W-305,H6220001,true,true,true,true,true,false,false,true,true
+382,Richie,Kibota,2,Micro/Macroeconomics,,W-305,H6220002,true,true,true,true,true,false,false,true,true
+383,Richie,Kibota,3,History of the Modern World,,W-305,H3330005,true,true,true,true,true,true,true,true,true
+384,Richie,Kibota,5,Study Hall - Q1,,W-305,SH010005,true,true,true,true,true,true,true,false,false
+385,Richie,Kibota,5,Study Hall - Q2,,W-305,SH020005,true,true,true,true,true,false,false,true,true
+386,Richie,Kibota,5,Study Hall,,W-305,SH150006,true,true,true,true,true,false,false,false,false
+387,Richie,Kibota,5,Study Hall,,W-305,SH150008,false,true,false,true,true,false,false,false,false
+388,Richie,Kibota,5,Study Hall,,W-305,SH250006,true,true,true,true,true,false,false,false,false
+389,Richie,Kibota,6,History of the Modern World,,W-305,H3330010,true,true,true,true,true,true,true,true,true
+390,Richie,Kibota,7,Micro/Macroeconomics,,W-305,H6210001,true,true,true,true,true,true,true,false,false
+391,Richie,Kibota,8,Micro/Macroeconomics,,W-305,H6210002,true,true,true,true,true,true,true,false,false
+392,Gilson,Killhour,1,Design and Fabrication,,S-ILAB,I5210001,true,true,true,true,true,true,true,false,false
+393,Gilson,Killhour,6,Robotics 1,,S-ILAB,I4010001,true,true,true,true,true,true,true,false,false
+394,Gilson,Killhour,6,Applied Renewable Energy Sys-H,,S-FL4,I8120001,true,true,true,true,true,false,false,true,true
+395,Gilson,Killhour,7,Design and Fabrication,,S-ILAB,I5220001,true,true,true,true,true,false,false,true,true
+396,Gilson,Killhour,8,Robotics 1,,S-ILAB,I4020001,true,true,true,true,true,false,false,true,true
+397,Gilson,Killhour,8,Design and Fabrication,,S-ILAB,I5210002,true,true,true,true,true,true,true,false,false
+398,Holly,Kim,Home Room,Homeroom 10,,I-212,YH430011,true,true,true,true,true,true,true,true,true
+399,Holly,Kim,1,French 2-H,,I-211,L5420001,true,true,true,true,true,false,false,true,true
+400,Holly,Kim,2,French 3,,I-211,L5430001,true,true,true,true,true,true,true,true,true
+401,Holly,Kim,3,French 1,,I-211,L5230001,true,true,true,true,true,true,true,true,true
+402,Holly,Kim,4,French 1A,,I-211,L5030001,true,true,true,true,true,true,true,true,true
+403,Holly,Kim,5,French 2,,I-211,L5330001,true,true,true,true,true,true,true,true,true
+404,Jena,Kline,Home Room,Homeroom 10,,W-308,YH430001,true,true,true,true,true,true,true,true,true
+405,Jena,Kline,3,Algebra 1C,,W-308,M3210003,true,true,true,true,true,true,true,false,false
+406,Jena,Kline,3,Geometry A,,W-308,M4020003,true,true,true,true,true,false,false,true,true
+407,Jena,Kline,4,Algebra 1C,,W-308,M3210004,true,true,true,true,true,true,true,false,false
+408,Jena,Kline,4,Geometry A,,W-308,M4020006,true,true,true,true,true,false,false,true,true
+409,Jena,Kline,6,Algebra 2A,,W-308,M5020006,true,true,true,true,true,false,false,true,true
+410,Jena,Kline,7,Precalculus,,W-308,M7730007,true,true,true,true,true,true,true,true,true
+411,Jena,Kline,8,Precalculus,,W-308,M7730008,true,true,true,true,true,true,true,true,true
+412,Michelle,Knoetgen,Home Room,Homeroom 9,,I-109,YH330005,true,true,true,true,true,true,true,true,true
+413,Michelle,Knoetgen,2,Literature of the Ocean,,N-207,E6630001,true,true,true,true,true,true,true,true,true
+414,Michelle,Knoetgen,3,English 10 A,,N-207,E4130001,true,true,true,true,true,true,true,true,true
+415,Michelle,Knoetgen,4,English 10 A,,N-207,E4130002,true,true,true,true,true,true,true,true,true
+416,Michelle,Knoetgen,6,Graphics,,N-206,X5230001,true,true,true,true,true,true,true,true,true
+417,Michelle,Knoetgen,8,American Literature,,N-207,E6120007,true,true,true,true,true,false,false,true,true
+418,Sheri Ann,Kobata,Home Room,Homeroom 11,,W-215,YH530008,true,true,true,true,true,true,true,true,true
+419,Sheri Ann,Kobata,1,Algebra 1B,,W-308,M3120001,true,true,true,true,true,false,false,true,true
+420,Sheri Ann,Kobata,2,Algebra 1B,,W-308,M3120002,true,true,true,true,true,false,false,true,true
+421,Sheri Ann,Kobata,5,Pre-Algebra,,W-215,M1030007,true,true,true,true,true,true,true,true,true
+422,Sheri Ann,Kobata,6,Geometry B,,W-215,M4110006,true,true,true,true,true,true,true,false,false
+423,Sheri Ann,Kobata,7,Geometry B,,W-215,M4110007,true,true,true,true,true,true,true,false,false
+424,Sheri Ann,Kobata,8,Pre-Algebra,,W-215,M1030012,true,true,true,true,true,true,true,true,true
+425,Darin,Kohara,1,Physics,,W-104,S6130001,true,false,true,false,false,true,true,true,true
+426,Darin,Kohara,2,Physics,,W-104,S6130001,true,true,true,true,true,true,true,true,true
+427,Darin,Kohara,3,Conceptual Physics,,W-104,S6030002,true,true,true,true,true,true,true,true,true
+428,Darin,Kohara,4,Conceptual Physics,,W-104,S6030003,true,true,true,true,true,true,true,true,true
+429,Darin,Kohara,6,Physics,,W-104,S6130005,true,true,true,true,true,true,true,true,true
+430,Darin,Kohara,5,Physics,,W-104,S6130005,true,false,true,false,false,true,true,true,true
+431,Daryl,Kuioka,Home Room,Homeroom 12,,W-212,YH630009,true,true,true,true,true,true,true,true,true
+432,Daryl,Kuioka,1,Geometry A,,W-212,M4010001,true,true,true,true,true,true,true,false,false
+433,Daryl,Kuioka,1,Geometry B,,W-212,M4120001,true,true,true,true,true,false,false,true,true
+434,Daryl,Kuioka,5,Algebra 1A,,W-212,M3010005,true,true,true,true,true,true,true,false,false
+435,Daryl,Kuioka,5,Algebra 1B,,W-212,M3120005,true,true,true,true,true,false,false,true,true
+436,Daryl,Kuioka,6,Algebra 1A,,W-212,M3010006,true,true,true,true,true,true,true,false,false
+437,Daryl,Kuioka,6,Algebra 1B,,W-212,M3120006,true,true,true,true,true,false,false,true,true
+438,Daryl,Kuioka,7,Algebra 1A,,W-212,M3010007,true,true,true,true,true,true,true,false,false
+439,Daryl,Kuioka,7,Algebra 1B,,W-212,M3120007,true,true,true,true,true,false,false,true,true
+440,Michael,LaGory,Home Room,Homeroom 12,,W-202,YH630005,true,true,true,true,true,true,true,true,true
+441,Michael,LaGory,2,British Literature,,W-202,E6210001,true,true,true,true,true,true,true,false,false
+442,Michael,LaGory,2,British Literature,,W-202,E6220002,true,true,true,true,true,false,false,true,true
+443,Michael,LaGory,3,English 10,,W-202,E4030004,true,true,true,true,true,true,true,true,true
+444,Michael,LaGory,4,English 10,,W-202,E4030005,true,true,true,true,true,true,true,true,true
+445,Michael,LaGory,8,AP English Literature,,W-202,E9130004,true,true,true,true,true,true,true,true,true
+446,Benjamin,Lah,5,Guidance-Issues,,CCNSL,G1010001,true,true,true,true,true,true,true,false,false
+447,Daniel,Leatherman,2,Life Skills,,TBA,Y3010001,true,true,true,true,true,true,true,false,false
+448,Daniel,Leatherman,2,Life Skills,,TBA,Y3010002,true,true,true,true,true,true,true,false,false
+449,Daniel,Leatherman,2,Life Skills,,TBA,Y3010003,true,true,true,true,true,true,true,false,false
+450,Daniel,Leatherman,2,Life Skills,,TBA,Y3020001,true,true,true,true,true,false,false,true,true
+451,Daniel,Leatherman,2,Life Skills,,TBA,Y3020002,true,true,true,true,true,false,false,true,true
+452,Daniel,Leatherman,2,Life Skills,,TBA,Y3020003,true,true,true,true,true,false,false,true,true
+453,Daniel,Leatherman,5,Religion 8,,R-101,QR820005,true,true,true,true,true,false,true,false,false
+454,Lara,Lee,Home Room,Homeroom 9,,I-102,YH330003,true,true,true,true,true,true,true,true,true
+455,Lara,Lee,1,Econ. of Personal Finance,,S-FL4,M6210001,true,true,true,true,true,true,true,false,false
+456,Lara,Lee,2,Econ. of Personal Finance,,S-FL4,M6210002,true,true,true,true,true,true,true,false,false
+457,Lara,Lee,5,Biology,,I-102,S4030009,true,true,true,true,true,true,true,true,true
+458,Lara,Lee,6,Biology,,I-102,S4030010,true,true,true,true,true,true,true,true,true
+459,Lara,Lee,7,Econ. of Personal Finance,,I-102,M6220001,true,true,true,true,true,false,false,true,true
+460,Lara,Lee,8,Biology,,I-102,S4030015,true,true,true,true,true,true,true,true,true
+461,Rebecca,Lin,1,AP Chinese Language & Culture,,N-211,L9630001,true,true,true,true,true,true,true,true,true
+462,Rebecca,Lin,3,Chinese 3,,N-211,L3530002,true,true,true,true,true,true,true,true,true
+463,Rebecca,Lin,3,Chinese 3-H,,N-211,L3720001,true,true,true,true,true,false,false,true,true
+464,Rebecca,Lin,4,Chinese 3,,N-211,L3530001,true,true,true,true,true,true,true,true,true
+465,Rebecca,Lin,5,Chinese 4-H,,N-211,L3830001,true,true,true,true,true,true,true,true,true
+466,Rebecca,Lin,6,AP Chinese Language & Culture,,N-211,L9630002,true,true,true,true,true,true,true,true,true
+467,Rebecca,Lin,7,Chinese 4,,N-211,L3730001,true,true,true,true,true,true,true,true,true
+468,Mark,Lindsay,Home Room,Homeroom 9,,W-102,YH330013,true,true,true,true,true,true,true,true,true
+469,Mark,Lindsay,2,Physics,,W-102,S6130002,true,true,true,true,true,true,true,true,true
+470,Mark,Lindsay,1,Physics,,W-102,S6130002,false,true,false,true,false,true,true,true,true
+471,Mark,Lindsay,4,Physics,,W-102,S6130004,true,true,true,true,true,true,true,true,true
+472,Mark,Lindsay,3,Physics,,W-102,S6130004,false,true,false,true,false,true,true,true,true
+473,Mark,Lindsay,5,Conceptual Physics,,W-102,S6030004,true,true,true,true,true,true,true,true,true
+474,Mark,Lindsay,8,Physics,,W-102,S6130007,true,true,true,true,true,true,true,true,true
+475,Mark,Lindsay,7,Physics,,W-102,S6130007,false,true,false,true,false,true,true,true,true
+476,Shirley,Longo,Home Room,Homeroom 12,,W-209,YH630008,true,true,true,true,true,true,true,true,true
+477,Shirley,Longo,2,Narrative Visions,,W-209,E6550001,true,true,true,true,true,false,false,false,false
+478,Shirley,Longo,1,Narrative Visions,,W-209,E6550001,true,true,true,true,true,false,false,false,false
+479,Shirley,Longo,3,English 8,,W-209,E2030005,true,true,true,true,true,true,true,true,true
+480,Shirley,Longo,4,English 8,,W-209,E2030006,true,true,true,true,true,true,true,true,true
+481,Shirley,Longo,6,Narrative Visions,,W-209,E6560001,true,true,true,true,true,false,false,false,false
+482,Shirley,Longo,5,Narrative Visions,,W-209,E6560001,true,true,true,true,true,false,false,false,false
+483,Shirley,Longo,7,AP English Literature,,W-209,E9130001,true,true,true,true,true,true,true,true,true
+484,Rodney,Lum,2,Life Skills,,TBA,Y3010001,true,true,true,true,true,true,true,false,false
+485,Rodney,Lum,2,Life Skills,,TBA,Y3010002,true,true,true,true,true,true,true,false,false
+486,Rodney,Lum,2,Life Skills,,TBA,Y3010003,true,true,true,true,true,true,true,false,false
+487,Rodney,Lum,2,Life Skills,,TBA,Y3020001,true,true,true,true,true,false,false,true,true
+488,Rodney,Lum,2,Life Skills,,TBA,Y3020002,true,true,true,true,true,false,false,true,true
+489,Rodney,Lum,2,Life Skills,,TBA,Y3020003,true,true,true,true,true,false,false,true,true
+490,David,Masunaga,1,Design Science,,G-201,M6320001,true,true,true,true,true,false,false,true,true
+491,David,Masunaga,2,Design Science,,G-201,M6310001,true,true,true,true,true,true,true,false,false
+492,David,Masunaga,3,Geometry-H,,G-201,M4930002,true,true,true,true,true,true,true,true,true
+493,David,Masunaga,4,Geometry-H,,G-201,M4930003,true,true,true,true,true,true,true,true,true
+494,David,Masunaga,6,The Arts,,TBA,QA710004,true,true,true,true,true,true,false,false,false
+495,David,Masunaga,6,The Arts,,TBA,QA710005,true,true,true,true,true,true,false,false,false
+496,David,Masunaga,6,The Arts,,TBA,QA710006,true,true,true,true,true,true,false,false,false
+497,David,Masunaga,6,The Arts,,TBA,QA730004,true,true,true,true,true,false,false,true,false
+498,David,Masunaga,6,The Arts,,TBA,QA730005,true,true,true,true,true,false,false,true,false
+499,David,Masunaga,6,The Arts,,TBA,QA730006,true,true,true,true,true,false,false,true,false
+500,David,Masunaga,7,Geometry-H,,G-201,M4930005,true,true,true,true,true,true,true,true,true
+501,Kristin,Masunaga,2,Life Skills,,TBA,Y3010004,true,true,true,true,true,true,true,false,false
+502,Kristin,Masunaga,2,Life Skills,,TBA,Y3010005,true,true,true,true,true,true,true,false,false
+503,Kristin,Masunaga,2,Life Skills,,TBA,Y3010006,true,true,true,true,true,true,true,false,false
+504,Kristin,Masunaga,2,Life Skills,,TBA,Y3020004,true,true,true,true,true,false,false,true,true
+505,Kristin,Masunaga,2,Life Skills,,TBA,Y3020005,true,true,true,true,true,false,false,true,true
+506,Kristin,Masunaga,2,Life Skills,,TBA,Y3020006,true,true,true,true,true,false,false,true,true
+507,Patti,Matanza,Home Room,Homeroom 10,,W-308,YH430001,true,true,true,true,true,true,true,true,true
+508,Patti,Matanza,1,Spanish 2,,N-210,L6330003,true,true,true,true,true,true,true,true,true
+509,Patti,Matanza,4,Spanish 1,,N-210,L6230003,true,true,true,true,true,true,true,true,true
+510,Patti,Matanza,5,Spanish 2,,N-210,L6330004,true,true,true,true,true,true,true,true,true
+511,Patti,Matanza,7,Spanish 1B,,N-210,L6130001,true,true,true,true,true,true,true,true,true
+512,Patti,Matanza,8,Spanish 1,,N-210,L6230004,true,true,true,true,true,true,true,true,true
+513,Micheline,McManus,Home Room,Homeroom 10,,I-107,YH430008,true,true,true,true,true,true,true,true,true
+514,Micheline,McManus,1,American Literature,,I-107,E6120001,true,true,true,true,true,false,false,true,true
+515,Micheline,McManus,2,American Literature,,I-107,E6120002,true,true,true,true,true,false,false,true,true
+516,Micheline,McManus,3,American Literature,,I-107,E6110003,true,true,true,true,true,true,true,false,false
+517,Micheline,McManus,6,American Literature,,I-107,E6110004,true,true,true,true,true,true,true,false,false
+518,Micheline,McManus,7,English 9,,I-107,E3030013,true,true,true,true,true,true,true,true,true
+519,Micheline,McManus,8,English 9,,I-107,E3030014,true,true,true,true,true,true,true,true,true
+520,Linhart (Lin),McMullin,Home Room,Homeroom 12,,W-213,YH630007,true,true,true,true,true,true,true,true,true
+521,Linhart (Lin),McMullin,1,Algebra 1A,,I-110,M3010001,true,true,true,true,true,true,true,false,false
+522,Linhart (Lin),McMullin,2,Algebra 1A,,I-110,M3010002,true,true,true,true,true,true,true,false,false
+523,Linhart (Lin),McMullin,5,AP Calculus BC,,I-110,M9130002,true,true,true,true,true,true,true,true,true
+524,Linhart (Lin),McMullin,6,AP Calculus BC,,I-110,M9130001,true,true,true,true,true,true,true,true,true
+525,Linhart (Lin),McMullin,7,Algebra 1B,,I-110,M3120008,true,true,true,true,true,false,false,true,true
+526,Linhart (Lin),McMullin,8,Algebra 1B,,I-110,M3120009,true,true,true,true,true,false,false,true,true
+527,Guia,Melo,1,Spanish 1,,N-208,L6230001,true,true,true,true,true,true,true,true,true
+528,Guia,Melo,4,Spanish 2-H,,N-208,L6520001,true,true,true,true,true,false,false,true,true
+529,Guia,Melo,7,AP Spanish Language,,N-208,L9130001,true,true,true,true,true,true,true,true,true
+530,William,Milks,Home Room,Homeroom 12,,W-307,YH630010,true,true,true,true,true,true,true,true,true
+531,William,Milks,1,AP US Govt and Politics,,W-307,H9250001,true,true,true,true,true,false,false,false,false
+532,William,Milks,2,AP US Govt and Politics,,W-307,H9250002,true,true,true,true,true,false,false,false,false
+533,William,Milks,3,US History,,W-307,H5030005,true,true,true,true,true,true,true,true,true
+534,William,Milks,6,AP US Govt and Politics,,W-307,H9250003,true,true,true,true,true,false,false,false,false
+535,Debbie,Millikan,6,Applied Renewable Energy Sys-H,,S-FL4,I8120001,true,true,true,true,true,false,false,true,true
+536,Marcie,Miura,1,Trigonometry,,W-304,M6020001,true,true,true,true,true,false,false,true,true
+537,Marcie,Miura,2,Trigonometry,,W-304,M6020002,true,true,true,true,true,false,false,true,true
+538,Marcie,Miura,3,Algebra 2B,,W-304,M5110003,true,true,true,true,true,true,true,false,false
+539,Marcie,Miura,4,Algebra 2B,,W-304,M5110004,true,true,true,true,true,true,true,false,false
+540,Marcie,Miura,5,Algebra 2B,,W-304,M5110005,true,true,true,true,true,true,true,false,false
+541,Marcie,Miura,6,Trigonometry,,W-304,M6020006,true,true,true,true,true,false,false,true,true
+542,Joey,Miyamoto,Home Room,Homeroom 12,,I-103,YH630003,true,true,true,true,true,true,true,true,true
+543,Joey,Miyamoto,1,Advanced Speech,,I-103,E5660001,true,true,true,true,true,false,false,false,false
+544,Joey,Miyamoto,1,American Literature,,I-103,E6110001,true,true,true,true,true,true,true,false,false
+545,Joey,Miyamoto,2,American Literature,,I-103,E6110002,true,true,true,true,true,true,true,false,false
+546,Joey,Miyamoto,3,English 9,,I-103,E3030007,true,true,true,true,true,true,true,true,true
+547,Joey,Miyamoto,4,English 9,,I-103,E3030008,true,true,true,true,true,true,true,true,true
+548,Joey,Miyamoto,5,Study Hall,,I-103,SH150001,true,true,true,true,true,false,false,false,false
+549,Joey,Miyamoto,5,Study Hall,,I-103,SH350001,true,true,true,true,true,false,false,false,false
+550,Joey,Miyamoto,7,American Literature,,I-103,E6120006,true,true,true,true,true,false,false,true,true
+551,Lisa,Miyamoto,Home Room,Homeroom 9,,I-203,YH330006,true,true,true,true,true,true,true,true,true
+552,Joseph,Monaco,Home Room,Homeroom 7,,C-204,YH130008,true,true,true,true,true,true,true,true,true
+553,Joseph,Monaco,1,Geometry B,,C-204,M4110001,true,true,true,true,true,true,true,false,false
+554,Joseph,Monaco,2,Geometry B,,C-204,M4110002,true,true,true,true,true,true,true,false,false
+555,Joseph,Monaco,3,Pre-Algebra,,C-204,M1030003,true,true,true,true,true,true,true,true,true
+556,Joseph,Monaco,4,Pre-Algebra,,C-204,M1030004,true,true,true,true,true,true,true,true,true
+557,Joseph,Monaco,5,The Arts,,TBA,QA710001,true,true,true,true,true,true,false,false,false
+558,Joseph,Monaco,5,The Arts,,TBA,QA710002,true,true,true,true,true,true,false,false,false
+559,Joseph,Monaco,5,The Arts,,TBA,QA710003,true,true,true,true,true,true,false,false,false
+560,Joseph,Monaco,6,Geometry A,,C-204,M4020009,true,true,true,true,true,false,false,true,true
+561,Joseph,Monaco,7,Geometry A,,C-204,M4020010,true,true,true,true,true,false,false,true,true
+562,William,Monaco,Home Room,Homeroom 8,,G-101,YH230009,true,true,true,true,true,true,true,true,true
+563,William,Monaco,1,History of the Modern World,,G-101,H3330002,true,true,true,true,true,true,true,true,true
+564,William,Monaco,4,History of the Modern World,,G-101,H3330004,true,true,true,true,true,true,true,true,true
+565,William,Monaco,5,History of the Ancient World,,G-101,H2330005,true,true,true,true,true,true,true,true,true
+566,William,Monaco,6,History of the Ancient World,,G-101,H2330006,true,true,true,true,true,true,true,true,true
+567,Russell,Motter,6,US History,,W-313,H5030008,true,true,true,true,true,true,true,true,true
+568,Russell,Motter,7,History - Sixties,,W-313,H5020001,true,true,true,true,true,false,false,true,true
+569,Russell,Motter,7,African-Am. Studies-Hist,,W-313,H7410001,true,true,true,true,true,true,true,false,false
+570,Lynn,Muramaru,Home Room,Homeroom 8,,C-103,YH230002,true,true,true,true,true,true,true,true,true
+571,Lynn,Muramaru,2,Beginning Band,,C-103,C1230001,true,true,true,true,true,true,true,true,true
+572,Lynn,Muramaru,3,Intermediate Band,,C-103,C2130001,true,true,true,true,true,true,true,true,true
+573,Lynn,Muramaru,7,Beginning Band,,C-103,C1230002,true,true,true,true,true,true,true,true,true
+574,Heather,Muraoka,Home Room,Homeroom 9,,I-206,YH330007,true,true,true,true,true,true,true,true,true
+575,Heather,Muraoka,3,History of the Ancient World,,I-206,H2330003,true,true,true,true,true,true,true,true,true
+576,Heather,Muraoka,4,History of the Ancient World,,I-206,H2330004,true,true,true,true,true,true,true,true,true
+577,Heather,Muraoka,8,History of the Modern World,,I-206,H3330003,true,true,true,true,true,true,true,true,true
+578,Rhonda,Nagao,Home Room,Homeroom 10,,I-207,YH430004,true,true,true,true,true,true,true,true,true
+579,Rhonda,Nagao,1,World Geography 7,,I-205,H1230003,true,true,true,true,true,true,true,true,true
+580,Rhonda,Nagao,5,History of the Modern World,,I-205,H3330008,true,true,true,true,true,true,true,true,true
+581,Rhonda,Nagao,6,World Geography 7,,I-205,H1230010,true,true,true,true,true,true,true,true,true
+582,Rhonda,Nagao,7,History of the Modern World,,I-205,H3330012,true,true,true,true,true,true,true,true,true
+583,Rhonda,Nagao,7,Hist. of the Modern World - II,,I-205,H3360003,true,true,true,true,true,false,false,false,false
+584,Rhonda,Nagao,8,History of the Modern World,,I-205,H3330013,true,true,true,true,true,true,true,true,true
+585,Rhonda,Nagao,8,Hist. of the Modern World - II,,I-205,H3360005,true,true,true,true,true,false,false,false,false
+586,Sean,Nakayama,2,Dance 1K,,G-203,C7430001,true,true,true,true,true,true,true,true,true
+587,Sean,Nakayama,4,Dance 3K,,G-203,C7630001,true,true,true,true,true,true,true,true,true
+588,Sean,Nakayama,5,The Arts,,TBA,QA710001,true,true,true,true,true,true,false,false,false
+589,Sean,Nakayama,5,The Arts,,TBA,QA710002,true,true,true,true,true,true,false,false,false
+590,Sean,Nakayama,5,The Arts,,TBA,QA710003,true,true,true,true,true,true,false,false,false
+591,Sean,Nakayama,5,The Arts,,TBA,QA730001,true,true,true,true,true,false,false,true,false
+592,Sean,Nakayama,5,The Arts,,TBA,QA730002,true,true,true,true,true,false,false,true,false
+593,Sean,Nakayama,5,The Arts,,TBA,QA730003,true,true,true,true,true,false,false,true,false
+594,Sean,Nakayama,6,The Arts,,TBA,QA710004,true,true,true,true,true,true,false,false,false
+595,Sean,Nakayama,6,The Arts,,TBA,QA710005,true,true,true,true,true,true,false,false,false
+596,Sean,Nakayama,6,The Arts,,TBA,QA710006,true,true,true,true,true,true,false,false,false
+597,Sean,Nakayama,6,The Arts,,TBA,QA730004,true,true,true,true,true,false,false,true,false
+598,Sean,Nakayama,6,The Arts,,TBA,QA730005,true,true,true,true,true,false,false,true,false
+599,Sean,Nakayama,6,The Arts,,TBA,QA730006,true,true,true,true,true,false,false,true,false
+600,Sean,Nakayama,8,Dance 2K,,G-203,C7530001,true,true,true,true,true,true,true,true,true
+601,Kathleen,Nirei,Home Room,Homeroom 11,,W-306,YH530012,true,true,true,true,true,true,true,true,true
+602,Kathleen,Nirei,1,Geometry A,,W-306,M4020001,true,true,true,true,true,false,false,true,true
+603,Kathleen,Nirei,3,AP Statistics,,W-306,M9230001,true,true,true,true,true,true,true,true,true
+604,Kathleen,Nirei,4,Algebra 1C,,W-306,M3210002,true,true,true,true,true,true,true,false,false
+605,Kathleen,Nirei,5,Algebra 1C,,W-306,M3210005,true,true,true,true,true,true,true,false,false
+606,Kathleen,Nirei,5,Geometry A,,W-306,M4020007,true,true,true,true,true,false,false,true,true
+607,Kathleen,Nirei,6,Algebra 1C,,W-306,M3210006,true,true,true,true,true,true,true,false,false
+608,Kathleen,Nirei,6,Geometry A,,W-306,M4020008,true,true,true,true,true,false,false,true,true
+609,Tora,Nishimiya,Home Room,Homeroom 11,,W-203,YH530003,true,true,true,true,true,true,true,true,true
+610,Cara,Oba,5,iPad App Design & Development,,S-414,I5110001,true,true,true,true,true,true,true,false,false
+611,Cara,Oba,6,iPad App Design & Development,,S-414,I5120001,true,true,true,true,true,false,false,true,true
+612,Kyle,Oba,5,iPad App Design & Development,,S-414,I5110001,true,true,true,true,true,true,true,false,false
+613,Kyle,Oba,6,iPad App Design & Development,,S-414,I5120001,true,true,true,true,true,false,false,true,true
+614,Cy,Ohta,Home Room,Homeroom 7,,C-209,YH130010,true,true,true,true,true,true,true,true,true
+615,Cy,Ohta,3,World Geography 7,,C-203,H1230007,true,true,true,true,true,true,true,true,true
+616,Cy,Ohta,4,World Geography 7,,C-203,H1230008,true,true,true,true,true,true,true,true,true
+617,Cy,Ohta,7,History of the Ancient World,,C-203,H2330007,true,true,true,true,true,true,true,true,true
+618,Cy,Ohta,8,History of the Ancient World,,C-203,H2330008,true,true,true,true,true,true,true,true,true
+619,Cyrenne,Okimura,Home Room,Homeroom 9,,I-210,YH330009,true,true,true,true,true,true,true,true,true
+620,Cyrenne,Okimura,1,Dance 1,,G-203,C7130001,true,true,true,true,true,true,true,true,true
+621,Cyrenne,Okimura,2,Dance 2,,G-203,C7230001,true,true,true,true,true,true,true,true,true
+622,Cyrenne,Okimura,3,Dance 3,,G-203,C7330001,true,true,true,true,true,true,true,true,true
+623,Cyrenne,Okimura,4,Dance 3,,G-203,C7330002,true,true,true,true,true,true,true,true,true
+624,Cyrenne,Okimura,6,Dance 4,,G-203,C7830001,true,true,true,true,true,true,true,true,true
+625,Cyrenne,Okimura,7,Dance 2,,G-203,C7230002,true,true,true,true,true,true,true,true,true
+626,Cyrenne,Okimura,8,Dance 2,,G-203,C7230003,true,true,true,true,true,true,true,true,true
+627,Jackie,Okumura,1,Computer 1 Java,,S-314,I2210001,true,true,true,true,true,true,true,false,false
+628,Jackie,Okumura,1,AP Computer Science A,,S-FL4,I9020001,true,true,true,true,true,false,false,true,true
+629,Peter,Okumura,6,Guidance 7,,C-202,QG710003,true,true,true,true,true,true,false,false,false
+630,Peter,Okumura,6,Guidance 7,,C-202,QG720003,true,true,true,true,true,false,true,false,false
+631,Peter,Okumura,6,Guidance 7,,C-202,QG730003,true,true,true,true,true,false,false,true,false
+632,Peter,Okumura,6,Guidance 7,,C-202,QG740003,true,true,true,true,true,false,false,false,true
+633,Dena,Ono,Home Room,Homeroom 10,,I-101,YH430003,true,true,true,true,true,true,true,true,true
+634,Dena,Ono,3,Biology,,I-101,S4030005,true,true,true,true,true,true,true,true,true
+635,Dena,Ono,4,Biology,,I-101,S4030006,true,true,true,true,true,true,true,true,true
+636,Dena,Ono,5,Biology,,I-101,S4030011,true,true,true,true,true,true,true,true,true
+637,Dena,Ono,6,Biology,,I-101,S4030012,true,true,true,true,true,true,true,true,true
+638,Debra,Otsu,Home Room,Homeroom 11,,W-203,YH530003,true,true,true,true,true,true,true,true,true
+639,Debra,Otsu,1,English 9,,W-203,E3030002,true,true,true,true,true,true,true,true,true
+640,Debra,Otsu,4,English 9,,W-203,E3030006,true,true,true,true,true,true,true,true,true
+641,Debra,Otsu,7,English 8,,W-203,E2030009,true,true,true,true,true,true,true,true,true
+642,Debra,Otsu,8,English 8,,W-203,E2030010,true,true,true,true,true,true,true,true,true
+643,Miho,Pagliarini,Home Room,Homeroom 9,,I-213,YH330010,true,true,true,true,true,true,true,true,true
+644,Miho,Pagliarini,1,Japanese 3-H,,I-213,L4720001,true,true,true,true,true,false,false,true,true
+645,Miho,Pagliarini,2,Japanese 3,,I-213,L4530001,true,true,true,true,true,true,true,true,true
+646,Miho,Pagliarini,5,Japanese 3,,I-213,L4530002,true,true,true,true,true,true,true,true,true
+647,Miho,Pagliarini,6,Japanese 3,,I-213,L4530003,true,true,true,true,true,true,true,true,true
+648,Michael,Park,3,Precalculus-H,,W-309,M7830001,true,true,true,true,true,true,true,true,true
+649,Michael,Park,4,Precalculus-H,,W-309,M7830002,true,true,true,true,true,true,true,true,true
+650,Michael,Park,5,Precalculus-H,,W-309,M7830003,true,true,true,true,true,true,true,true,true
+651,Michael,Park,6,Multivariable Calculus,,W-309,M9310001,true,true,true,true,true,true,true,false,false
+652,Michael,Park,7,AP Calculus AB,,W-309,M9030004,true,true,true,true,true,true,true,true,true
+653,Michael,Park,8,Precalculus-H,,W-309,M7830004,true,true,true,true,true,true,true,true,true
+654,Melissa,Perkins,Home Room,Homeroom 12,,W-207,YH630004,true,true,true,true,true,true,true,true,true
+655,Melissa,Perkins,1,US History,,W-207,H5030003,true,true,true,true,true,true,true,true,true
+656,Melissa,Perkins,2,US History,,W-207,H5030004,true,true,true,true,true,true,true,true,true
+657,Melissa,Perkins,4,US History,,W-207,H5030006,true,true,true,true,true,true,true,true,true
+658,Melissa,Perkins,5,US History,,W-207,H5030007,true,true,true,true,true,true,true,true,true
+659,Catherine,Pettit,Home Room,Homeroom 10,,I-212,YH430011,true,true,true,true,true,true,true,true,true
+660,Catherine,Pettit,2,French 3-H,,I-212,L5720001,true,true,true,true,true,false,false,true,true
+661,Catherine,Pettit,5,AP French Language,,I-212,L9030001,true,true,true,true,true,true,true,true,true
+662,Catherine,Pettit,6,French 1B,,I-212,L5130001,true,true,true,true,true,true,true,true,true
+663,Catherine,Pettit,7,French 5 Honors,,I-212,L5930001,true,true,true,true,true,true,true,true,true
+664,Catherine,Pettit,8,French 4,,I-212,L5730001,true,true,true,true,true,true,true,true,true
+665,Melanie,Pfingsten,1,History Of Hawaii,,W-310,H4220001,true,true,true,true,true,false,false,true,true
+666,Melanie,Pfingsten,2,History Of Hawaii,,W-310,H4220002,true,true,true,true,true,false,false,true,true
+667,Melanie,Pfingsten,3,AP United States History,,W-310,H9030003,true,true,true,true,true,true,true,true,true
+668,Melanie,Pfingsten,4,AP United States History,,W-310,H9030004,true,true,true,true,true,true,true,true,true
+669,Melanie,Pfingsten,7,Hawaiian Studies,,W-310,H4110001,true,true,true,true,true,true,true,false,false
+670,Melanie,Pfingsten,8,Hawaiian Studies,,W-310,H4110002,true,true,true,true,true,true,true,false,false
+671,Lisa,Preston,Home Room,Homeroom 9,,I-204,YH330001,true,true,true,true,true,true,true,true,true
+672,Lisa,Preston,1,Spanish 3,,N-203,L6530001,true,true,true,true,true,true,true,true,true
+673,Lisa,Preston,2,Spanish 3,,N-203,L6530002,true,true,true,true,true,true,true,true,true
+674,Lisa,Preston,3,Spanish 1A,,N-203,L6030001,true,true,true,true,true,true,true,true,true
+675,Lisa,Preston,5,Study Hall,,N-203,SH350004,true,true,true,true,true,false,false,false,false
+676,Lisa,Preston,6,Spanish 3,,N-203,L6530003,true,true,true,true,true,true,true,true,true
+677,Richard,Rankin,Home Room,Homeroom 12,,W-303,YH630011,true,true,true,true,true,true,true,true,true
+678,Richard,Rankin,1,Study Hall - Q1,,W-303,SH010001,true,true,true,true,true,true,true,false,false
+679,Richard,Rankin,1,Study Hall - Q2,,W-303,SH020001,true,true,true,true,true,false,false,true,true
+680,Richard,Rankin,1,Study Hall,,W-303,SH110002,true,true,true,true,true,true,true,false,false
+681,Richard,Rankin,1,Study Hall,,W-303,SH210002,true,true,true,true,true,true,true,false,false
+682,Richard,Rankin,3,AP Microeconomics,,W-303,H9310001,true,true,true,true,true,true,true,false,false
+683,Richard,Rankin,3,AP Macroeconomics,,W-303,H9320001,true,true,true,true,true,false,false,true,true
+684,Richard,Rankin,4,AP Microeconomics,,W-303,H9310003,true,true,true,true,true,true,true,false,false
+685,Richard,Rankin,4,AP Macroeconomics,,W-303,H9320003,true,true,true,true,true,false,false,true,true
+686,Richard,Rankin,5,AP Microeconomics,,W-303,H9310002,true,true,true,true,true,true,true,false,false
+687,Richard,Rankin,5,AP Macroeconomics,,W-303,H9320002,true,true,true,true,true,false,false,true,true
+688,Richard,Rankin,8,AP Microeconomics,,W-303,H9310004,true,true,true,true,true,true,true,false,false
+689,Richard,Rankin,8,AP Macroeconomics,,W-303,H9320004,true,true,true,true,true,false,false,true,true
+690,Laine,Remignanti,3,English 7,,I-109,E1030005,true,true,true,true,true,true,true,true,true
+691,Laine,Remignanti,4,English 7,,I-109,E1030006,true,true,true,true,true,true,true,true,true
+692,Laine,Remignanti,5,American Literature,,I-109,E6120005,true,true,true,true,true,false,false,true,true
+693,Laine,Remignanti,7,English 7,,I-109,E1030010,true,true,true,true,true,true,true,true,true
+694,Laine,Remignanti,8,American Literature,,I-109,E6110006,true,true,true,true,true,true,true,false,false
+695,Joshua,Reppun,7,Contemporary Issues in America,,S-FL4,H7310001,true,true,true,true,true,true,true,false,false
+696,David,Roberts,1,Design 3-D 1,,A-101,A7110001,true,true,true,true,true,true,true,false,false
+697,David,Roberts,1,Design 3-D 1,,A-101,A7120001,true,true,true,true,true,false,false,true,true
+698,David,Roberts,1,Design 3-D 2,,A-101,A7210001,true,true,true,true,true,true,true,false,false
+699,David,Roberts,1,Design 3-D 2,,A-101,A7220001,true,true,true,true,true,false,false,true,true
+700,David,Roberts,1,Design 3-D 3,,A-101,A7310001,true,true,true,true,true,true,true,false,false
+701,David,Roberts,1,Design 3-D 3,,A-101,A7320001,true,true,true,true,true,false,false,true,true
+702,David,Roberts,2,AP Studio Art: 3-D Design,,A-101,A9130001,true,true,true,true,true,true,true,true,true
+703,David,Roberts,3,Design 3-D 1,,A-101,A7110002,true,true,true,true,true,true,true,false,false
+704,David,Roberts,3,Design 3-D 1,,A-101,A7120002,true,true,true,true,true,false,false,true,true
+705,David,Roberts,3,Design 3-D 2,,A-101,A7210002,true,true,true,true,true,true,true,false,false
+706,David,Roberts,3,Design 3-D 2,,A-101,A7220002,true,true,true,true,true,false,false,true,true
+707,David,Roberts,3,Design 3-D 3,,A-101,A7310002,true,true,true,true,true,true,true,false,false
+708,David,Roberts,3,Design 3-D 3,,A-101,A7320002,true,true,true,true,true,false,false,true,true
+709,David,Roberts,4,Design 3-D 1,,A-101,A7110003,true,true,true,true,true,true,true,false,false
+710,David,Roberts,4,Design 3-D 1,,A-101,A7120003,true,true,true,true,true,false,false,true,true
+711,David,Roberts,4,Design 3-D 2,,A-101,A7210003,true,true,true,true,true,true,true,false,false
+712,David,Roberts,4,Design 3-D 2,,A-101,A7220003,true,true,true,true,true,false,false,true,true
+713,David,Roberts,4,Design 3-D 3,,A-101,A7310003,true,true,true,true,true,true,true,false,false
+714,David,Roberts,4,Design 3-D 3,,A-101,A7320003,true,true,true,true,true,false,false,true,true
+715,David,Roberts,6,Design 3-D 1,,A-101,A7120004,true,true,true,true,true,false,false,true,true
+716,David,Roberts,6,Design 3-D 2,,A-101,A7220004,true,true,true,true,true,false,false,true,true
+717,David,Roberts,6,Design 3-D 3,,A-101,A7320004,true,true,true,true,true,false,false,true,true
+718,Karen,Roberts,Home Room,Homeroom 11,,W-301,YH530010,true,true,true,true,true,true,true,true,true
+719,Karen,Roberts,3,Latin 1,,N-201,L8630001,true,true,true,true,true,true,true,true,true
+720,Karen,Roberts,4,Latin 2,,N-201,L8330001,true,true,true,true,true,true,true,true,true
+721,Karen,Roberts,6,Latin 2,,N-201,L8330002,true,true,true,true,true,true,true,true,true
+722,Karen,Roberts,7,Latin 2-H,,N-201,L8520002,true,true,true,true,true,false,false,true,true
+723,Karen,Roberts,8,Latin 2-H,,N-201,L8520003,true,true,true,true,true,false,false,true,true
+724,Ryan,Roberts,1,Ceramics 1,,A-102,A3110001,true,true,true,true,true,true,true,false,false
+725,Ryan,Roberts,1,Ceramics 1,,A-102,A3120001,true,true,true,true,true,false,false,true,true
+726,Ryan,Roberts,1,Ceramics 2,,A-102,A3210001,true,true,true,true,true,true,true,false,false
+727,Ryan,Roberts,1,Ceramics 2,,A-102,A3220001,true,true,true,true,true,false,false,true,true
+728,Ryan,Roberts,1,Ceramics 3,,A-102,A3310001,true,true,true,true,true,true,true,false,false
+729,Ryan,Roberts,1,Ceramics 3,,A-102,A3320001,true,true,true,true,true,false,false,true,true
+730,Ryan,Roberts,3,Ceramics 1,,A-102,A3110002,true,true,true,true,true,true,true,false,false
+731,Ryan,Roberts,3,Ceramics 1,,A-102,A3120002,true,true,true,true,true,false,false,true,true
+732,Ryan,Roberts,3,Ceramics 2,,A-102,A3210002,true,true,true,true,true,true,true,false,false
+733,Ryan,Roberts,3,Ceramics 2,,A-102,A3220002,true,true,true,true,true,false,false,true,true
+734,Ryan,Roberts,3,Ceramics 3,,A-102,A3310002,true,true,true,true,true,true,true,false,false
+735,Ryan,Roberts,3,Ceramics 3,,A-102,A3320002,true,true,true,true,true,false,false,true,true
+736,Ryan,Roberts,4,Ceramics 1,,A-102,A3110003,true,true,true,true,true,true,true,false,false
+737,Ryan,Roberts,4,Ceramics 1,,A-102,A3120003,true,true,true,true,true,false,false,true,true
+738,Ryan,Roberts,4,Ceramics 2,,A-102,A3210003,true,true,true,true,true,true,true,false,false
+739,Ryan,Roberts,4,Ceramics 2,,A-102,A3220003,true,true,true,true,true,false,false,true,true
+740,Ryan,Roberts,4,Ceramics 3,,A-102,A3310003,true,true,true,true,true,true,true,false,false
+741,Ryan,Roberts,4,Ceramics 3,,A-102,A3320003,true,true,true,true,true,false,false,true,true
+742,Ryan,Roberts,7,Ceramics 1,,A-102,A3110005,true,true,true,true,true,true,true,false,false
+743,Ryan,Roberts,7,Ceramics 1,,A-102,A3120005,true,true,true,true,true,false,false,true,true
+744,Ryan,Roberts,7,Ceramics 2,,A-102,A3210005,true,true,true,true,true,true,true,false,false
+745,Ryan,Roberts,7,Ceramics 2,,A-102,A3220005,true,true,true,true,true,false,false,true,true
+746,Ryan,Roberts,7,Ceramics 3,,A-102,A3310005,true,true,true,true,true,true,true,false,false
+747,Ryan,Roberts,7,Ceramics 3,,A-102,A3320005,true,true,true,true,true,false,false,true,true
+748,Ryan,Roberts,8,Ceramics 1,,A-102,A3110006,true,true,true,true,true,true,true,false,false
+749,Ryan,Roberts,8,Ceramics 1,,A-102,A3120006,true,true,true,true,true,false,false,true,true
+750,Ryan,Roberts,8,Ceramics 2,,A-102,A3210006,true,true,true,true,true,true,true,false,false
+751,Ryan,Roberts,8,Ceramics 2,,A-102,A3220006,true,true,true,true,true,false,false,true,true
+752,Ryan,Roberts,8,Ceramics 3,,A-102,A3310006,true,true,true,true,true,true,true,false,false
+753,Ryan,Roberts,8,Ceramics 3,,A-102,A3320006,true,true,true,true,true,false,false,true,true
+754,Thomas,Robinson,Home Room,Homeroom 12,,W-205,YH630006,true,true,true,true,true,true,true,true,true
+755,Thomas,Robinson,1,Bible,,W-205,R4110001,true,true,true,true,true,true,true,false,false
+756,Thomas,Robinson,2,Bible,,W-205,R4120001,true,true,true,true,true,false,false,true,true
+757,Thomas,Robinson,3,Bible,,W-205,R4120002,true,true,true,true,true,false,false,true,true
+758,Thomas,Robinson,4,Bible,,W-205,R4110002,true,true,true,true,true,true,true,false,false
+759,Thomas,Robinson,5,Bible,,W-205,R4110003,true,true,true,true,true,true,true,false,false
+760,Thomas,Robinson,6,Bible,,W-205,R4120003,true,true,true,true,true,false,false,true,true
+761,Thomas,Robinson,7,Bible,,W-205,R4120006,true,true,true,true,true,false,false,true,true
+762,Thomas,Robinson,8,Bible,,W-205,R4110004,true,true,true,true,true,true,true,false,false
+763,Scott,Rountree,Home Room,Homeroom 7,,C-208,YH130001,true,true,true,true,true,true,true,true,true
+764,Scott,Rountree,1,Science 7,,C-208,S1030001,true,true,true,true,true,true,true,true,true
+765,Scott,Rountree,2,Science 7,,C-208,S1030002,true,true,true,true,true,true,true,true,true
+766,Scott,Rountree,6,Science 7,,C-208,S1030007,true,true,true,true,true,true,true,true,true
+767,Scott,Rountree,7,Science 7,,C-208,S1030010,true,true,true,true,true,true,true,true,true
+768,Scott,Rountree,8,Science 7,,C-208,S1030011,true,true,true,true,true,true,true,true,true
+769,James,Rubasch,Home Room,Homeroom 11,,W-301,YH530010,true,true,true,true,true,true,true,true,true
+770,James,Rubasch,1,Algebra 2B,,W-301,M5110001,true,true,true,true,true,true,true,false,false
+771,James,Rubasch,2,Algebra 2B,,W-301,M5110002,true,true,true,true,true,true,true,false,false
+772,James,Rubasch,2,Algebra 2B,,W-301,M5120002,true,true,true,true,true,false,false,true,true
+773,James,Rubasch,4,Algebra 2B,,W-301,M5120003,true,true,true,true,true,false,false,true,true
+774,James,Rubasch,6,Precalculus,,W-301,M7730006,true,true,true,true,true,true,true,true,true
+775,James,Rubasch,7,Algebra 2-H,,W-301,M5930004,true,true,true,true,true,true,true,true,true
+776,James,Rubasch,8,Algebra 2-H,,W-301,M5930005,true,true,true,true,true,true,true,true,true
+777,Reid,Sagawa,2,Life Skills,,TBA,Y3010001,true,true,true,true,true,true,true,false,false
+778,Reid,Sagawa,2,Life Skills,,TBA,Y3010002,true,true,true,true,true,true,true,false,false
+779,Reid,Sagawa,2,Life Skills,,TBA,Y3010003,true,true,true,true,true,true,true,false,false
+780,Reid,Sagawa,2,Life Skills,,TBA,Y3020001,true,true,true,true,true,false,false,true,true
+781,Reid,Sagawa,2,Life Skills,,TBA,Y3020002,true,true,true,true,true,false,false,true,true
+782,Reid,Sagawa,2,Life Skills,,TBA,Y3020003,true,true,true,true,true,false,false,true,true
+783,Reid,Sagawa,3,Found. of Leadership & Eth,,S-FL3,I2420001,true,true,true,true,true,false,false,true,true
+784,Reid,Sagawa,6,Guidance 7,,C-209,QG710004,true,true,true,true,true,true,false,false,false
+785,Reid,Sagawa,6,Guidance 7,,C-209,QG720004,true,true,true,true,true,false,true,false,false
+786,Reid,Sagawa,6,Guidance 7,,C-209,QG730004,true,true,true,true,true,false,false,true,false
+787,Reid,Sagawa,6,Guidance 7,,C-209,QG740004,true,true,true,true,true,false,false,false,true
+788,Kristi,Sakaguchi,Home Room,Homeroom 10,,I-110,YH430002,true,true,true,true,true,true,true,true,true
+789,Kristi,Sakaguchi,3,Algebra 2A,,W-215,M5020003,true,true,true,true,true,false,false,true,true
+790,Kristi,Sakaguchi,4,Algebra 2A,,W-215,M5020004,true,true,true,true,true,false,false,true,true
+791,Kayla,Schlaich,1,Pre-Algebra,,W-215,M1030001,true,true,true,true,true,true,true,true,true
+792,Kayla,Schlaich,2,Pre-Algebra,,W-215,M1030002,true,true,true,true,true,true,true,true,true
+793,Kayla,Schlaich,3,Algebra 1A,,W-215,M3010003,true,true,true,true,true,true,true,false,false
+794,Kayla,Schlaich,4,Algebra 1A,,W-215,M3010004,true,true,true,true,true,true,true,false,false
+795,Gail,Schroers,Home Room,Homeroom 11,,W-210,YH530001,true,true,true,true,true,true,true,true,true
+796,Gail,Schroers,3,American Literary Experience,,W-313,E6130001,true,true,true,true,true,true,true,true,true
+797,Gail,Schroers,6,English 9,,W-201,E3030010,true,true,true,true,true,true,true,true,true
+798,Gail,Schroers,7,English 9,,W-201,E3030015,true,true,true,true,true,true,true,true,true
+799,Gail,Schroers,8,English 9,,W-201,E3030016,true,true,true,true,true,true,true,true,true
+800,Meghann,Schroers-Martin,7,British Literature,,W-315,E6220003,true,true,true,true,true,false,false,true,true
+801,Teresa,Shimamoto,Home Room,Homeroom 11,,W-106,YH530002,true,true,true,true,true,true,true,true,true
+802,Teresa,Shimamoto,1,AP Biology,,W-106,S9030001,true,true,true,true,true,true,true,true,true
+803,Teresa,Shimamoto,2,AP Biology,,W-106,S9030002,true,true,true,true,true,true,true,true,true
+804,Teresa,Shimamoto,5,AP Biology,,W-106,S9030003,true,true,true,true,true,true,true,true,true
+805,Teresa,Shimamoto,8,AP Biology,,W-106,S9030004,true,true,true,true,true,true,true,true,true
+806,Nicole,Simopoulos,4,Religion 8,,R-101,QR820004,true,true,true,true,true,false,true,false,false
+807,Nicole,Simopoulos,6,Religion 8,,R-101,QR820006,true,true,true,true,true,false,true,false,false
+808,Christopher,Strawn,2,Latin 5 Honors,,N-202,L8930002,true,true,true,true,true,true,true,true,true
+809,Christopher,Strawn,3,AP Latin,,N-202,L9240002,true,true,true,true,true,false,false,false,false
+810,Christopher,Strawn,6,AP Latin,,N-202,L9240003,true,true,true,true,true,false,false,false,false
+811,Christopher,Strawn,7,AP Latin,,N-202,L9240004,true,true,true,true,true,false,false,false,false
+812,Alan,Suemori,Home Room,Homeroom 9,,I-203,YH330006,true,true,true,true,true,true,true,true,true
+813,Alan,Suemori,3,History of the Modern World,,I-203,H3330007,true,true,true,true,true,true,true,true,true
+814,Alan,Suemori,3,Hist. of the Modern World - II,,I-203,H3360001,true,true,true,true,true,false,false,false,false
+815,Alan,Suemori,5,Study Hall - Q1,,I-203,SH010085,true,true,true,true,true,true,true,false,false
+816,Alan,Suemori,5,Study Hall,,I-203,SH150003,true,true,true,true,true,false,false,false,false
+817,Alan,Suemori,5,Study Hall,,I-203,SH350003,true,true,true,true,true,false,false,false,false
+818,Alan,Suemori,6,History of the Modern World,,I-203,H3330011,true,true,true,true,true,true,true,true,true
+819,Alan,Suemori,7,History of the Ancient World,,I-203,H2330009,true,true,true,true,true,true,true,true,true
+820,Alan,Suemori,8,History of the Ancient World,,I-203,H2330010,true,true,true,true,true,true,true,true,true
+821,John,Takayesu,Home Room,Homeroom 12,,W-302,YH630012,true,true,true,true,true,true,true,true,true
+822,John,Takayesu,1,Algebra 2A,,W-302,M5020001,true,true,true,true,true,false,false,true,true
+823,John,Takayesu,2,Algebra 2A,,W-302,M5020002,true,true,true,true,true,false,false,true,true
+824,John,Takayesu,3,Algebra 2-H,,W-302,M5930001,true,true,true,true,true,true,true,true,true
+825,John,Takayesu,5,Algebra 2-H,,W-302,M5930003,true,true,true,true,true,true,true,true,true
+826,John,Takayesu,6,Algebra 2B,,W-302,M5110006,true,true,true,true,true,true,true,false,false
+827,John,Takayesu,7,Algebra 2B,,W-302,M5110007,true,true,true,true,true,true,true,false,false
+828,Kathryn,Takazawa,Home Room,Homeroom 10,,I-201,YH430009,true,true,true,true,true,true,true,true,true
+829,Kathryn,Takazawa,1,Chemistry in the Community,,I-201,S5130001,true,false,true,false,false,true,true,true,true
+830,Kathryn,Takazawa,1,Chemistry in the Community,,I-201L,S5130001,false,true,false,true,true,true,true,true,true
+831,Kathryn,Takazawa,5,Chemistry,,I-202L,S5330008,true,false,true,false,true,true,true,true,true
+832,Kathryn,Takazawa,5,Chemistry,,I-202,S5330008,false,true,false,true,false,true,true,true,true
+833,Kathryn,Takazawa,6,Chemistry,,I-202L,S5330009,true,false,true,false,true,true,true,true,true
+834,Kathryn,Takazawa,6,Chemistry,,I-202,S5330009,false,true,false,true,false,true,true,true,true
+835,Kathryn,Takazawa,7,Chemistry,,I-202L,S5330010,true,false,true,false,true,true,true,true,true
+836,Kathryn,Takazawa,7,Chemistry,,I-202,S5330010,false,true,false,true,false,true,true,true,true
+837,Lance,Takeuchi,Home Room,Homeroom 11,,W-216,YH530009,true,true,true,true,true,true,true,true,true
+838,Lance,Takeuchi,1,Geometry-H,,W-216,M4930001,true,true,true,true,true,true,true,true,true
+839,Lance,Takeuchi,3,Algebra 1B,,W-216,M3120003,true,true,true,true,true,false,false,true,true
+840,Lance,Takeuchi,4,Algebra 1B,,W-216,M3120004,true,true,true,true,true,false,false,true,true
+841,Lance,Takeuchi,5,Study Hall,,W-216,SH150002,true,true,true,true,true,false,false,false,false
+842,Lance,Takeuchi,5,Study Hall,,W-216,SH250002,true,true,true,true,true,false,false,false,false
+843,Lance,Takeuchi,5,Study Hall,,W-216,SH350002,true,true,true,true,true,false,false,false,false
+844,Lance,Takeuchi,6,Geometry-H,,W-216,M4930004,true,true,true,true,true,true,true,true,true
+845,Lance,Takeuchi,7,Algebra 1C,,W-216,M3210008,true,true,true,true,true,true,true,false,false
+846,Lance,Takeuchi,8,Algebra 1C,,W-216,M3210009,true,true,true,true,true,true,true,false,false
+847,Larry,Teske,Home Room,Homeroom 7,,C-100,YH130002,true,true,true,true,true,true,true,true,true
+848,Larry,Teske,3,Pre-Algebra,,C-100,M1030005,true,true,true,true,true,true,true,true,true
+849,Larry,Teske,4,Pre-Algebra,,C-100,M1030006,true,true,true,true,true,true,true,true,true
+850,Larry,Teske,7,Algebra 1-H,,C-100,M3930003,true,true,true,true,true,true,true,true,true
+851,Larry,Teske,8,Algebra 1-H,,C-100,M3930004,true,true,true,true,true,true,true,true,true
+852,Patrick,Tom,2,Life Skills,,TBA,Y3010004,true,true,true,true,true,true,true,false,false
+853,Patrick,Tom,2,Life Skills,,TBA,Y3010005,true,true,true,true,true,true,true,false,false
+854,Patrick,Tom,2,Life Skills,,TBA,Y3010006,true,true,true,true,true,true,true,false,false
+855,Patrick,Tom,2,Life Skills,,TBA,Y3020004,true,true,true,true,true,false,false,true,true
+856,Patrick,Tom,2,Life Skills,,TBA,Y3020005,true,true,true,true,true,false,false,true,true
+857,Patrick,Tom,2,Life Skills,,TBA,Y3020006,true,true,true,true,true,false,false,true,true
+858,Ann,Tomatani,Home Room,Homeroom 10,,I-217,YH430012,true,true,true,true,true,true,true,true,true
+859,Ann,Tomatani,3,Japanese 2-H,,I-217,L4520001,true,true,true,true,true,false,false,true,true
+860,Ann,Tomatani,4,Japanese 2-H,,I-217,L4520002,true,true,true,true,true,false,false,true,true
+861,Ann,Tomatani,6,Japanese 1,,I-217,L4230001,true,true,true,true,true,true,true,true,true
+862,Ann,Tomatani,8,Japanese 1,,I-217,L4230002,true,true,true,true,true,true,true,true,true
+863,Bertha,Tomiyasu,2,Chemistry Honors,,I-201L,S5930001,true,false,true,false,false,true,true,true,true
+864,Bertha,Tomiyasu,1,Chemistry Honors,,I-201L,S5930001,true,false,true,false,false,true,true,true,true
+865,Bertha,Tomiyasu,1,Chemistry Honors,,I-201,S5930001,false,true,false,true,true,true,true,true,true
+866,Bertha,Tomiyasu,4,Chemistry,,I-202L,S5330005,true,false,true,false,true,true,true,true,true
+867,Bertha,Tomiyasu,4,Chemistry,,I-202,S5330005,false,true,false,true,false,true,true,true,true
+868,Bertha,Tomiyasu,5,Chemistry Honors,,I-201L,S5930002,true,false,true,false,false,true,true,true,true
+869,Bertha,Tomiyasu,6,Chemistry Honors,,I-201L,S5930002,true,false,true,false,false,true,true,true,true
+870,Bertha,Tomiyasu,5,Chemistry Honors,,I-201,S5930002,false,true,false,true,true,true,true,true,true
+871,Thomas,Tucker,Home Room,Homeroom 10,,I-104,YH430007,true,true,true,true,true,true,true,true,true
+872,Thomas,Tucker,4,AP English Literature,,I-106,E9130002,true,true,true,true,true,true,true,true,true
+873,Thomas,Tucker,5,AP English Literature,,I-106,E9130003,true,true,true,true,true,true,true,true,true
+874,Thomas,Tucker,6,British Literature,,I-106,E6210002,true,true,true,true,true,true,true,false,false
+875,Thomas,Tucker,7,English 10 Honors,,I-106,E4330007,true,true,true,true,true,true,true,true,true
+876,Janis,Uehara,Home Room,Homeroom 8,,A-203,YH230010,true,true,true,true,true,true,true,true,true
+877,Janis,Uehara,2,Art 9,,A-203,QA910001,true,true,true,true,true,true,false,false,false
+878,Janis,Uehara,3,Drawing 1,,A-203,A4110001,true,true,true,true,true,true,true,false,false
+879,Janis,Uehara,3,Drawing 1,,A-203,A4120001,true,true,true,true,true,false,false,true,true
+880,Janis,Uehara,3,Drawing 2,,A-203,A4210001,true,true,true,true,true,true,true,false,false
+881,Janis,Uehara,3,Drawing 2,,A-203,A4220001,true,true,true,true,true,false,false,true,true
+882,Janis,Uehara,3,Drawing 3,,A-203,A4310001,true,true,true,true,true,true,true,false,false
+883,Janis,Uehara,3,Drawing 3,,A-203,A4320001,true,true,true,true,true,false,false,true,true
+884,Janis,Uehara,4,Drawing 1,,A-203,A4110002,true,true,true,true,true,true,true,false,false
+885,Janis,Uehara,4,Drawing 1,,A-203,A4120002,true,true,true,true,true,false,false,true,true
+886,Janis,Uehara,4,Drawing 2,,A-203,A4210002,true,true,true,true,true,true,true,false,false
+887,Janis,Uehara,4,Drawing 2,,A-203,A4220002,true,true,true,true,true,false,false,true,true
+888,Janis,Uehara,4,Drawing 3,,A-203,A4320002,true,true,true,true,true,false,false,true,true
+889,Janis,Uehara,5,Drawing 3,,A-203,A4320003,true,true,true,true,true,false,false,true,true
+890,Janis,Uehara,6,AP Studio Art: Drawing,,A-203,A9030001,true,false,true,false,true,true,true,true,true
+891,Janis,Uehara,5,AP Studio Art: Drawing,,A-203,A9030001,true,true,true,true,true,true,true,true,true
+892,Janis,Uehara,7,Painting 1,,A-203,A7410001,true,true,true,true,true,true,true,false,false
+893,Janis,Uehara,7,Painting 1,,A-203,A7420001,true,true,true,true,true,false,false,true,true
+894,Janis,Uehara,7,Painting 2,,A-203,A7430001,true,true,true,true,true,true,true,true,true
+895,Janis,Uehara,7,Painting 3,,A-203,A7450001,true,true,true,true,true,false,false,false,false
+896,Kirk,Uejio,3,Found. of Leadership & Eth,,S-FL3,I2420001,true,true,true,true,true,false,false,true,true
+897,Kirk,Uejio,4,One Mile Project,,S-306,I6050001,true,true,true,true,true,false,false,false,false
+898,Kirk,Uejio,7,One Mile Project,,S-306,I6060001,true,true,true,true,true,false,false,false,false
+899,Alison,Uyehara Ngo,Home Room,Homeroom 8,,A-203,YH230010,true,true,true,true,true,true,true,true,true
+900,Alison,Uyehara Ngo,1,Photography 1,,A-202,A5110001,true,true,true,true,true,true,true,false,false
+901,Alison,Uyehara Ngo,1,Photography 1,,A-202,A5120001,true,true,true,true,true,false,false,true,true
+902,Alison,Uyehara Ngo,1,Photography 2,,A-202,A5210001,true,true,true,true,true,true,true,false,false
+903,Alison,Uyehara Ngo,1,Photography 2,,A-202,A5220001,true,true,true,true,true,false,false,true,true
+904,Alison,Uyehara Ngo,1,Photography 3,,A-202,A5310001,true,true,true,true,true,true,true,false,false
+905,Alison,Uyehara Ngo,1,Photography 3,,A-202,A5320001,true,true,true,true,true,false,false,true,true
+906,Alison,Uyehara Ngo,2,Art 9,,A-202,QA920001,true,true,true,true,true,false,true,false,false
+907,Alison,Uyehara Ngo,3,Photography 1,,A-202,A5110002,true,true,true,true,true,true,true,false,false
+908,Alison,Uyehara Ngo,3,Photography 1,,A-202,A5120002,true,true,true,true,true,false,false,true,true
+909,Alison,Uyehara Ngo,3,Photography 2,,A-202,A5210002,true,true,true,true,true,true,true,false,false
+910,Alison,Uyehara Ngo,3,Photography 2,,A-202,A5220002,true,true,true,true,true,false,false,true,true
+911,Alison,Uyehara Ngo,3,Photography 3,,A-202,A5310002,true,true,true,true,true,true,true,false,false
+912,Alison,Uyehara Ngo,3,Photography 3,,A-202,A5320002,true,true,true,true,true,false,false,true,true
+913,Alison,Uyehara Ngo,4,Photography 1,,A-202,A5110003,true,true,true,true,true,true,true,false,false
+914,Alison,Uyehara Ngo,4,Photography 1,,A-202,A5120003,true,true,true,true,true,false,false,true,true
+915,Alison,Uyehara Ngo,4,Photography 2,,A-202,A5210003,true,true,true,true,true,true,true,false,false
+916,Alison,Uyehara Ngo,4,Photography 2,,A-202,A5220003,true,true,true,true,true,false,false,true,true
+917,Alison,Uyehara Ngo,4,Photography 3,,A-202,A5310003,true,true,true,true,true,true,true,false,false
+918,Alison,Uyehara Ngo,4,Photography 3,,A-202,A5320003,true,true,true,true,true,false,false,true,true
+919,Alison,Uyehara Ngo,7,Photography 1,,A-202,A5110004,true,true,true,true,true,true,true,false,false
+920,Alison,Uyehara Ngo,7,Photography 1,,A-202,A5120004,true,true,true,true,true,false,false,true,true
+921,Alison,Uyehara Ngo,7,Photography 2,,A-202,A5210004,true,true,true,true,true,true,true,false,false
+922,Alison,Uyehara Ngo,7,Photography 2,,A-202,A5220004,true,true,true,true,true,false,false,true,true
+923,Alison,Uyehara Ngo,7,Photography 3,,A-202,A5310004,true,true,true,true,true,true,true,false,false
+924,Alison,Uyehara Ngo,7,Photography 3,,A-202,A5320004,true,true,true,true,true,false,false,true,true
+925,Kevin,Wada,5,Internship-Cafe,,CAFE,W0710005,true,true,true,true,true,true,true,false,false
+926,Kevin,Wada,5,Internship-Cafe,,CAFE,W0730005,true,true,true,true,true,true,true,true,true
+927,Li Ann,Wada,Home Room,Homeroom 8,,C-107,YH230003,true,true,true,true,true,true,true,true,true
+928,Li Ann,Wada,1,Algebra 1-H,,C-107,M3930001,true,true,true,true,true,true,true,true,true
+929,Li Ann,Wada,2,Algebra 1-H,,C-107,M3930002,true,true,true,true,true,true,true,true,true
+930,Li Ann,Wada,3,Geometry A,,C-107,M4020004,true,true,true,true,true,false,false,true,true
+931,Li Ann,Wada,4,Geometry A,,C-107,M4020005,true,true,true,true,true,false,false,true,true
+932,Li Ann,Wada,4,Geometry B,,C-107,M4110004,true,true,true,true,true,true,true,false,false
+933,Li Ann,Wada,5,Geometry B,,C-107,M4110005,true,true,true,true,true,true,true,false,false
+934,Cate,Waidyatilleka,Home Room,Homeroom 11,,W-206,YH530005,true,true,true,true,true,true,true,true,true
+935,Cate,Waidyatilleka,1,English 7,,W-206,E1030003,true,true,true,true,true,true,true,true,true
+936,Cate,Waidyatilleka,2,English 10,,W-206,E4030002,true,true,true,true,true,true,true,true,true
+937,Cate,Waidyatilleka,4,Study Hall - Q2,,W-206,SH020004,true,true,true,true,true,false,false,true,true
+938,Cate,Waidyatilleka,4,Study Hall,,W-206,SH140002,true,true,true,true,true,false,false,false,false
+939,Cate,Waidyatilleka,4,Study Hall,,W-206,SH140005,true,false,true,false,true,false,false,false,false
+940,Cate,Waidyatilleka,4,Study Hall,,W-206,SH240002,true,true,true,true,true,false,false,false,false
+941,Cate,Waidyatilleka,4,Study Hall,,W-206,SH240005,true,false,true,false,true,false,false,false,false
+942,Cate,Waidyatilleka,5,English 10,,W-206,E4030006,true,true,true,true,true,true,true,true,true
+943,Cate,Waidyatilleka,8,English 7,,W-206,E1030012,true,true,true,true,true,true,true,true,true
+944,Frank,Waitherwerch,1,Latin 1B,,C-202,L8130001,true,true,true,true,true,true,true,true,true
+945,Frank,Waitherwerch,2,Latin 1A,,C-202,L8030001,true,true,true,true,true,true,true,true,true
+946,Frank,Waitherwerch,3,Latin 1A,,C-202,L8030002,true,true,true,true,true,true,true,true,true
+947,Frank,Waitherwerch,4,Latin 1A,,C-202,L8030003,true,true,true,true,true,true,true,true,true
+948,Randyll,Warehime,Home Room,Homeroom 10,,I-101,YH430003,true,true,true,true,true,true,true,true,true
+949,Randyll,Warehime,1,Biology,,I-101,S4030001,true,true,true,true,true,true,true,true,true
+950,Randyll,Warehime,2,Biology,,I-101,S4030003,true,true,true,true,true,true,true,true,true
+951,Randyll,Warehime,7,Biology,,I-101,S4030013,true,true,true,true,true,true,true,true,true
+952,Randyll,Warehime,8,Biology,,I-101,S4030014,true,true,true,true,true,true,true,true,true
+953,Peter,Webb,1,Shakespeare,,W-311,E6420001,true,true,true,true,true,false,false,true,true
+954,Peter,Webb,1,Shakespeare II,,W-311,E8420001,true,true,true,true,true,false,false,true,true
+955,Peter,Webb,2,Shakespeare,,W-311,E6410001,true,true,true,true,true,true,true,false,false
+956,Peter,Webb,2,Shakespeare,,W-311,E6420002,true,true,true,true,true,false,false,true,true
+957,Peter,Webb,2,Shakespeare II,,W-311,E8410001,true,true,true,true,true,true,true,false,false
+958,Peter,Webb,2,Shakespeare II,,W-311,E8420002,true,true,true,true,true,false,false,true,true
+959,Peter,Webb,3,Shakespeare,,W-311,E6410002,true,true,true,true,true,true,true,false,false
+960,Peter,Webb,3,Shakespeare II,,W-311,E8410002,true,true,true,true,true,true,true,false,false
+961,Peter,Webb,6,Shakespeare,,W-311,E6420003,true,true,true,true,true,false,false,true,true
+962,Peter,Webb,8,British Literature,,W-311,E6210003,true,true,true,true,true,true,true,false,false
+963,Joan,Wehrman,Home Room,Homeroom 9,,C-102,YH330002,true,true,true,true,true,true,true,true,true
+964,Joan,Wehrman,1,Orchestra 4,,C-102,C3030001,true,true,true,true,true,true,true,true,true
+965,Joan,Wehrman,3,Orchestra 3,,C-102,C2030001,true,true,true,true,true,true,true,true,true
+966,Joan,Wehrman,7,Orchestra 1,,C-102,C1030001,true,true,true,true,true,true,true,true,true
+967,Kristen,Wheeler,1,Chemistry,,I-202,S5330001,true,false,true,false,true,true,true,true,true
+968,Kristen,Wheeler,1,Chemistry,,I-202L,S5330001,false,true,false,true,false,true,true,true,true
+969,Kristen,Wheeler,2,Chemistry,,I-202,S5330002,true,false,true,false,true,true,true,true,true
+970,Kristen,Wheeler,2,Chemistry,,I-202L,S5330002,false,true,false,true,false,true,true,true,true
+971,Kristen,Wheeler,3,Chemistry,,I-202L,S5330004,true,false,true,false,true,true,true,true,true
+972,Kristen,Wheeler,3,Chemistry,,I-202,S5330004,false,true,false,true,false,true,true,true,true
+973,Kristen,Wheeler,8,Chemistry,,I-202,S5330003,true,false,true,false,true,true,true,true,true
+974,Kristen,Wheeler,8,Chemistry,,I-202L,S5330003,false,true,false,true,false,true,true,true,true
+975,Paola,Williams,1,History of the Ancient World,,C-110,H2330001,true,true,true,true,true,true,true,true,true
+976,Paola,Williams,2,History of the Ancient World,,C-110,H2330002,true,true,true,true,true,true,true,true,true
+977,Paola,Williams,7,World Geography 7,,C-110,H1230011,true,true,true,true,true,true,true,true,true
+978,Paola,Williams,8,World Geography 7,,C-110,H1230012,true,true,true,true,true,true,true,true,true
+979,Joseph,Won,Home Room,Homeroom 10,,I-108,YH430006,true,true,true,true,true,true,true,true,true
+980,Joseph,Won,1,English 9,,I-108,E3030001,true,true,true,true,true,true,true,true,true
+981,Joseph,Won,3,Asian American Literature,,I-108,E5560001,true,true,true,true,true,false,false,false,false
+982,Joseph,Won,4,Asian American Literature,,I-108,E5560002,true,true,true,true,true,false,false,false,false
+983,Joseph,Won,5,English 9,,I-108,E3030011,true,true,true,true,true,true,true,true,true
+984,Joseph,Won,7,Asian American Literature,,I-108,E5550001,true,true,true,true,true,false,false,false,false
+985,Joseph,Won,8,Asian American Literature,,I-108,E5550002,true,true,true,true,true,false,false,false,false
+986,Taylor,Wong,1,Design and Fabrication,,S-ILAB,I5210001,true,true,true,true,true,true,true,false,false
+987,Taylor,Wong,2,Art 9,,A-102,QA910002,true,true,true,true,true,true,false,false,false
+988,Taylor,Wong,2,Art 9,,A-102,QA920002,true,true,true,true,true,false,true,false,false
+989,Taylor,Wong,2,Art 9,,A-102,QA930001,true,true,true,true,true,false,false,true,false
+990,Taylor,Wong,2,Art 9,,A-102,QA940001,true,true,true,true,true,false,false,false,true
+991,Taylor,Wong,6,Ceramics 1,,A-102,A3110004,true,true,true,true,true,true,true,false,false
+992,Taylor,Wong,6,Ceramics 1,,A-102,A3120004,true,true,true,true,true,false,false,true,true
+993,Taylor,Wong,6,Ceramics 2,,A-102,A3210004,true,true,true,true,true,true,true,false,false
+994,Taylor,Wong,6,Ceramics 2,,A-102,A3220004,true,true,true,true,true,false,false,true,true
+995,Taylor,Wong,6,Ceramics 3,,A-102,A3310004,true,true,true,true,true,true,true,false,false
+996,Taylor,Wong,6,Ceramics 3,,A-102,A3320004,true,true,true,true,true,false,false,true,true
+997,Taylor,Wong,7,Design and Fabrication,,S-ILAB,I5220001,true,true,true,true,true,false,false,true,true
+998,Taylor,Wong,8,Design and Fabrication,,S-ILAB,I5210002,true,true,true,true,true,true,true,false,false
+999,Gabriel,Yanagihara,6,Video Game Design 1,,S-314,I5020001,true,true,true,true,true,false,false,true,true
+1000,Gabriel,Yanagihara,8,Video Game Design 1,,S-314,I5010001,true,true,true,true,true,true,true,false,false
+1001,Alan,Yeh,Home Room,Homeroom 8,,C-110,YH230001,true,true,true,true,true,true,true,true,true
+1002,Alan,Yeh,2,Precalculus,,W-212,M7730002,true,true,true,true,true,true,true,true,true
+1003,Alan,Yeh,3,Precalculus,,W-212,M7730003,true,true,true,true,true,true,true,true,true
+1004,Alan,Yeh,4,Precalculus,,W-212,M7730004,true,true,true,true,true,true,true,true,true
+1005,Alan,Yeh,8,Geometry A,,W-212,M4020011,true,true,true,true,true,false,false,true,true
+1006,Alan,Yeh,8,Geometry B,,W-212,M4110008,true,true,true,true,true,true,true,false,false
+1007,Amy,Yonashiro,Home Room,Homeroom 12,,W-213,YH630007,true,true,true,true,true,true,true,true,true
+1008,Amy,Yonashiro,5,AP Calculus AB,,W-213,M9030001,true,true,true,true,true,true,true,true,true
+1009,Amy,Yonashiro,6,AP Calculus AB,,W-213,M9030003,true,true,true,true,true,true,true,true,true
+1010,Amy,Yonashiro,7,Algebra 1A,,W-213,M3010008,true,true,true,true,true,true,true,false,false
+1011,Amy,Yonashiro,7,Algebra 2A,,W-213,M5020007,true,true,true,true,true,false,false,true,true
+1012,Amy,Yonashiro,8,Algebra 1A,,W-213,M3010009,true,true,true,true,true,true,true,false,false
+1013,Amy,Yonashiro,8,Algebra 2A,,W-213,M5020008,true,true,true,true,true,false,false,true,true
+1014,Elsie,Yoshimura,1,Japanese 1B,,I-214,L4130001,true,true,true,true,true,true,true,true,true
+1015,Elsie,Yoshimura,2,Japanese 1B,,I-214,L4130002,true,true,true,true,true,true,true,true,true
+1016,Elsie,Yoshimura,5,AP Japanese Lang. and Culture,,I-214,L9730001,true,true,true,true,true,true,true,true,true
+1017,Elsie,Yoshimura,7,Japanese 1B,,I-214,L4130003,true,true,true,true,true,true,true,true,true
+1018,Michelle,Yoshioka,Home Room,Homeroom 7,,C-205,YH130009,true,true,true,true,true,true,true,true,true
+1019,Michelle,Yoshioka,4,Science 8,,C-205,S2030006,true,true,true,true,true,true,true,true,true
+1020,Michelle,Yoshioka,5,Science 8,,C-205,S2030009,true,true,true,true,true,true,true,true,true
+1021,Michelle,Yoshioka,6,Science 8,,C-205,S2030010,true,true,true,true,true,true,true,true,true
+1022,Michelle,Yoshioka,7,Science 7,,C-205,S1030008,true,true,true,true,true,true,true,true,true
+1023,Michelle,Yoshioka,8,Science 7,,C-210,S1030009,true,true,true,true,true,true,true,true,true
+1024,Nathan,Zee,Home Room,Homeroom 10,,I-104,YH430007,true,true,true,true,true,true,true,true,true
+1025,Nathan,Zee,2,English 10 Honors,,I-104,E4330001,true,true,true,true,true,true,true,true,true
+1026,Nathan,Zee,3,Study Hall - Q1,,I-104,SH010003,true,true,true,true,true,true,true,false,false
+1027,Nathan,Zee,3,Study Hall - Q2,,I-104,SH020003,true,true,true,true,true,false,false,true,true
+1028,Nathan,Zee,3,Study Hall,,I-104,SH130002,true,true,true,true,true,true,true,true,true
+1029,Nathan,Zee,3,Study Hall,,I-104,SH230002,true,true,true,true,true,true,true,true,true
+1030,Nathan,Zee,4,American Literature,,I-104,E6120004,true,true,true,true,true,false,false,true,true
+1031,Nathan,Zee,5,American Literature,,I-104,E6110005,true,true,true,true,true,true,true,false,false
+1032,Nathan,Zee,7,English 10,,I-104,E4030009,true,true,true,true,true,true,true,true,true
+1033,Nathan,Zee,8,English 10,,I-104,E4030010,true,true,true,true,true,true,true,true,true
