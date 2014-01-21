@@ -1,28 +1,25 @@
-require 'csv'
+require 'json'
+
 module ScheduleParser
-  def parse_schedule data_file
-    options = { col_sep: "\t",
-                quote_char: "~" }
-    parsed_file = CSV.read(data_file, options)
-    parsed_file.each_with_index do |line, i|
-      if block_given?
-        stop = yield(line, i)
-      end
-      break if stop
-    end 
+  def hash_schedule data_file
+    JSON.parse(File.read(data_file));
   end
 
-  def hash_schedule data_file
-    schedule = []
-    options = { headers: true, 
-                header_converters: :symbol,
-                converters: :all,
-                col_sep: "\t",
-                quote_char: "~"
-              }
-    CSV.foreach(data_file, options) do |row|
-      schedule << Hash[row.headers[0..-1].zip(row.fields[0..-1])]
+  def import_schedule data_file
+    hash_schedule(data_file).each do |day_info|
+      # {"id"=>1, 
+      # "day"=>"2013-08-26",
+      # "cycle"=>1,
+      # "title"=>"Special Convocation Schedule"}
+      day = Date.parse(day_info['day'])
+
+      bell_name = day_info['title']
+      cycle_name = day_info['cycle'].to_s
+      bell_cycle = BellCycle.find_or_create_by_bell_and_cycle_names(bell_name, cycle_name)
+      
+      return unless bell_cycle
+
+
     end
-    return schedule
   end
 end

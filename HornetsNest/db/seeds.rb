@@ -9,41 +9,39 @@ def create klass, name
   klass.create(name: name) unless klass.find_by_name(name)
 end
 
-create Bell, BELL_ASSEMBLY_1
-create Bell, BELL_ASSEMBLY_2
-create Bell, BELL_ASSEMBLY_3
-create Bell, BELL_BASIC
-create Bell, BELL_CHAPEL
-create Bell, BELL_EXTENDED_1_1357
-create Bell, BELL_EXTENDED_1_2468
-create Bell, BELL_EXTENDED_2_7153
-create Bell, BELL_EXTENDED_2_8264
-create Bell, BELL_EXTENDED_3_3751
-create Bell, BELL_EXTENDED_3_4862
-create Bell, BELL_SPECIAL_CONVOCATION
-create Bell, BELL_SPECIAL_FAIR_DAY
-create Bell, BELL_SPECIAL_MAY_DAY
-create Bell, BELL_VARIETY_ATHLETIC_ASSEMBLY
-create Bell, BELL_CHAPEL_MOVING_UP
+Bell.find_or_create_by_name BELL_ASSEMBLY_1
+Bell.find_or_create_by_name BELL_ASSEMBLY_2
+Bell.find_or_create_by_name BELL_ASSEMBLY_3
+Bell.find_or_create_by_name BELL_BASIC
+Bell.find_or_create_by_name BELL_CHAPEL
+Bell.find_or_create_by_name BELL_EXTENDED_1_1357
+Bell.find_or_create_by_name BELL_EXTENDED_1_2468
+Bell.find_or_create_by_name BELL_EXTENDED_2_7153
+Bell.find_or_create_by_name BELL_EXTENDED_2_8264
+Bell.find_or_create_by_name BELL_EXTENDED_3_3751
+Bell.find_or_create_by_name BELL_EXTENDED_3_4862
+Bell.find_or_create_by_name BELL_SPECIAL_CONVOCATION
+Bell.find_or_create_by_name BELL_SPECIAL_FAIR_DAY
+Bell.find_or_create_by_name BELL_SPECIAL_MAY_DAY
+Bell.find_or_create_by_name BELL_VARIETY_ATHLETIC_ASSEMBLY
+Bell.find_or_create_by_name BELL_CHAPEL_MOVING_UP
 
-create Cycle, CYCLE_1
-create Cycle, CYCLE_3
-create Cycle, CYCLE_7
+Cycle.find_or_create_by_name CYCLE_1
+Cycle.find_or_create_by_name CYCLE_3
+Cycle.find_or_create_by_name CYCLE_7
 
-create Period, PERIOD_HOME_ROOM
-create Period, PERIOD_1
-create Period, PERIOD_2
-create Period, PERIOD_3
-create Period, PERIOD_4
-create Period, PERIOD_5
-create Period, PERIOD_6
-create Period, PERIOD_7
-create Period, PERIOD_8
-create Period, PERIOD_ASSEMBLY
-create Period, PERIOD_CHAPEL
-create Period, PERIOD_LUNCH
-create Period, PERIOD_MEETING
-create Period, PERIOD_CONVOCATION
-create Period, PERIOD_CEREMONY
-
-
+Period.find_or_create_by_name PERIOD_HOME_ROOM
+Period.find_or_create_by_name PERIOD_1
+Period.find_or_create_by_name PERIOD_2
+Period.find_or_create_by_name PERIOD_3
+Period.find_or_create_by_name PERIOD_4
+Period.find_or_create_by_name PERIOD_5
+Period.find_or_create_by_name PERIOD_6
+Period.find_or_create_by_name PERIOD_7
+Period.find_or_create_by_name PERIOD_8
+Period.find_or_create_by_name PERIOD_ASSEMBLY
+Period.find_or_create_by_name PERIOD_CHAPEL
+Period.find_or_create_by_name PERIOD_LUNCH
+Period.find_or_create_by_name PERIOD_MEETING
+Period.find_or_create_by_name PERIOD_CONVOCATION
+Period.find_or_create_by_name PERIOD_CEREMONY
