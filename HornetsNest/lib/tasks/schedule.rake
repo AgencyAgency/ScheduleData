@@ -12,9 +12,14 @@ namespace :io do
     p hash_schedule(DATA_FILE).first
   end
 
-  desc "Import schedule."
-  task :import_schedule => :environment do
-    import_schedule(DATA_FILE)
+  desc "Import school days into schedule."
+  task :import_school_days => :environment do
+    import_school_days(DATA_FILE)
+  end
+
+  desc "Import period times into schedule."
+  task :import_period_times => :environment do
+    import_period_times
   end
 
 end
