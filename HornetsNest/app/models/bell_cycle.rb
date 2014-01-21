@@ -14,9 +14,9 @@ class BellCycle < ActiveRecord::Base
 
       bell_cycle = nil
       if match.blank?
-        bell_cycle = BellCycle.create(bell: bell, cycle: cycle)
+        bell_cycle = create(bell: bell, cycle: cycle)
       elsif match.size > 1
-        raise "Error! Found too many BellCycles (#{match.size}) for #{bell.name} : #{cycle.name} -> #{match}"
+        raise "Error! Found too many bell cycles (#{match.size}) for #{bell.name} : #{cycle.name} -> #{match}"
       else
         bell_cycle = match.first
       end

@@ -11,15 +11,10 @@ module ScheduleParser
       # "day"=>"2013-08-26",
       # "cycle"=>1,
       # "title"=>"Special Convocation Schedule"}
-      day = Date.parse(day_info['day'])
-
       bell_name = day_info['title']
       cycle_name = day_info['cycle'].to_s
-      bell_cycle = BellCycle.find_or_create_by_bell_and_cycle_names(bell_name, cycle_name)
-      
-      return unless bell_cycle
-
-
+      string_day = day_info['day']
+      SchoolDay.find_or_create_by_bell_and_cycle_names_and_day bell_name, cycle_name, string_day
     end
   end
 end
